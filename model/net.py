@@ -4,7 +4,7 @@ from torch.autograd import Variable
 
 
 class LSTMClassifier(nn.Module):
-    def __init__(self, batch_size, output_size, hidden_size, vocab_size, n_layers, embedding_dim,
+    def __init__(self, batch_size, output_size, hidden_size, vocab_size, n_layers, embedding_dim, device,
                  dropout=0.7, bidirectional=False, weights=None):
         super(LSTMClassifier, self).__init__()
 
@@ -15,6 +15,7 @@ class LSTMClassifier(nn.Module):
         self.embedding_dim = embedding_dim
         self.bidirectional = bidirectional
         self.n_layers = n_layers
+        self.device = device
 
         self.embeddings = nn.Embedding(vocab_size, embedding_dim)
         self.dropout = nn.Dropout(dropout)
@@ -29,11 +30,15 @@ class LSTMClassifier(nn.Module):
         inputs = self.embeddings(input_sentence)
 
         if self.bidirectional:
-            h_0 = Variable(torch.zeros(2 * self.n_layers, self.batch_size, self.hidden_size)).cuda()
-            c_0 = Variable(torch.zeros(2 * self.n_layers, self.batch_size, self.hidden_size)).cuda()
+            h_0 = Variable(torch.ones(2 * self.n_layers, self.batch_size, self.hidden_size), requires_grad=True).to(
+                self.device)
+            c_0 = Variable(torch.ones(2 * self.n_layers, self.batch_size, self.hidden_size), requires_grad=True).to(
+                self.device)
         else:
-            h_0 = Variable(torch.zeros(self.n_layers, self.batch_size, self.hidden_size)).cuda()
-            c_0 = Variable(torch.zeros(self.n_layers, self.batch_size, self.hidden_size)).cuda()
+            h_0 = Variable(torch.oness(self.n_layers, self.batch_size, self.hidden_size), requires_grad=True).to(
+                self.device)
+            c_0 = Variable(torch.oness(self.n_layers, self.batch_size, self.hidden_size), requires_grad=True).to(
+                self.device)
 
         outputs, (final_hidden_state, final_cell_state) = self.lstm(inputs, (h_0, c_0))
         final_outputs = self.fc(self.dropout(final_hidden_state[-1]))
