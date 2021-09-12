@@ -16,28 +16,6 @@ def convert_label_to_idx(labels, label2idx):
     return
 
 
-def evaluate(model, data_loader, metrics, device):
-    loss = 0
-    if model.training:
-        model.eval()
-
-    summary = {metric: 0 for metric in metrics}
-
-    for step, mb in tqdm(enumerate(data_loader), desc='steps', total=len(data_loader)):
-        x_mb, y_mb = map(lambda elm: elm.to(device), mb)
-
-        with torch.no_grad():
-            y_hat_mb = model(x_mb)
-
-            for metric in metrics:
-                summary[metric] += metrics[metric](y_hat_mb, y_mb).item() * y_mb.size()[0]
-    else:
-        for metric in metrics:
-            summary[metric] /= len(data_loader.dataset)
-
-    return summary
-
-
 def clip_gradient(model, clip_value):
     params = list(filter(lambda p: p.grad is not None, model.parameters()))
     for p in params:
@@ -131,4 +109,4 @@ class SummaryManager:
 
     @property
     def summary(self):
-        return self._summary
+        return self._summary_summary
