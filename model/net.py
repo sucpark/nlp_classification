@@ -4,8 +4,8 @@ from torch.autograd import Variable
 
 
 class LSTMClassifier(nn.Module):
-    def __init__(self, batch_size, output_size, hidden_size, vocab_size, n_layers, embedding_dim, bidirectional=False,
-                 weights=None):
+    def __init__(self, batch_size, output_size, hidden_size, vocab_size, n_layers, embedding_dim,
+                 dropout=0.7, bidirectional=False, weights=None):
         super(LSTMClassifier, self).__init__()
 
         self.batch_size = batch_size
@@ -17,6 +17,7 @@ class LSTMClassifier(nn.Module):
         self.n_layers = n_layers
 
         self.embeddings = nn.Embedding(vocab_size, embedding_dim)
+        self.dropout = nn.Dropout(dropout)
         if weights is not None:
             assert weights.shape == (vocab_size, embedding_dim), "The shape of embedding matrix is not matched"
             self.embeddings.load_state_dict({'weight': weights})
@@ -35,6 +36,6 @@ class LSTMClassifier(nn.Module):
             c_0 = Variable(torch.zeros(self.n_layers, self.batch_size, self.hidden_size)).cuda()
 
         outputs, (final_hidden_state, final_cell_state) = self.lstm(inputs, (h_0, c_0))
-        final_outputs = self.fc(final_hidden_state[-1])
+        final_outputs = self.fc(self.dropout(final_hidden_state[-1]))
 
         return final_outputs
