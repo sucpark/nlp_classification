@@ -16,8 +16,10 @@ class LSTMClassifier(nn.Module):
         self.bidirectional = bidirectional
         self.n_layers = n_layers
 
-        self.embeddings = nn.Embedding(vocab_size, embedding_dim, padding_idx=0)
-        # self.embeddings.weight = nn.Parameter(weights, requires_grad=True, )
+        self.embeddings = nn.Embedding(vocab_size, embedding_dim)
+        if weights is not None:
+            assert weights.shape == (vocab_size, embedding_dim), "The shape of embedding matrix is not matched"
+            self.embeddings.load_state_dict({'weight': weights})
 
         self.lstm = nn.LSTM(embedding_dim, hidden_size, n_layers, batch_first=True, bidirectional=self.bidirectional)
         self.fc = nn.Linear(self.hidden_size, output_size)
