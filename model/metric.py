@@ -5,6 +5,7 @@ from tqdm import tqdm
 
 
 def evaluate(model, data_loader, metrics, device):
+    
     if model.training:
         model.eval()
 

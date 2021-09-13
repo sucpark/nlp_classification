@@ -17,7 +17,7 @@ class LSTMClassifier(nn.Module):
         self.n_layers = n_layers
         self.device = device
 
-        self.embeddings = nn.Embedding(vocab_size, embedding_dim)
+        self.embeddings = nn.Embedding(vocab_size, embedding_dim, padding_idx = 0)
         self.dropout = nn.Dropout(dropout)
         if weights is not None:
             assert weights.shape == (vocab_size, embedding_dim), "The shape of embedding matrix is not matched"
