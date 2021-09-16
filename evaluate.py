@@ -5,7 +5,7 @@ from model.metric import predicate
 from model.data import DAdataset
 from model.net import LSTMClassifier
 from model.utils import sent_tokenize, stemming, preprocess_text
-from torch.utils.data import DataLoader
+import torch.utils.data
 from torch.utils.tensorboard import SummaryWriter
 
 parser = argparse.ArgumentParser(description="Evaluating nlp classification model")
@@ -18,7 +18,7 @@ parser_for_training.add_argument('--max_len', default=256, type=int)
 parser_for_training.add_argument('--learning_rate', dest='lr', default=1e-5, type=float)
 parser_for_training.add_argument('--embedding_dim', default=128, type=int)
 parser_for_training.add_argument('--hidden_size', default=256, type=int)
-parser_for_training.add_argument('--layer_size', dest='n_layers', default=1, type=int)
+parser_for_training.add_argument('--layer_size', dest='n_layers', default=2, type=int)
 
 if __name__ == "__main__":
     args = parser.parse_args()
@@ -41,7 +41,7 @@ if __name__ == "__main__":
     output_size = len(label2idx)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    model = LSTMClassifier(batch_size, output_size, args.hidden_size, vocab_size, args.n_layers,
+    model = LSTMClassifier(output_size, args.hidden_size, vocab_size, args.n_layers,
                            args.embedding_dim, device, bidirectional=True)
     model.to(device)
 
@@ -59,7 +59,7 @@ if __name__ == "__main__":
     x_test = x_test.apply(preprocess_text, processing_function_list=text_preprocess_pipeline)
     x_test = list(convert_token_to_idx(x_test, token2idx))
     test_ds = DAdataset(x_test, y_fake)
-    test_dl = DataLoader(test_ds, batch_size=1, collate_fn=test_ds.collate_fn)
+    test_dl = torch.utils.data.DataLoader(test_ds, batch_size=1, collate_fn=test_ds.collate_fn)
     predicates = predicate(model, test_dl, device)
 
     y_pred = [idx2label[p] for p in predicates]

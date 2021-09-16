@@ -22,7 +22,7 @@ parser_for_training.add_argument('--max_len', default=256, type=int)
 parser_for_training.add_argument('--learning_rate', dest='lr', default=1e-5, type=float)
 parser_for_training.add_argument('--embedding_dim', default=128, type=int)
 parser_for_training.add_argument('--hidden_size', default=256, type=int)
-parser_for_training.add_argument('--layer_size', dest='n_layers', default=1, type=int)
+parser_for_training.add_argument('--layer_size', dest='n_layers', default=2, type=int)
 parser_for_training.add_argument('--dropout', default=0.5, type=float)
 parser_for_training.add_argument('--summary_step', default=10000, type=int)
 
@@ -74,7 +74,7 @@ if __name__ == "__main__":
     if device.type == 'cuda':
         torch.cuda.empty_cache()
 
-    model = LSTMClassifier(args.n_batch, output_size, args.hidden_size, vocab_size, args.n_layers,
+    model = LSTMClassifier(output_size, args.hidden_size, vocab_size, args.n_layers,
                            args.embedding_dim, device, dropout=args.dropout, bidirectional=True)
     model.to(device)
 
