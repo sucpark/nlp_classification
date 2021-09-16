@@ -2,7 +2,7 @@ import json
 import torch
 from pathlib import Path
 from typing import Union
-import matplotlib.pyplot as plt
+
 
 def convert_token_to_idx(tokens, token2idx):
     for token in tokens:

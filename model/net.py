@@ -31,12 +31,19 @@ class LSTMClassifier(nn.Module):
         return h_0, c_0
 
     def forward(self, input_sentence):
+        inputs_len = torch.tensor(list(map(sum, input_sentence != 0)))
         inputs = self.embeddings(input_sentence)
         batch_size = inputs.shape[0]
         hidden = self.init_hidden(batch_size)
-        _, (final_hidden, final_cell) = self.lstm(inputs, hidden)
+        inputs_packed = pack_padded_sequence(inputs, inputs_len, batch_first=True, enforce_sorted=False)
+        output_packed, (final_hidden, final_cell) = self.lstm(inputs_packed, hidden)
 
+        # output_padded, outputs_len = pad_packed_sequence(output_packed, batch_first=True)
+        # output_forward = output_padded[range(len(output_padded)), outputs_len-1, :self.hidden_size*self.n_direction]
+        # output_backward = output_padded[:, 0, self.hidden_size*self.n_direction:]
+        # output = torch.cat((output_forward, output_backward), dim=1)
         output = torch.cat((final_hidden[-2, :, :], final_hidden[-1, :, :]), dim=1)
+
         output = self.relu(output)
         fc1 = self.fc1(output)
         fc1 = self.dropout(fc1)

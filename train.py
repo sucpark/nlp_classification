@@ -1,6 +1,7 @@
 import os
 import argparse
 import pandas as pd
+import matplotlib.pyplot as plt
 from tqdm.auto import tqdm
 from utils import *
 from model.metric import evaluate, acc, LSR
@@ -25,6 +26,7 @@ parser_for_training.add_argument('--hidden_size', default=256, type=int)
 parser_for_training.add_argument('--layer_size', dest='n_layers', default=2, type=int)
 parser_for_training.add_argument('--dropout', default=0.5, type=float)
 parser_for_training.add_argument('--summary_step', default=10000, type=int)
+parser_for_training.add_argument('--save_pig', default=False, type=bool)
 
 if __name__ == "__main__":
     args = parser.parse_args()
@@ -145,29 +147,29 @@ if __name__ == "__main__":
                 summary_manager.save('summary.json')
                 checkpoint_manager.save_checkpoint(state, 'best.tar')
                 best_val_loss = val_loss
+    if args.save_pig:
+        best_point = valid_losses.index(min(valid_losses)) + 1
+        fig = plt.figure(figsize=(10, 8))
+        plt.plot(range(1, len(train_losses) + 1), train_losses, label='Training Loss')
+        plt.plot(range(1, len(valid_losses) + 1), valid_losses, label='Validation Loss')
+        plt.axvline(best_point, linestyle='dotted', color='r', label='Best Model Checkpoint')
+        plt.title('Loss Curve')
+        plt.xlabel('epochs')
+        plt.ylabel('loss')
+        plt.grid(True)
+        plt.legend()
+        plt.tight_layout()
+        fig.savefig(f'{save_dir}/loss_plot.png', bbox_inches='tight')
 
-    best_point = valid_losses.index(min(valid_losses)) + 1
-    fig = plt.figure(figsize=(10, 8))
-    plt.plot(range(1, len(train_losses) + 1), train_losses, label='Training Loss')
-    plt.plot(range(1, len(valid_losses) + 1), valid_losses, label='Validation Loss')
-    plt.axvline(best_point, linestyle='dotted', color='r', label='Best Model Checkpoint')
-    plt.title('Loss Curve')
-    plt.xlabel('epochs')
-    plt.ylabel('loss')
-    plt.grid(True)
-    plt.legend()
-    plt.tight_layout()
-    fig.savefig(f'{save_dir}/loss_plot.png', bbox_inches='tight')
-
-    fig = plt.figure(figsize=(10, 8))
-    plt.plot(range(1, len(train_acc) + 1), train_acc, label='Training Accuracy')
-    plt.plot(range(1, len(valid_acc) + 1), valid_acc, label='Validation Accuracy')
-    plt.axvline(best_point, linestyle='--', color='r', label='Best Model Checkpoint')
-    plt.title('Accuracy Plot')
-    plt.xlabel('epochs')
-    plt.ylabel('accuracy')
-    plt.grid(True)
-    plt.legend()
-    plt.tight_layout()
-    fig.savefig(f'{save_dir}/accuracy_plot.png', bbox_inches='tight')
+        fig = plt.figure(figsize=(10, 8))
+        plt.plot(range(1, len(train_acc) + 1), train_acc, label='Training Accuracy')
+        plt.plot(range(1, len(valid_acc) + 1), valid_acc, label='Validation Accuracy')
+        plt.axvline(best_point, linestyle='--', color='r', label='Best Model Checkpoint')
+        plt.title('Accuracy Plot')
+        plt.xlabel('epochs')
+        plt.ylabel('accuracy')
+        plt.grid(True)
+        plt.legend()
+        plt.tight_layout()
+        fig.savefig(f'{save_dir}/accuracy_plot.png', bbox_inches='tight')
 

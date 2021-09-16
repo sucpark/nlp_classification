@@ -4,7 +4,7 @@ from typing import List, Optional, Callable
 
 
 def remove_punct(text):
-    return ("".join([ch for ch in text if ch not in st.punctuation]))
+    return "".join([ch for ch in text if ch not in st.punctuation])
 
 
 def sent_tokenize(text):
