@@ -26,7 +26,7 @@ parser_for_training.add_argument('--hidden_size', default=256, type=int)
 parser_for_training.add_argument('--layer_size', dest='n_layers', default=2, type=int)
 parser_for_training.add_argument('--dropout', default=0.5, type=float)
 parser_for_training.add_argument('--summary_step', default=10000, type=int)
-parser_for_training.add_argument('--save_pig', default=False, type=bool)
+parser_for_training.add_argument('--save_fig', default=False, type=bool)
 
 if __name__ == "__main__":
     args = parser.parse_args()
@@ -147,7 +147,8 @@ if __name__ == "__main__":
                 summary_manager.save('summary.json')
                 checkpoint_manager.save_checkpoint(state, 'best.tar')
                 best_val_loss = val_loss
-    if args.save_pig:
+
+    if args.save_fig:
         best_point = valid_losses.index(min(valid_losses)) + 1
         fig = plt.figure(figsize=(10, 8))
         plt.plot(range(1, len(train_losses) + 1), train_losses, label='Training Loss')
