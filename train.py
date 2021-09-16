@@ -19,12 +19,12 @@ parser.add_argument('--data_name', default='SDAC')
 parser_for_training = parser.add_argument_group(title='Training')
 parser_for_training.add_argument('--epoch', default=100, type=int)
 parser_for_training.add_argument('--batch_size', dest='n_batch', default=64, type=int)
-parser_for_training.add_argument('--max_len', default=256, type=int)
+# parser_for_training.add_argument('--max_len', default=256, type=int)
 parser_for_training.add_argument('--learning_rate', dest='lr', default=1e-5, type=float)
-parser_for_training.add_argument('--embedding_dim', default=128, type=int)
-parser_for_training.add_argument('--hidden_size', default=256, type=int)
+parser_for_training.add_argument('--embedding_dim', default=512, type=int)
+parser_for_training.add_argument('--hidden_size', default=512, type=int)
 parser_for_training.add_argument('--layer_size', dest='n_layers', default=2, type=int)
-parser_for_training.add_argument('--dropout', default=0.5, type=float)
+parser_for_training.add_argument('--dropout', default=0.3, type=float)
 parser_for_training.add_argument('--summary_step', default=10000, type=int)
 parser_for_training.add_argument('--save_fig', default=False, type=bool)
 
@@ -74,6 +74,7 @@ if __name__ == "__main__":
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
     if device.type == 'cuda':
+        print('GPU is available')
         torch.cuda.empty_cache()
 
     model = LSTMClassifier(output_size, args.hidden_size, vocab_size, args.n_layers,
@@ -115,8 +116,7 @@ if __name__ == "__main__":
                 val_loss = evaluate(model, val_dl, {'loss': loss_fn}, device)['loss']
                 writer.add_scalars('loss', {'train': tr_loss / (step + 1), 'val': val_loss}, epoch * len(tr_dl) + step)
                 tqdm.write('global_Step: {:3}, tr_loss: {:3f}, val_loss: {:3f}'.format(epoch * len(tr_dl) + step,
-                                                                                       tr_loss / (step + 1),
-                                                                                       val_loss))
+                                                                                       tr_loss / (step + 1), val_loss))
                 model.train()
 
         else:
@@ -149,11 +149,11 @@ if __name__ == "__main__":
                 best_val_loss = val_loss
 
     if args.save_fig:
-        best_point = valid_losses.index(min(valid_losses)) + 1
+        best_epoch = valid_losses.index(min(valid_losses)) + 1
         fig = plt.figure(figsize=(10, 8))
         plt.plot(range(1, len(train_losses) + 1), train_losses, label='Training Loss')
         plt.plot(range(1, len(valid_losses) + 1), valid_losses, label='Validation Loss')
-        plt.axvline(best_point, linestyle='dotted', color='r', label='Best Model Checkpoint')
+        plt.axvline(best_epoch, linestyle='dotted', color='r', label='Best Model Checkpoint')
         plt.title('Loss Curve')
         plt.xlabel('epochs')
         plt.ylabel('loss')
@@ -165,7 +165,7 @@ if __name__ == "__main__":
         fig = plt.figure(figsize=(10, 8))
         plt.plot(range(1, len(train_acc) + 1), train_acc, label='Training Accuracy')
         plt.plot(range(1, len(valid_acc) + 1), valid_acc, label='Validation Accuracy')
-        plt.axvline(best_point, linestyle='--', color='r', label='Best Model Checkpoint')
+        plt.axvline(best_epoch, linestyle='--', color='r', label='Best Model Checkpoint')
         plt.title('Accuracy Plot')
         plt.xlabel('epochs')
         plt.ylabel('accuracy')
