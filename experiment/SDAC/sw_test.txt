@@ -1,24 +1,24 @@
-A|Okay, uh,|%
-A|could you tell me what you think contributes most to, uh, air pollution?|qy
-B|Well, it's hard to say.|sv
-B|I mean, while it's certainly the case that things like automobiles and factories, uh, pollute a lot, uh, if you look at how much pollution is say kicked up by an active volcano, uh, it's certainly less than clear that anything man can do in this sort of scale of things has much effect at all.|sd
-B|What do you think?|qy
-A|Um, well, you talked about, uh, volcanos.|sd
+A|Okay, uh,|bk
+A|could you tell me what you think contributes most to, uh, air pollution?|qw
+B|Well, it's hard to say.|sd
+B|I mean, while it's certainly the case that things like automobiles and factories, uh, pollute a lot, uh, if you look at how much pollution is say kicked up by an active volcano, uh, it's certainly less than clear that anything man can do in this sort of scale of things has much effect at all.|sv
+B|What do you think?|qo
+A|Um, well, you talked about, uh, volcanos.|fc
 A|I'm not sure how many active volcanos there are now, and, and what the amount of material that they do, uh, put into the atmosphere.|sd
 A|I think probably the greatest cause is, uh, vehicles, especially around cities.|sv
 B|Uh-huh.|b
 A|Um, uh, do you live right in the city itself?|qy
-B|No,|%
+B|No,|b
 B|I'm more out in the suburbs,|sd
 B|but I certainly work near a city.|sd
-A|Okay,|%
+A|Okay,|b
 A|so Can you notice,|%
-B|How about you?|qy
-A|well it's, it's,|%
+B|How about you?|qo
+A|well it's, it's,|sd
 A|I live in a rural area.|sd
 B|Uh-huh.|b
 A|It's mainly farms and, uh, no heavy industry.|sd
-A|Attleboro, itself,|%
+A|Attleboro, itself,|sd
 A|I live in Rhode Island.|sd
 B|Oh, I see.|b
 A|And, it's in the north,|sd
@@ -39,26 +39,26 @@ A|And, it seems like, uh, we're catching all that residue.|sd
 A|I'm not sure if it's kerosene or what that's dropping.|sd
 A|But, other than that, you know, we don't have the, unless we're catching it from the midwest, the emissions. You know from the power plants. Um.|sd
 B|Yeah.|b
-B|You mean like from the coal.|sd
+B|You mean like from the coal.|sv
 A|Yeah,|b
 A|yeah,|b
-A|we generate,|%
+A|we generate,|sd
 A|one of our, our biggest electrical plants in Rhode Island uses coal to, uh, generate electricity.|sd
-B|Um,|%
+B|Um,|qo
 A|Um, there doesn't seem to be much emission from them,|sd
 A|but I'm not sure about the rest of the country.|sd
 B|Yeah,|b
 B|I notice locally a major problem is Kodak.|sd
-B|Um, it's interesting|sd
+B|Um, it's interesting|ba
 B|because in order to, uh, keep with the E P A standards which, which tend to be visible, uh, what's coming out of your smokestack, they do all their emissions at night.|sd
 B|Uh, so people get up,|sd
-A|Okay,|%
+A|Okay,|b
 A|well, is that right?|qy
 B|Yeah,|b
 B|people get up in the morning in that neighborhood|sd
 B|and they've got this black ash on their cars, which, you know, seems to be,|sd
 A|Yeah,|b
-A|surprise, surprise.|sd
+A|surprise, surprise.|ba
 B|Yeah,|b
 B|I mean, I really think that if the E P A had anything on the ball they'd go in there with a few phosphorous grenades, light up the sky, photograph the emissions at that point, and, uh, you know,|sd
 A|Yeah.|b
@@ -70,28 +70,28 @@ B|Right.|b
 B|Uh-huh.|b
 A|and, they do that at night too, because, employees been complaining that the cars have been pitted, and, you know, spots all over them.|sd
 B|Right.|b
-B|Yeah,|b
+B|Yeah,|qo
 B|yeah.|b
 A|So, you're right,|%
 A|they could do something about, about that, I guess.|sd
 B|Yeah.|b
-B|That seems a little ridiculous.|sd
-A|How are your, uh, your lakes,|sd
+B|That seems a little ridiculous.|sv
+A|How are your, uh, your lakes,|qw
 A|and, uh,|%
 B|Oh they've been getting cleaner.|sd
 A|They have?|qy
 B|Sure.|b
-B|But, um, yeah,|%
+B|But, um, yeah,|ny
 B|I'm not sure how much the water pollution is, is directly related to the air pollution, other than acid rain,|sd
 B|yeah,|b
-A|Acid rain,|%
+A|Acid rain,|sd
 A|yeah,|b
 A|that's, that's what I was, uh,|sd
 B|I mean the stuff I've read recently in Technology Review basically indicates that acid rain may be a little bit, uh, overstated. That a lot of the die off they've seen in forests may not really be due to acid rain at all.|sd
-B|Um,|%
+B|Um,|sd
 B|I'm not an expert.|sd
 A|Yeah,|b
-A|no.|b
+A|no.|sd
 A|Didn't they just have an article, oh, on, uh,|sd
 A|they were dumping lime.|sd
 B|Up here?|qy
@@ -106,15 +106,15 @@ A|I can't remember where|sd
 A|I, I read that recently somewhere,|sd
 A|and I can't remember where.|sd
 B|Yeah,|b
-B|that's|%
+B|that's|sd
 A|But I, I thought it was up there.|sd
-A|So, that's interesting because New Hampshire, and parts of Vermont, um, they showed pictures of, of extensive tree damage that they attributed to acid rain.|sv
+A|So, that's interesting because New Hampshire, and parts of Vermont, um, they showed pictures of, of extensive tree damage that they attributed to acid rain.|sd
 B|Uh-huh.|b
-B|Um.|b
+B|Um.|sd
 A|Um, you kind of think it's something else then?|qy
-B|Well, that's what the environmentalists were claiming in this article.|sv
-B|So that,|%
-A|Oh, they didn't say, they didn't say what though,|sv
+B|Well, that's what the environmentalists were claiming in this article.|sd
+B|So that,|sd
+A|Oh, they didn't say, they didn't say what though,|sd
 A|they just said they thought it was,|sd
 B|They didn't say what,|sd
 B|they just said they thought acid rain's contribution may be less than was previously suspected. Um, that it may be other natural things at work. Um,|sd
@@ -124,8 +124,8 @@ B|so it's, it's less than clear.|sd
 B|Like I said, I don't remember the article that well.|sd
 A|Yeah,|b
 A|yeah.|b
-B|But, um, I don't know,|%
-B|I mean, what do you think we can, uh, I guess as individuals or as a group, do about, uh, air pollution?|sv
+B|But, um, I don't know,|sd
+B|I mean, what do you think we can, uh, I guess as individuals or as a group, do about, uh, air pollution?|qo
 A|Uh, we can demand, uh, more efficient automobiles for one thing.|sd
 A|I still think that's, that's, uh, one of our major causes of pollutants.|sv
 B|Uh-huh.|b
@@ -136,14 +136,14 @@ A|Yeah,|b
 A|you I think you need a, a vehicle something like, uh, Ralph Nader, Nader's Raiders, or, where, uh, or, uh, uh, A A R P, which has a lot of members. Uh, if you can get those types of groups.|sv
 B|Yeah.|b
 B|Uh-huh.|b
-B|Do you really think that new vehicles though is a big problem.|sv
+B|Do you really think that new vehicles though is a big problem.|qy
 B|I mean, I remember reading an article that said like, it's, uh, the older polluters,|sd
 B|the, the twelve and fifteen year old cars, you know, contribute like ninety percent, of the automobile pollution|sd
-A|Yeah,|b
+A|Yeah,|qo
 B|and the new cars it's hardly is, hardly anything.|sd
 A|Yeah,|b
 A|they're better,|sd
-A|but how about all the trucks and buses that are out there.|sd
+A|but how about all the trucks and buses that are out there.|qw
 A|Uh, when was the last time you saw a truck that didn't belch, smoke, or, uh,|sd
 B|Yeah,|b
 B|but doesn't that just mean they're out of tune.|sd
@@ -151,35 +151,35 @@ A|Uh, I'm not really sure.|sd
 A|You think that, that, that the, uh, the trucking industry is that, uh, incompetent, that they wouldn't, you know,|sv
 A|fuel is, is one of their biggest costs.|sd
 B|Right.|b
-A|So, you would,|%
+A|So, you would,|sd
 B|But diesel engines.|sd
 A|Yeah,|b
 A|diesel engines.|sd
 B|It, you know, it's, it,|%
-B|I mean, they do generate a lot of soot|sd
+B|I mean, they do generate a lot of soot|sv
 B|but that at least, that kind of particulate comes out of the air pretty quickly.|sd
 A|Yeah.|b
 A|Yeah.|b
 A|We could also, uh, push for legislation for, uh, rapid transit systems.|sd
-A|This country seems to be a little behind on that.|sd
+A|This country seems to be a little behind on that.|sv
 B|Yeah.|b
 B|On the other hand most people don't use rapid transit because it's so inconvenient.|sv
-A|Um, yeah,|%
+A|Um, yeah,|b
 A|but only because we got used to, uh, single person, single car, driving.|sd
 B|Uh-huh.|b
-A|A lot of people don't even like to carpool.|sv
+A|A lot of people don't even like to carpool.|sd
 B|Uh-huh.|b
 A|But we could that.|sd
-A|That'll help, pollution, air pollution,|sd
+A|That'll help, pollution, air pollution,|sv
 B|Uh-huh.|b
-A|The, uh, United States and Canada are I guess, is, is, going into, uh, some types of agreements to limit, uh, what's being given out by power plants,|sd
+A|The, uh, United States and Canada are I guess, is, is, going into, uh, some types of agreements to limit, uh, what's being given out by power plants,|sv
 B|Uh-huh.|b
 A|I guess Canada's quite concerned that we're sending a lot of our stuff up there,|sd
 B|Yeah,|b
 B|sure.|b
 A|So that's helping.|sd
-B|Well, what do you think about like a device, a meter right on a tail pipe|sv
-B|and you pay the tax based on how much you polluted?|sd
+B|Well, what do you think about like a device, a meter right on a tail pipe|qw
+B|and you pay the tax based on how much you polluted?|qy
 A|Now that's an idea.|sd
 A|don't say that too loud though because, uh, every city and town will have a meter on your tail pipe generating generating revenue,|sd
 B|Well, it just means if you don't pollute, right, or you pollute very little you don't have to pay any tax|sv
@@ -193,55 +193,55 @@ A|That's a, that's an interesting concept.|sv
 A|Is that your idea?|qy
 B|Yeah,|b
 B|but, uh, you know, it's, uh,|%
-B|I guess the difficulty would be to, that somebody could obviously just take it right off the tail pipe again|sd
-B|so you probably would have to build it right into the muffler or something.|sv
+B|I guess the difficulty would be to, that somebody could obviously just take it right off the tail pipe again|sv
+B|so you probably would have to build it right into the muffler or something.|sd
 A|Well I was going to say,|sd
 A|right.|b
-A|You could put it in, you could, you could, it could be installed like a catalytic converter.|sv
+A|You could put it in, you could, you could, it could be installed like a catalytic converter.|sd
 B|Right.|b
-A|I mean I guess you could take those off too|sd
-A|but,|%
-B|You could take|sd
+A|I mean I guess you could take those off too|sv
+A|but,|sd
+B|You could take|sv
 B|but mufflers would be a little more obvious if you took that off.|sv
 A|Yeah,|b
 A|if you can take a muffler off and only replace,|sd
 A|well not unless it was built into every muffler.|sd
 B|Right.|b
-A|And that's .|sd
+A|And that's .|%
 B|But if you was talking about something which was more or less universal that, uh, busses and any kind of vehicle, had to pay a pollution tax, uh, this would penalize the heavy polluters and not penalize the light polluters,|sd
-A|That's a, that's quite a concept.|sv
-A|You should, uh, pursue that I think, or patent it, you know.|sv
+A|That's a, that's quite a concept.|sd
+A|You should, uh, pursue that I think, or patent it, you know.|sd
 B|Yeah,|b
-B|patent it,|%
-B|that's a good idea.|sd
-A|If you could come up with a device that's the thing.|sv
+B|patent it,|sd
+B|that's a good idea.|sv
+A|If you could come up with a device that's the thing.|sd
 B|Right.|b
-A|But it shouldn't be too hard to do something like that.|sd
-A|But that's a, that's a thought.|sd
-A|No,|%
+A|But it shouldn't be too hard to do something like that.|sv
+A|But that's a, that's a thought.|%
+A|No,|qy
 B|Uh-huh.|b
-A|you're right|b
-A|and that will solve, uh, a lot of problems.|sd
+A|you're right|sd
+A|and that will solve, uh, a lot of problems.|sv
 A|I don't know if you, uh, if you approached the automobile industry if they would be too keen on installing something like that.|sv
 B|Uh-huh.|b
 A|Uh, but you know a proposal to, uh, uh, I guess the proper authorities,|sd
 B|Uh-huh.|b
-A|well you might, uh, generate some|%
+A|well you might, uh, generate some|qy
 B|Yeah,|b
 B|the automobile regulatory agencies or something.|sd
 A|yeah,|b
 A|you might generate some interest in it.|sv
-A|But that's, that's a good idea.|sv
+A|But that's, that's a good idea.|sd
 A|Other than that I'm not sure what, what individuals can do other than like I said get involved through a group or an organization.|sd
 B|Uh-huh.|b
-B|What are your music interests?|qy
+B|What are your music interests?|qw
 A|Uh, just about any kind of music except acid rock|sd
 A|I, I don't care, for acid rock,|sd
 B|Me, too.|sd
 B|Oh.|b
 A|but, uh, I grew up with country and western,|sd
 B|Yeah,|b
-B|I did, too,|%
+B|I did, too,|sd
 A|but, uh,|%
 B|and then,|%
 A|just about any kind of music.|sd
@@ -264,20 +264,20 @@ B|We don't get Channel Two.|sd
 B|My, uh, our cable doesn't,|sd
 A|Oh.|b
 B|I wish we got that what,|sd
-B|but,|%
-A|That is fabulous.|sd
+B|but,|sd
+A|That is fabulous.|qy
 B|Was it?|qy
 B|Well, we don't get Channel Two.|sd
-A|We,|%
-A|Yeah,|b
+A|We,|sd
+A|Yeah,|qo
 A|when he played DANNY BOY it just almost brought, tears to your eyes, because he can make that flute sing.|sd
 B|Oh, really?|b
 A|Yeah,|b
 A|and, uh, it was tremendous.|sd
 B|Now, he, he is a, uh,|sd
-B|actually, I did,|%
+B|actually, I did,|sd
 B|I played flute for, almost ten years|sd
-A|Yeah.|b
+A|Yeah.|qo
 B|and, and, uh, so, I, I, I appreciate his too, his, his|sd
 A|Yeah.|b
 B|he, he, he's from Ireland isn't he?|sd
@@ -310,7 +310,7 @@ B|Do you?|qy
 A|Yeah.|b
 A|I love to just lay back on the couch and, and turn a good, good instrumental got on and just close my eyes and listen.|sd
 B|Yeah,|b
-B|that's, that's nice to do, that is.|sv
+B|that's, that's nice to do, that is.|ba
 B|I've got a, I've got a, I've got a two year old who's now getting,|sd
 B|I'm getting well versed in, in kiddy music|sd
 A|Yeah.|b
@@ -318,14 +318,14 @@ A|I'm, I've never played an instrument in my life,|sd
 A|I've always wanted too,|sd
 B|Yeah.|b
 A|I've always wished my parents had forced me to learn the piano or something,|sd
-B|Yeah|b
+B|Yeah|sd
 A|but, uh,|%
 B|I was one of the forced ones|sd
 A|but I, I'd just love to be able to go to a party or something and sit down at the piano and bang out music|sd
 B|Oh, I could never do that|sd
-A|and,|%
+A|and,|sd
 B|I was never that brave|sd
-B|but, uh, yeah.|%
+B|but, uh, yeah.|b
 A|I guess the closest I've ever come to participating in music is singing in the choir.|sd
 B|Yeah,|b
 B|oh, yeah,|b
@@ -335,7 +335,7 @@ B|I haven't done that in a long time.|sd
 A|Yeah.|b
 B|So, let's see|%
 B|what .|b
-B|Well, what kind of music do you not like?|qy
+B|Well, what kind of music do you not like?|qw
 A|Well, like I say the acid rock,|sd
 A|I just do not|sd
 A|an I don't care for rap music either.|sd
@@ -343,18 +343,18 @@ B|Oh,|b
 B|that's not music|sd
 A|Uh-huh,|b
 A|no.|b
-B|that is not,|%
+B|that is not,|qy
 B|I don't know what that is,|sd
 B|but that's not music|sd
 A|If I can't understand the words I don't want to listen to it.|sd
-B|Well, it's, it's, it's not, it's not music,|sv
+B|Well, it's, it's, it's not, it's not music,|%
 B|it's just, it's just, uh, uh, talking in a beat,|sd
 B|it is just, it's not exciting at all|sd
 A|Yeah.|b
-B|it doesn't, it doesn't give you relaxation,|sd
+B|it doesn't, it doesn't give you relaxation,|sv
 A|Yeah.|b
-B|you can't dance to it,|sd
-B|you can't do anything to it|sd
+B|you can't dance to it,|sv
+B|you can't do anything to it|sv
 A|Right.|b
 A|But, I, and I love, I like orchestra music too. Like the, Boston Pops or, or anything.|sd
 B|Yeah.|b
@@ -362,15 +362,15 @@ B|Yeah.|b
 B|Have you ever been to the, to, to the Dallas Symphony?|qy
 A|Uh-huh.|b
 B|Have you?|qy
-B|Is|%
+B|Is|b
 B|are, are they good?|qy
 A|Yeah.|b
 A|Yeah,|b
-A|they're good.|sd
+A|they're good.|sv
 B|Are they?|qy
 B|I, I have, I have, never been.|sd
 A|And, uh, we went and saw, uh, LES MISERABLES|sd
-B|Oh, really?|b
+B|Oh, really?|bh
 A|oh, the music in that was fantastic.|sd
 B|I, I've heard, I've heard that that is a really,|sd
 A|Yeah.|b
@@ -385,20 +385,20 @@ B|Yeah,|b
 B|that was a real,|sd
 B|Was it?|qy
 A|Yeah,|b
-B|I, I bet it was,|sd
+B|I, I bet it was,|sv
 A|Yeah.|b
 B|I, I really bet it was|sd
-B|Is that the only, uh, musical,|sd
+B|Is that the only, uh, musical,|qy
 B|do you go see a lot of musicals?|qy
 A|Just, just ever so often you know, a real, a real good one like that one|sd
 B|Yeah.|b
 A|and,|%
 B|That, that would be, that would be nice|sv
 A|I went and saw, uh, I think it was, uh, SUGAR BABIES,|sd
-A|that was good,|%
-A|that had good music in it.|sd
+A|that was good,|sd
+A|that had good music in it.|sv
 B|Was it?|qy
-B|How, how,|%
+B|How, how,|b
 B|I can't, I don't know what that's about.|sd
 A|Uh, that was the one with Mickey Rooney|sd
 A|and, uh, oh, what's that real, oh, not real old, my wife she is old too, dancer, uh,|sd
@@ -408,7 +408,7 @@ B|Uh, uh, uh, I think I know who you're oh, I know who you're talking about,|sd
 A|real long legs, and dark hair.|sd
 B|she's got black hair,|sd
 B|Yeah,|b
-B|okay,|%
+B|okay,|qy
 B|I know who your talking about.|sd
 B|I can't think ever her name either.|sd
 A|I can't think of it.|sd
@@ -424,21 +424,21 @@ B|and they, they like, uh, they like the Oak Ridge Boys and the Statler Brothers
 A|Oh, yeah,|b
 A|yeah.|b
 B|and, and, uh, well, my, my, my, my parents,|sd
-A|The Blackwoods.|b
+A|The Blackwoods.|sd
 B|yeah,|b
 B|my husband likes, uh, country music real well|sd
 B|and he, he likes some of the new groups like Shenandoah,|sd
 A|Yeah.|b
 B|and, yeah,|%
 B|he really likes Shenandoah.|sd
-A|Alabama.|b
+A|Alabama.|sd
 B|Yeah,|b
 B|yeah,|b
 B|well, yeah,|b
-B|Alabama,|%
+B|Alabama,|b
 A|Uh,|%
-B|I think, I think they're a bit over exposed|sd
-A|Yeah|b
+B|I think, I think they're a bit over exposed|sv
+A|Yeah|sd
 B|I get kind, of get tired of every other song being Alabama on the, radio.|sd
 A|Yeah,|b
 A|either Alabama or Hank Williams, Junior.|sd
@@ -451,30 +451,30 @@ B|we enjoy watching the country and the Grammies and stuff|sd
 B|but I just, I just don't care for him,|sd
 A|Yeah.|b
 B|I just never have.|sd
-B|I don't,|%
+B|I don't,|sd
 A|I guess probably my favorite all time country and western song or singer is, uh, probably Eddy Arnold.|sd
 B|Is, is it?|qy
 A|Uh-huh.|b
-B|Okay,|%
+B|Okay,|b
 B|I, I think, I, I know who that is,|sd
 B|uh-huh.|b
 B|I think my parents have have, uh, some of his records.|sd
 A|But, uh, I got a, I've got about a hundred and, or had a, uh, some, uh, I sold some of them, I had about a hundred and fifty old seventy-eight R P M records of country and western, songs,|sd
 B|Yeah.|b
-B|Wow.|b
-A|Smiley Burnette, I don't know if you were old enough to remember him him.|sv
+B|Wow.|ba
+A|Smiley Burnette, I don't know if you were old enough to remember him him.|sd
 B|I've heard the name.|sd
 A|He was, uh, played in the old western movies.|sd
 A|He was the sidekick of Gene Autry I believe|sd
 B|Huh.|b
-A|or they,|%
+A|or they,|sd
 A|I think his name in, in the movie was Froggy|sd
-A|and,|%
+A|and,|sd
 B|I've, I've never seen a Gene Autry movie,|sd
 A|had a real raspy voice,|sd
 B|Huh.|b
 A|and, uh,|%
-B|No,|%
+B|No,|aa
 B|I never have|sd
 A|some of those old ones, of course, Bob Wills, Miss Texas Playboys Ernest Tubbs and Red Foley an,|sd
 B|Yeah.|b
@@ -484,13 +484,13 @@ A|Yeah.|b
 A|I took them up here to Collectors Records and was able to get a little money for them|sd
 B|Yeah.|b
 A|but, uh, my mother and dad use to, uh, own a restaurant,|sd
-B|It's hard to,|sd
+B|It's hard to,|sv
 B|Oh, yeah.|b
 A|and he had, uh, they had a, uh, nickelodeon, of course, in the restaurant,|sd
 B|Yeah.|b
 A|and when they would come and change the records the guys would, the guy would give her the old records|sd
 B|Well, that|%
-B|that's neat.|sd
+B|that's neat.|ba
 A|so, that's where I got my,|sd
 B|that would be great if they weren't too worn out, at the time.|sv
 A|Yeah.|b
@@ -498,30 +498,30 @@ A|Of course, there's not a whole lot of market for seventy-eight R P M records.|
 B|Is there not?|qy
 B|You, you'd, well you'd think there would be.|sv
 A|Well, the problem is most of the record players now will not play them because, you have to have that needle, that, uh, particular kind of needle|sv
-B|Well, that's true.|ba
+B|Well, that's true.|aa
 B|Oh, yeah.|b
 A|and, uh, they, just won't play on a modern day, uh phonograph.|sd
-B|Well, that's a shame|sd
+B|Well, that's a shame|sv
 B|because I, I, we go to antique stores a lot|sd
 B|and you see seventy-eights, a, a lot at, at the stores, at record stores,|sd
 A|Yeah.|b
 B|you'd, think there'd be a market for,|sv
 A|Yeah.|b
 B|I'm, I'm sure you could find old players for them|sd
-B|but that would cost a fortune, if you could find them that worked|sd
+B|but that would cost a fortune, if you could find them that worked|qy
 A|Yeah.|b
 A|Yeah.|b
-B|Oh.|b
+B|Oh.|sd
 A|Of course, they, you know, just don't have the quality of records nowadays either because, you, you get that scratchy sound.|sv
-B|No.|b
+B|No.|aa
 B|Uh-huh.|b
 B|Well, those things were big and thick weren't they?|sd
 A|Yeah,|b
 A|yeah.|b
 B|You could kill somebody with them|sd
 A|Yeah,|b
-A|warped real easy.|sd
-B|And the ones you buy,|sd
+A|warped real easy.|sv
+B|And the ones you buy,|%
 B|go out and buy one now|sd
 B|and they're just so thin and, flimsy|sd
 A|Yeah.|b
@@ -532,158 +532,158 @@ B|I, I we buy cassette tapes,|sd
 A|Yeah.|b
 B|and machines will eat them,|sd
 A|Yeah.|b
-B|and so, the best bet, any, these days are compact disk,|sd
+B|and so, the best bet, any, these days are compact disk,|sv
 B|those things are practically indestructible|sd
 A|But, I, I guess, you know, the old country and western music you,|sd
 A|back then when I was a kid, there wasn't that much T V,|sd
-B|Oh, no.|b
+B|Oh, no.|ba
 A|so that's all you had to listen to was the, radio,|sd
-B|Radio.|b
+B|Radio.|sd
 A|and, uh,|%
-B|that's just what, just what you had,|sv
-B|plus,|%
+B|that's just what, just what you had,|qw
+B|plus,|sd
 A|Yeah.|b
 B|I think it was better back then to,|sd
 B|there's too much T V now|sd
 A|Yeah.|b
 B|and the radio is, you know, more exciting, really, than, than television,|sd
 A|Yeah.|b
-B|your imagination|%
+B|your imagination|qy
 A|Yeah.|b
-B|kept|b
-B|and|%
+B|kept|sd
+B|and|sd
 B|it just didn't vegetate your mind like television does|sd
 A|Yeah,|b
 A|I remember mother and dad always turned on the Grand Ole Opera.|sd
 B|Oh, yeah.|b
 A|Yeah.|b
-B|Was it on the radio every week?|sd
+B|Was it on the radio every week?|qy
 A|Yeah.|b
-B|what day, what day was that on,|sd
-B|do you, can you recall.|sv
+B|what day, what day was that on,|qw
+B|do you, can you recall.|qy
 A|Uh, uh, seems like it was on a Friday,|sd
 B|Uh.|b
 A|Friday or,|%
 B|Okay.|b
 A|Okay.|b
-B|Well what do you think about the idea of, uh, kids having to do public service work for a year?|qy
-B|Do you think it's a|sv
-A|Well, I, I think it's a pretty good idea.|sd
+B|Well what do you think about the idea of, uh, kids having to do public service work for a year?|qo
+B|Do you think it's a|qy
+A|Well, I, I think it's a pretty good idea.|sv
 A|I think they should either do that, or, or afford some time to the military, or, or helping elderly people.|sv
 B|Yes,|b
 B|yes,|b
 A|I, I, you know, I think that we have a bunch of elderly folks in the country that could use some help|sd
-A|and I think that before we expend all our young talent overseas and, and helping other countries we ought to perhaps give a little bit of our help to our own folks at home|sd
+A|and I think that before we expend all our young talent overseas and, and helping other countries we ought to perhaps give a little bit of our help to our own folks at home|sv
 A|and I'm not sure that that's not a bad idea|sd
-B|That's true.|b
+B|That's true.|sv
 A|and, or the military for a year or two, wouldn't be bad for,|sd
 B|Yeah.|b
 A|I think it teaches kids how to grow.|sv
-A|How about yourself?|qy
-B|Uh, I agree with you.|sd
+A|How about yourself?|qo
+B|Uh, I agree with you.|aa
 B|Uh, uh, what I'm thinking about is back well, when I was a kid, and much earlier than that, kids were kind of,|sd
-B|you know, the parents kind of pushed them to join, like the Boy Scouts or Girl Scouts|sv
+B|you know, the parents kind of pushed them to join, like the Boy Scouts or Girl Scouts|sd
 B|and they did, do, do do a lot of public service activities,|sd
 B|but these days they're not, uh,|sd
 B|parents aren't encouraging their kids to do things like that.|sv
 B|Because when I was in the Girl Scouts, we did a lot of public service things, because that's just part of, of the scouting, and, you know.|sd
-A|Yeah,|b
-A|I've, I've,|sd
-A|that's really great.|sd
-A|I, I really think that both the Boy Scouts and Girl Scouts is a excellent, two excellent organizations.|sd
-B|They are|sd
-B|but parents,|%
-A|You know, kids seem like when they get ten or twelve years old they fall out of that,|sv
+A|Yeah,|qo
+A|I've, I've,|%
+A|that's really great.|ba
+A|I, I really think that both the Boy Scouts and Girl Scouts is a excellent, two excellent organizations.|sv
+B|They are|qy
+B|but parents,|sd
+A|You know, kids seem like when they get ten or twelve years old they fall out of that,|sd
 B|Yeah,|b
 B|they do.|sd
 A|and they don't follow it at all, you know.|sd
 A|There are very few Scouts go on, and become Eagle Scouts.|sd
-B|Oh, no.|b
+B|Oh, no.|ba
 A|And, and I don't know what the high rank is for the gals|sd
-A|but,|%
-B|I, I, uh,|%
-B|senior.|b
+A|but,|sd
+B|I, I, uh,|sd
+B|senior.|sd
 A|Oh.|b
-A|Senior,|%
+A|Senior,|sd
 A|okay.|b
-A|So, there's not, uh,|%
-B|Oh, they're just not,|sd
+A|So, there's not, uh,|qy
+B|Oh, they're just not,|qy
 B|once they get into junior high it just, not done anymore|sd
-A|Yeah,|b
+A|Yeah,|qo
 A|they, they lose interest.|sd
 A|and then when they young, young adults, there's even less interest there.|sd
 B|Uh-huh.|b
 A|They're more for, I|sd
-B|Me|sd
-A|Not, not,|%
+B|Me|%
+A|Not, not,|sd
 A|yeah.|b
-B|Grab,|%
-B|grab,|%
-B|grab,|%
+B|Grab,|sd
+B|grab,|b
+B|grab,|sd
 B|walk out|sd
 A|Yeah,|b
 A|you're absolutely right|sd
-B|Yeah|b
-A|I think it's a really a good thing.|sd
+B|Yeah|sd
+A|I think it's a really a good thing.|sv
 A|I, I like to see,|sd
 A|of course, there's, you know, third world countries that can use all kind of help|sd
 B|Yeah,|b
 B|but there's a lot that can be done right here in this country, too.|sd
-A|But I think, we ought to start right here at home.|sd
+A|But I think, we ought to start right here at home.|sv
 A|I'm, you know,|%
 B|Yeah,|b
 B|uh, I'm not, I'm not so sure that overseas help, helping overseas would be such a hot idea for, for, uh, a lot of young people.|sd
-A|No,|%
+A|No,|qy
 A|it, it,|%
-B|But, since there is much that needs to be done here.|sd
-A|I think that, yeah, I think that we need to really address what we've done here|sd
+B|But, since there is much that needs to be done here.|sv
+A|I think that, yeah, I think that we need to really address what we've done here|sv
 A|and, and then perhaps even a six month tour overseas that gives them much broader outlook.|sd
 B|Uh-huh.|b
-A|Well, it's been really good.|sv
+A|Well, it's been really good.|sd
 A|We talked about this for a few minutes,|sd
 A|and, uh, hopefully, we'll have other good topic maybe another call someday,|sd
 A|but I, I don't really have too much more to say on this topic, I guess.|sd
-B|No,|%
-B|I, I agree with you|sd
-A|It, we, I guess we both agree that it's a good thing, that they should do sometime.|sd
+B|No,|qy
+B|I, I agree with you|aa
+A|It, we, I guess we both agree that it's a good thing, that they should do sometime.|sv
 B|Yeah.|b
 B|Okay.|b
-A|Well you take care,|%
+A|Well you take care,|qy
 A|and, and, enjoy the day.|sd
-B|You, too.|%
-B|You, too.|%
-A|Thank you, ma'am.|ba
-A|Bye-bye.|b
-B|Bye-bye.|b
+B|You, too.|fc
+B|You, too.|b
+A|Thank you, ma'am.|fc
+A|Bye-bye.|fc
+B|Bye-bye.|fc
 A|Do are you on a regular exercise program right now?|qy
 B|Yes,|b
 B|and I hate it|sd
-B|How about you?|qy
+B|How about you?|qo
 A|Oh, well, I'm kind of off and on.|sd
 B|Off and on|sd
 B|well, I guess I've been kind of off and on|sd
 B|I've, uh, Had some health problems that have led me to, uh,|sd
 A|Right now I'm kind of off.|sd
 B|I'd say more on than off|sd
-A|Okay,|%
-A|what type of exercise do you do?|qy
+A|Okay,|b
+A|what type of exercise do you do?|qw
 B|Uh, I do walking on the treadmill,|sd
 B|and then I do low impact aerobics.|sd
-A|Okay.|b
-A|I guess you don't enjoy that very much.|sd
+A|Okay.|fc
+A|I guess you don't enjoy that very much.|sv
 B|Not, not really.|sd
 A|Do you find that, uh, to be boring?|qy
 B|Yeah,|b
-B|and time consuming,|%
-B|I mean it's not just the exercise that's boring and time consuming,|sd
-B|it's, uh, you know, afterwards, you know,|%
-B|then you have to take a shower and get cleaned up, you know.|sv
+B|and time consuming,|sd
+B|I mean it's not just the exercise that's boring and time consuming,|sv
+B|it's, uh, you know, afterwards, you know,|sd
+B|then you have to take a shower and get cleaned up, you know.|sd
 A|Yeah.|b
 A|Well, I'm trying to get back in shape for softball this spring.|sd
 B|Oh, yeah.|b
-A|But I,|%
-B|Do you go through this, is this something that you go through every year|sv
-A|Yeah,|b
+A|But I,|sd
+B|Do you go through this, is this something that you go through every year|qy
+A|Yeah,|qo
 A|I haven't decided whether, whether I want to play yet or not|sd
 A|I just bought myself a solo flex machine,|sd
 A|I don't know if you've seen those advertised on T V.|sd
@@ -702,7 +702,7 @@ A|Uh-huh,|b
 A|well, that's good.|ba
 A|Yeah,|b
 A|my parents have a treadmill|sd
-A|it's,|%
+A|it's,|sd
 A|when I go visit them, uh, I get on that thing every now and then.|sd
 B|Yeah,|b
 B|it's nice because when the weather's bad you can't, you don't have any excuse.|sv
@@ -712,7 +712,7 @@ A|and it was real nice outside,|sd
 A|had to get out to do something.|sd
 B|Yeah,|b
 B|I can't ride a bike|sd
-B|so.|b
+B|so.|sd
 A|I've been sitting in here in the house all weekend with a cold|sd
 A|so thought I, better, better get outside and do something and not waist the day.|sd
 B|Oh.|b
@@ -722,27 +722,27 @@ B|it's been too nice all weekend.|sd
 A|But, uh, yeah,|%
 A|I need to start jog something again.|sd
 A|I've always of that to be, uh, really one of the best forms of exercise,|sd
-A|but it's terribly boring,|sd
+A|but it's terribly boring,|sv
 A|and so I really don't ever keep a program up consistently.|sd
 B|Have you ever had any injuries from jogging?|qy
-A|No,|%
+A|No,|aa
 A|I never have.|sd
 A|Well, I don't job enough I think to develop any injuries|sd
 A|I usually only go about a mile or two.|sd
-B|I guess it worries me about jogging it's that I hear that it's very hard on your body and, and that, you know, you can end up getting hurt, worse.|sv
+B|I guess it worries me about jogging it's that I hear that it's very hard on your body and, and that, you know, you can end up getting hurt, worse.|sd
 A|Yeah,|b
-A|it's, it's tough on the joints if you jog on concrete, or on asphalt.|sv
+A|it's, it's tough on the joints if you jog on concrete, or on asphalt.|sd
 B|Uh-huh.|b
 A|Suppose to be much better if you find grass, uh, or, or dirt to jog on.|sv
 B|Yeah,|b
 B|that's not quite so so easy.|sd
-A|You have to have the right, type of shoes too,|sd
-A|that's, very important.|sd
+A|You have to have the right, type of shoes too,|sv
+A|that's, very important.|sv
 B|Yeah.|b
 B|Yeah.|b
 B|I found that, true especially from walking on toe and fronts .|sd
 A|But,|%
-A|Yeah,|b
+A|Yeah,|sd
 A|I don't have to buy jogging shoes all to often|sd
 A|my don't get very much use|sd
 B|Well, I guess my breakdown about, they say about every six months.|sd
@@ -760,34 +760,34 @@ B|Yeah,|b
 B|well, don't let it collect dust.|sd
 B|At least exercise while dusting it off|sd
 A|Yeah.|b
-B|well.|b
+B|well.|%
 A|Maybe if I can get interested in playing softball again this string I can, uh, start some type of, uh, regular program.|sd
 B|Yeah,|b
-B|that, that'll be good.|sv
+B|that, that'll be good.|ba
 A|I've always found that, uh, when you write things down and set goals it's a lot easier to keep, uh, keep something going.|sd
 B|Uh-huh.|b
 A|Uh, when I was in high school we had a choice of, uh, taking, uh, physical education courses on exercise,|sd
 A|an, uh, one of those involved a six weeks session on a universal machine, lifting weights and, uh, working out like that.|sd
 B|Oh.|b
 A|And that was very helpful|sd
-A|we kept charts of our progress, and, uh, consistently increased the empty of resistance so you could see how much you improved over the weeks.|sd
+A|we kept charts of our progress, and, uh, consistently increased the empty of resistance so you could see how much you improved over the weeks.|sv
 B|Uh-huh.|b
 A|I found that to be, uh, very helpful.|sd
 B|Are you going to do that?|qy
-A|Uh, I need to,|%
+A|Uh, I need to,|sd
 A|I haven't started yet|sd
 A|but, uh, it's a thought.|sd
 B|Well, that sounds like something good to do then.|sv
-A|Sounds like something I should do.|sd
+A|Sounds like something I should do.|sv
 B|Yeah,|b
 B|nice way to start off this spring. Get back in shape.|sd
-A|How often do you, uh, uh, go out each week on your walking?|qy
-B|Well, I do,|%
+A|How often do you, uh, uh, go out each week on your walking?|qw
+B|Well, I do,|sd
 B|I switch every other day|sd
 B|one day I walk|sd
 B|and one day I do the aerobics.|sd
-A|Okay,|%
-A|how far, about how far do you go walking?|qy
+A|Okay,|b
+A|how far, about how far do you go walking?|qo
 B|Well, I'm trying to get my tolerance now|sd
 B|I just had surgery, um, less then two months ago,|sd
 B|and right now I'm just a little over about a mile and a half,|sd
@@ -796,13 +796,13 @@ B|but I'm trying to workup to three miles.|sd
 A|Well, that's good.|ba
 A|Well they say that walking is just as good if not better then jogging.|sv
 B|Yeah,|b
-A|It,|%
+A|It,|sd
 B|it takes, it's just that it takes longer to get to the same effect.|sv
 A|Sure.|b
 B|Yeah,|b
-B|but.|b
+B|but.|sd
 A|Well, if you keep up with a consistent pace just to, uh, keep the heart rating going, uh,|sv
-B|My walkman broke,|%
+B|My walkman broke,|sd
 A|Yeah.|b
 B|so I'm upset|sd
 B|and I just have to turn to stereo up real loud|sd
@@ -812,29 +812,29 @@ B|Yeah,|b
 B|it is|sd
 B|and this doesn't, you know,|sd
 B|my treadmill has an incline|sd
-B|and, you know, you can get a really good workout on it.|sv
-A|Um, do you go to an aerobics class|sd
+B|and, you know, you can get a really good workout on it.|sd
+A|Um, do you go to an aerobics class|qy
 A|or do you watch, on T V?|qy
-B|No,|%
+B|No,|aa
 B|I, I just do it on T V,|sd
 A|Okay.|b
 B|I have a cassette.|sd
 A|Which, uh, shows do you watch on T V?|qy
 B|Um, it's a, it's a|sd
 B|I use tapes.|sd
-A|Oh, okay,|%
-A|okay,|%
+A|Oh, okay,|b
+A|okay,|b
 A|like a Cathy Smith workout,|sd
-B|Or, or Richard Simmons,|%
-A|or Jane Fonda.|sd
-A|Okay|b
+B|Or, or Richard Simmons,|sd
+A|or Jane Fonda.|%
+A|Okay|sd
 B|Sweating to the oldies|sd
 A|Right.|b
 A|I, every now and then I'll watch E S P N,|sd
 A|I get cable on T V,|sd
 B|Uh-huh.|b
 A|and they have, uh, a couple of shows called basic training,|sd
-A|and, uh, what is the other one called.|sd
+A|and, uh, what is the other one called.|qw
 B|There was one guy I use to watch on E S P N,|sd
 B|I don't know if he's still on any more or not,|sd
 B|I I don't know if I get E S P N or not|sd
@@ -842,7 +842,7 @@ A|Uh-huh.|b
 B|But, uh, one, you know,|%
 B|I use to watch one, watch one on the air,|sd
 B|but that was back,|sd
-A|BODIES IN MOTION that's, that's the name of the one I was thinking of. With Gill.|sv
+A|BODIES IN MOTION that's, that's the name of the one I was thinking of. With Gill.|sd
 B|That's was,|%
 B|yeah.|b
 B|Yeah.|b
@@ -859,8 +859,8 @@ B|But then that was back when, uh, you know, the high impact and,|sd
 A|Yeah,|b
 A|well, they, they do low I pact stuff now,|sd
 B|Do they.|sd
-B|Are|b
-B|yeah|b
+B|Are|qy
+B|yeah|sd
 B|they're still, they're still, he's still doing it then, uh.|sd
 A|Yeah,|b
 A|every morning.|sd
@@ -872,42 +872,42 @@ A|It's, uh, you know,|%
 A|I can't remember offhand what time.|sd
 B|I'll have to check it, check, check, check it back up,|sd
 A|Yeah|b
-B|and, but the thing is everybody always looks so good on that show, at least on|sd
+B|and, but the thing is everybody always looks so good on that show, at least on|sv
 A|Yeah,|b
 A|every now and then.|sd
 B|Not everybody has a picture perfect body.|sd
 A|Uh-huh,|b
-A|well, I found that they, they have just a much better program than the other shows that are on T V.|sv
+A|well, I found that they, they have just a much better program than the other shows that are on T V.|sd
 B|I haven't watch any other ones on T V. watch=watched Just on some of the tapes.|sd
 A|They're on weekdays at eleven o'clock every day. Monday through Friday incase you're interested in that.|sd
-B|Okay,|%
-B|thanks.|b
+B|Okay,|b
+B|thanks.|fc
 A|but, uh, I haven't done so much as, uh, watch the tape that I made.|sd
-B|Now, that's a thought.|sd
+B|Now, that's a thought.|ba
 A|So I'm kind of bad about that myself.|sd
-B|Well, that's thought,|%
+B|Well, that's thought,|ba
 B|I haven't thought about that,|sd
 B|well they're going to beep us pretty soon.|sd
-A|Okay,|%
+A|Okay,|fc
 A|well, I sure enjoyed, to you about exercise and fitness.|sd
-B|Nice talking to you too.|sv
-B|Okay,|%
-B|thanks.|b
-A|So, all right.|sd
-B|Talk to you later.|sv
+B|Nice talking to you too.|fc
+B|Okay,|b
+B|thanks.|fc
+A|So, all right.|b
+B|Talk to you later.|fc
 A|Good night.|sd
-B|Bye.|b
-A|Bye.|b
-B|Uh, well what would you say your opinion is on gun control?|qy
-A|Well, I don't know.|sd
+B|Bye.|fc
+A|Bye.|fc
+B|Uh, well what would you say your opinion is on gun control?|qw
+A|Well, I don't know.|h
 A|I've, I've had mixed emotions, I guess, when I listen to, uh, the radio and, and watch T V about the different, uh, things that are happening.|sd
 A|Uh, I'm against it|sd
 A|but on the same token, uh, I went out and purchased a gun just because I wanted the right to do that|sd
 A|So I, I have a rifle in the house.|sd
 A|Uh, the ammunition is probably so old I'm afraid to use it.|sd
 A|But, uh, I bought it for target practicing and, uh, and also because I wanted a weapon.|sd
-A|Uh, how do you feel about it?|qy
-B|Well, I think, uh, down here in Texas they don't have a waiting period on handguns.|sv
+A|Uh, how do you feel about it?|qo
+B|Well, I think, uh, down here in Texas they don't have a waiting period on handguns.|sd
 A|Huh.|b
 B|And, I think they need that.|sd
 B|Uh, and I do have a, I have a pistol.|sd
@@ -927,47 +927,47 @@ A|takes two weeks for that system to process, uh, your request for, uh, not as a
 A|You have to get a permit from the police station in your local area to do that.|sd
 B|I've never heard of anything like that.|sd
 A|Yeah. Uh,|b
-B|That would be nice.|sd
+B|That would be nice.|sv
 B|But,  you know,|%
 B|the criminals that are going to get their guns one  way or the other.|sv
-A|I  I, I agree.|sd
+A|I  I, I agree.|aa
 A|I think, you know, one of the things that, that, that needs to happen is, uh, to, to stop the impulse buyer from, uh, buying it quickly and, and, uh, maybe putting a week's waiting period or something on it.|sv
-A|But if someone's really determined to, to pick up a firearm you can pick it up any place.|sv
+A|But if someone's really determined to, to pick up a firearm you can pick it up any place.|sd
 B|Yeah|b
 A|And you can get them really cheap.|sd
-B|I know|%
+B|I know|sd
 B|I, I had a waiting period on my pistol because I was down in, uh, Tennessee. And, uh, they had a waiting period|sd
 A|Uh-huh.|b
 B|and, uh, we bought it there.|sd
 B|And,|%
-A|How long was the waiting period out there?|sd
+A|How long was the waiting period out there?|qw
 B|About nine days.|sd
 A|Huh.|b
 A|That wasn't too, too bad.|sd
-B|No.|b
-B|No|b
+B|No.|sd
+B|No|sd
 A|Because if, if you're going to go buy something, uh, uh, of that nature, I think you, you're going to have some idea as to what you're going to do with it.|sv
 A|You're not going to react that quickly.|sv
 A|In other words, you know, you don't have a need to go buy a gun to go shoot it the next day.|sv
 B|somebody wants to do that,|sd
-B|I, I, at times I think they ought to have a waiting period on all firearms.|sd
+B|I, I, at times I think they ought to have a waiting period on all firearms.|sv
 A|Yeah.|b
 A|I do too. Uh, because it doesn't make any difference, uh, uh, whether it's a pistol or a shotgun, I suppose.|sd
 A|They both do the same kind of job.|sd
-B|A shotgun hurts worse than a pistol does.|sd
+B|A shotgun hurts worse than a pistol does.|sv
 A|Uh, yeah.|b
 A|I suppose.|sd
 A|I never got shot with either one.|sd
 A|But I don't know, uh,|sd
-A|I think you could recover from a pistol but not from a shotgun|sd
-B|No,|%
+A|I think you could recover from a pistol but not from a shotgun|sv
+B|No,|qy
 B|a shotgun's got too much of a spread.|sd
 B|Or at  least ours does.|sd
 A|Yeah.|b
 B|Uh, it's, you know,|%
 B|you have a little, uh, thing on the bottom of on top of the barrel where you, you turn it,|sd
 A|Uh-huh.|b
-B|you can make it either tight or as loose as loose can get.|sv
+B|you can make it either tight or as loose as loose can get.|sd
 A|Oh.|b
 B|And the spread changes.|sd
 A|Uh, I've got a manual single shot|sd
@@ -981,8 +981,8 @@ B|My husband had a, uh, a police gun at one time.|sd
 B|And I shot that thing one time.|sd
 B|Almost knocked me down.|sd
 B|And it just a|sd
-B|I I forget,|%
-B|I think it was a three fifty-seven.|sd
+B|I I forget,|sd
+B|I think it was a three fifty-seven.|sv
 B|I'm not sure.|sd
 A|Do you belong to a gun club or you?|qy
 B|He belonged to one awhile back.|sd
@@ -990,7 +990,7 @@ B|Uh, since we moved,|sd
 B|we've only been here in Texas for about a year|sd
 A|Uh-huh.|b
 B|and, uh, we can't even find a place to shoot. Just for  target practice.|sd
-A|No kidding.|b
+A|No kidding.|aa
 B|I'd love to get used to that shotgun.|sd
 B|We traded his pistol for that shotgun.|sd
 A|Huh. Well the, the, uh, clubs that we've got around here are kind of expensive|sd
@@ -998,9 +998,9 @@ A|but, uh, it's well worth it.|sd
 A|You can go down and shoot up against a sand bag and some targets and have, uh, competition.|sd
 A|Uh, I've never really joined a club because I haven't got the time. Not because I haven't got the desire.|sd
 A|Uh, there's an annual membership fee, uh, that's, that's fairly high.|sd
-A|Plus there's an initiation fee that you have to pay because of first time, uh, uh, member.|sv
+A|Plus there's an initiation fee that you have to pay because of first time, uh, uh, member.|sd
 A|So the whole process can cost you a hundred fifty dollars to join the club.|sd
-A|Plus you have to pay for the, the ammunition in any tournaments that you would join in.|sv
+A|Plus you have to pay for the, the ammunition in any tournaments that you would join in.|sd
 B|Yeah.|b
 B|Well, that's what my husband,|sd
 B|when he was in that gun club where he was doing that tell if it's a cough or something was|sd
@@ -1010,9 +1010,9 @@ A|Uh-huh.|b
 B|Uh, but, you know, they used speed and accuracy and all that.|sd
 A|I think that, that the gun clubs serve a useful purpose.|sv
 A|In fact, I'd like to see somehow they tie the legislation into not only when you buy a weapon you have to, uh, show that you've gone to school or gone to some class to know how to handle that weapon.|sd
-B|That's a good,|%
+B|That's a good,|ba
 B|I've never thought of that.|sd
-B|That's a good point.|sd
+B|That's a good point.|ba
 A|And, you know, it, it,|%
 A|even after you wait your nine days, if you don't know how to handle it, it's just like putting someone in an automobile that doesn't know how to drive.|sv
 A|And you give him a license because he waited nine days.|sd
@@ -1021,34 +1021,34 @@ B|That's,|%
 B|and, yeah.|b
 A|He could, he could not only, uh, uh, shoot himself.|sd
 A|He could, he could, uh, mishandle a weapon. Leave it at home and let a child get at it.|sd
-B|It,|%
+B|It,|sd
 B|well we, uh, we was living on a navy base down in Memphis|sd
 B|and, uh, this one guy decided to play, uh, lonesome cowboy or something.|sd
 B|And he was twirling his gun around and shot himself in his foot.|sd
-A|Wow.|b
+A|Wow.|ba
 A|He was fortunate.|sd
 A|He could, he could of hit something else|sd
 B|Well, he went tumbling down the steps along with, uh, shooting his foot almost off.|sd
 B|He broke his leg and collar bone and a couple of other things I'm sure, being,  Mister Cowboy.|sd
-A|Wow.|b
+A|Wow.|ba
 B|I can't remember what the the term was going around.|sd
 B|It was about four or five years ago.|sd
 B|But. Now, I guess that would be a good idea|sd
-A|About, uh, private citizens selling a weapons?|sd
+A|About, uh, private citizens selling a weapons?|qy
 A|Like if you wanted to sell your pistol to me.|sd
-A|How do you feel about that?|qy
+A|How do you feel about that?|qo
 A|Do you believe there ought to be legislation guiding the, uh, buyer and the seller?|qy
 A|And, or do you believe that you ought to be able to sell your system, uh, because you own it?|qy
 B|Uh, that's a hard one because we did that.|sd
-B|But, uh, I think there ought to be some rule against it.|sd
-B|I'll, uh, you know,|%
+B|But, uh, I think there ought to be some rule against it.|sv
+B|I'll, uh, you know,|sd
 B|the person who sells the gun ought to protect themselves because if that gun's registered to them and somebody else uses that gun in something, the cops are going to come to you.|sv
 A|Yeah.|b
-A|isn't  there a way to, uh, to deregister yourself after you register a gun?|sd
-B|Uh,|%
+A|isn't  there a way to, uh, to deregister yourself after you register a gun?|qy
+B|Uh,|b
 B|I have no idea.|sd
 B|I've only  had one gun|sd
-A|Because I   have,|sd
+A|Because I   have,|%
 B|and I've kept it, you  know, the one gun that was in my name.|sd
 A|Yeah.|b
 A|Is it registered?|qy
@@ -1062,7 +1062,7 @@ A|The, uh, the,|%
 B|Well, see, uh, my husband has a thing.|sd
 B|If they go to, uh, regulating, uh, all right, uh, banning guns. private citizens|sd
 A|Yeah.|b
-B|this,|%
+B|this,|sd
 B|my kid is jumping on me.|sd
 B|I can't hardly talk.|sd
 B|My husband feels that they'll come and collect everybody's guns.|sd
@@ -1077,19 +1077,19 @@ A|And if you try to do anything, uh, like, uh, not identify yourself to the gove
 B|Yeah.|b
 B|And everything about you.|sd
 A|And , that's true|%
-B|Uh, I,|%
-B|you know, they know so, how much money you make a week to, uh, probably your, uh,|sv
+B|Uh, I,|sd
+B|you know, they know so, how much money you make a week to, uh, probably your, uh,|sd
 B|my kid is banging.|sd
 B|I was seeing what they was banging on.|sd
 B|Uh, I've lost my train of thought.|sd
 B|I'm sorry|sd
 A|That's all right.|sd
-A|You, you were talking about, uh, uh, what the Federal government knows about people.|sv
-B|Oh, the|%
+A|You, you were talking about, uh, uh, what the Federal government knows about people.|sd
+B|Oh, the|b
 B|Yeah.|b
-B|They, they probably know everything from, half the time what time you go to the bathroom.|sv
+B|They, they probably know everything from, half the time what time you go to the bathroom.|sd
 A|They probably do.|sd
-B|No,|%
+B|No,|nn
 B|that's that's a little bit extreme.|sv
 B|But they could know anything and everything about you.|sd
 B|And, uh, I'd like to have my gun.|sd
@@ -1100,39 +1100,39 @@ B|And, uh, we're wanting to get a couple of more that no one knows about.|sd
 A|Uh-huh.|b
 B|But I don't, I don't, uh|sd
 A|Do you find it difficult picking up, uh, guns that, that are not registered?|qy
-B|No.|b
+B|No.|fc
 A|No.|b
 A|I don't either.|sd
 A|I can, I can buy some, uh, today if I wanted to.|sd
 A|Just  you know, put up the money.|sd
-B|Yeah.|b
+B|Yeah.|qw
 B|Yeah.|b
 B|Well, you can look in the, uh, the,|sd
 B|we got a thing down here called A SHOPPER.|sd
 A|Uh-huh.|b
-B|It's a, a it's a, it's a bargain thing.|sd
-B|Uh, you go and you know, always see guns in there. Five to seven guns a day.|sv
+B|It's a, a it's a, it's a bargain thing.|sv
+B|Uh, you go and you know, always see guns in there. Five to seven guns a day.|sd
 A|Yeah.|b
 B|It comes out every Tuesday.|sd
 A|And there's, there's no waiting period on that.|sd
 B|No.|b
 B|None whatsoever|sd
-B|You call,|%
+B|You call,|sd
 B|we sold a refrigerator through it|sd
 B|and it took us all of twelve hours.|sd
 A|To sell the refrigerator?|qy
 B|Yeah.|b
 A|Yeah.|b
-B|You know. And I'm sure it'd be even less for somebody with a good gun.|sd
-A|Huh. And I think the Federal government is, uh, is really far away from, uh, uh, control.|sd
+B|You know. And I'm sure it'd be even less for somebody with a good gun.|sv
+A|Huh. And I think the Federal government is, uh, is really far away from, uh, uh, control.|sv
 A|I, I don't believe in, uh,|sd
 A|I'm I shouldn't probably say control.|sd
 A|I mean regulation.|sd
 A|Control is something that I wouldn't want the Federal government to have.|sd
 A|Uh, but I would like to see them have a monitoring capability so that they know who has what weapons.|sd
 B|Yeah.|b
-B|Well, I agree with you there.|sd
-B|They do have too much control over us already.|sd
+B|Well, I agree with you there.|aa
+B|They do have too much control over us already.|sv
 A|Yeah.|b
 B|Uh, we could look at our paychecks and see how much control they have.|sd
 A|Unfortunately, we, uh, we vote for the, the people who spend the money,|sd
@@ -1143,11 +1143,11 @@ B|I don't know.|sd
 B|They're|sd
 A|Well, I haven't heard anything about the proposal myself,|sd
 A|but, uh, Uh, I don't know if its their proposal or one that's being seriously kicked around.|sd
-B|No,|%
+B|No,|aa
 B|I haven't either.|sd
-A|I've, I've always felt for a long time that I, I think that all young kids ought to do a stint, uh, primarily in the military.|sd
+A|I've, I've always felt for a long time that I, I think that all young kids ought to do a stint, uh, primarily in the military.|sv
 B|Yeah.|b
-A|Uh.|b
+A|Uh.|%
 B|Most countries require that now,|sd
 B|they you know, they have, uh, it mandatory for, for the, the uh at least the young men,|sd
 A|Yeah,|b
@@ -1156,7 +1156,7 @@ A|Uh-huh.|b
 B|I don't know about the young women,|sd
 B|I don't know if they have to serve in the military,  too.|sd
 A|Yeah,|b
-A|a lot,|%
+A|a lot,|sd
 A|yeah,|b
 A|well, you take Israel|%
 A|I mean, everybody does.|sd
@@ -1168,8 +1168,8 @@ B|Uh-huh.|b
 B|Is that right?|qy
 A|Yeah,|b
 A|uh, did a lot of growing up.|sd
-B|I bet.|b
-B|You have to.|sd
+B|I bet.|ba
+B|You have to.|fc
 A|Yeah.|b
 B|Yeah,|b
 B|my father had been in the military.|sd
@@ -1181,7 +1181,7 @@ B|He came from a poor immigrant family,|sd
 B|and he didn't have a chance to, uh, you know,|sd
 B|the family wasn't wealthy,|sd
 B|so he had to do something to,  put himself through school,|sd
-A|Do it himself.|sd
+A|Do it himself.|qy
 B|and he did.|sd
 B|And he was very successful.|sd
 A|Well, my parents wanted to send me to college,|sd
@@ -1195,7 +1195,7 @@ B|Yeah.|b
 A|Course my job was such that I didn't, I couldn't do it as much as I wanted|sd
 B|Uh-huh.|b
 A|and still I ended up going two semesters when I got out just to get my degree.|sd
-B|That's pretty good.|sd
+B|That's pretty good.|ba
 A|But, I've been in school ever since|sd
 B|That's good.|ba
 A|Yeah,|b
@@ -1203,15 +1203,15 @@ A|I guess.|sd
 B|Yeah,|b
 B|that's, uh,|%
 B|I don't know.|sd
-B|There's other kinds of service to the country that could be done, you know,|sv
+B|There's other kinds of service to the country that could be done, you know,|sd
 A|Yeah,|b
-A|I mean if you don't like,|sd
+A|I mean if you don't like,|%
 B|I mean, working in the national parks, Uh, working, clean up the roadsides|sd
 A|Sure.|b
-A|Exactly.|b
-B|I mean, I've always felt that people on welfare should be required to spend at least part of their time, *why no slash? not all the time because that takes away from their opportunity to look for a job, but at least some of their time to look for, to go out and clean up the roads. You know,|sd
-A|Oh yeah, Absolutely.|b
-B|I mean,|%
+A|Exactly.|sd
+B|I mean, I've always felt that people on welfare should be required to spend at least part of their time, *why no slash? not all the time because that takes away from their opportunity to look for a job, but at least some of their time to look for, to go out and clean up the roads. You know,|sv
+A|Oh yeah, Absolutely.|aa
+B|I mean,|sd
 A|All these, all this money that we're throwing away to pay people to go out and do things when we're paying all these welfare recipients,|sd
 A|and if they're able-bodied people, I don't see any problem at all with having them go out there and, and, if nothing else, get a group of them together and take them around to old folks  places and let them cut the yards, paint the houses.|sd
 B|Yeah.|b
@@ -1221,19 +1221,19 @@ A|Sure ,|b
 A|sure.|b
 A|So I'm,|%
 A|get something out of that money.|sd
-B|Country would benefit,|%
-A|Yeah|b
-A|I've,|%
+B|Country would benefit,|sd
+A|Yeah|qw
+A|I've,|sd
 B|I mean, uh,|%
 A|yeah,|b
 A|yeah,|b
 A|my next door neighbor when I was growing up, worked for the unemployment division,|sd
 A|and his sole job was just tracking down people who were getting benefits and able-bodied|sd
 A|and,|%
-B|That right.|b
+B|That right.|aa
 A|Yeah,|b
 A|and he, he had all kinds of horror stories.|sd
-A|You know, these guys go down there and get their unemployment checks,|sd
+A|You know, these guys go down there and get their unemployment checks,|sv
 A|and, back, back in those days they also use to give you, uh, booklets good for, uh, clothing and gas, and things like this|sd
 B|Yeah.|b
 A|They get all this stuff together and sit down and have poker games you know,|sd
@@ -1243,64 +1243,64 @@ B|What I hear one time, I think it was on Paul Harvey's, uh, radio segment, that
 A|Uh-huh.|b
 B|I mean, I was astounded.|sd
 B|I don't even make that.|sd
-A|No,|%
-A|I know.|%
-A|I, you, you think about, you think about the layer of bureaucracy between the money and the recipient,|sd
+A|No,|qy
+A|I know.|sd
+A|I, you, you think about, you think about the layer of bureaucracy between the money and the recipient,|sv
 B|Yeah,|b
 B|and somebody's taking that away.|sd
-A|and, and there's probably, there's easily probably six or seven times that amount being spent on the bureaucracy.|sd
+A|and, and there's probably, there's easily probably six or seven times that amount being spent on the bureaucracy.|sv
 B|Yeah,|b
-B|no doubt.|b
+B|no doubt.|nn
 A|You know, it's, it's, it's totally ridiculous,|sd
 A|and now, I, I, I, uh, started out when I first got in graduate school|sd
 A|I was going into public administration,|sd
 A|and, uh, quite honestly I just got so fed up with it I just couldn't stand it any more.|sd
-B|Is that right,|aa
+B|Is that right,|b
 A|Yeah,|b
 A|I mean, this is the kind of thing you look at.|sd
 B|Yeah.|b
 A|You sit there|sd
 A|and when you're writing up budgets, you wonder, okay, how much money do we need.|sd
-A|Well, you need X number dollars for the recipients|sd
-A|but you need X number dollars to administer the program.|sv
+A|Well, you need X number dollars for the recipients|sv
+A|but you need X number dollars to administer the program.|sd
 A|Well just ridiculous.|sd
 B|Yeah.|b
-A|This is ridiculous.|sd
+A|This is ridiculous.|qy
 B|It's sad.|sd
-A|It is,|%
+A|It is,|qy
 A|it's pathetic.|sd
-A|I mean, there's got to be a different way.|sd
+A|I mean, there's got to be a different way.|sv
 A|There's got to be a better way.|sd
 A|But it'll never happen.|sd
 A|I mean, these these people out here getting that money are big voting blocks.|sd
 B|Yeah.|b
 B|Yeah.|b
 B|What would happen if the required young people to do service to the country,|sv
-B|what should they get in return, I wonder.|sd
+B|what should they get in return, I wonder.|sv
 B|Like, uh,|%
-A|I think, I think there ought to be some kind of assistance as far as, uh,|sd
+A|I think, I think there ought to be some kind of assistance as far as, uh,|sv
 A|and I would limit it strictly to something like tuition assistance.|sd
 B|Yeah.|b
 A|Give an incentive.|sd
 B|Educational or vocational training or something.|sd
 A|Yeah.|b
-A|Something that's going to help them along the way.|sd
-B|And they'll help the country eventually, too, because rather than having a bunch of uneducated people we can have educated people,|sd
+A|Something that's going to help them along the way.|sv
+B|And they'll help the country eventually, too, because rather than having a bunch of uneducated people we can have educated people,|sv
 A|Sure,|b
 A|I mean,|%
 A|Well, this,|%
-A|I mean I mean, look at the statistics,|sd
+A|I mean I mean, look at the statistics,|sv
 B|and that's only going to help.|sd
-A|I mean, it's sad.|sd
+A|I mean, it's sad.|sv
 A|One in five Americans can't read|sd
 B|Yeah.|b
 A|adults, that is, can't even read.|sd
-A|And, and we've got the lowest rates of the civilized countries in science and math.|sd
+A|And, and we've got the lowest rates of the civilized countries in science and math.|sv
 B|Yeah.|b
-A|I mean, what are we, what are we becoming?|sd
+A|I mean, what are we, what are we becoming?|qw
 A|We're becoming a service country.|sd
 B|As opposed to what we were twenty years ago.|sd
-A|Yeah,|b
+A|Yeah,|sd
 A|we were an industrial giant,|sd
 A|and now we're we're not going to do it because everybody is beating us at the game.|sd
 A|We taught them how to do it,|sd
@@ -1319,23 +1319,23 @@ B|I think that if, uh, young people had service to the country might give them m
 A|Yeah.|b
 A|Yeah,|b
 A|and, and it can be good for them, too.|sd
-B|Yeah,|b
+B|Yeah,|qo
 B|oh yeah.|b
 A|I mean, even, even the greedy kids that we've got now ...|sd
-B|Oh god, you go to the mall|sd
-B|and you see, you know, fourteen year old kids flaunting money, because the parents give them money to go down and play video games all night, you know|sv
-A|I know.|%
+B|Oh god, you go to the mall|ba
+B|and you see, you know, fourteen year old kids flaunting money, because the parents give them money to go down and play video games all night, you know|sd
+A|I know.|sd
 B|for what.|b
-A|I know.|%
+A|I know.|sd
 B|Give me the money|sd
 B|and I'll, I'll teach them something good|sd
-A|Well, you know, you know why they do it is so they can get them out of the house.|sv
+A|Well, you know, you know why they do it is so they can get them out of the house.|sd
 B|Yeah.|b
 A|Yeah,|b
 A|uh, that's my other complaint.|sd
 A|Parents aren't parents any more.|sd
-B|No.|b
-B|They've, they've relinquished their parenting.|sd
+B|No.|qy
+B|They've, they've relinquished their parenting.|sv
 A|Yeah.|b
 A|One of the other subjects is do you think the public school systems are in trouble?|qy
 B|Yeah.|b
@@ -1352,41 +1352,41 @@ B|And when, uh, when come time to get out of school, I thought, Boy, I'd like to
 B|But you know, for, for what.|sd
 A|Yeah.|b
 B|You know, I don't want to live in a little one bedroom apartment the rest of my life.|sd
-A|Exactly.|b
-B|I mean, that, that's a sad thing to think,|sd
+A|Exactly.|sd
+B|I mean, that, that's a sad thing to think,|sv
 B|and that's kind of selfish on my part,|sd
 B|and I admit that,|sd
-A|Well, in a way it is,|sd
-A|but you have to look out for yourself you know,|sd
+A|Well, in a way it is,|sv
+A|but you have to look out for yourself you know,|sv
 B|Yeah,|b
-B|that's right.|b
-A|I mean, that's|%
+B|that's right.|aa
+A|I mean, that's|sd
 A|and when we pay garbage men more than we pay teachers,|sd
-B|That's wrong.|sd
+B|That's wrong.|sv
 A|Yeah,|b
-A|gosh,|%
-A|I mean,|%
+A|gosh,|b
+A|I mean,|sd
 B|I'm not saying that garbage men should be paid less,|sd
 B|I saying teachers should be paid more.|sd
-A|No,|%
+A|No,|nn
 A|I mean yeah.|b
-A|They do an absolutely necessary job,|sd
+A|They do an absolutely necessary job,|sv
 A|I mean, I, I have a great deal of admiration for these people who can go out there and do that.|sd
 B|Yeah.|b
 A|But, uh, I mean, there's, there's a sense of priorities here, too.|sd
 B|Yeah.|b
 A|You know, we need,|sd
-A|what's more important, picking up the garbage or educating our kids.|sv
+A|what's more important, picking up the garbage or educating our kids.|sd
 B|Yeah|b
 B|They both have their place.|sd
 A|Yeah,|b
-A|they, they,|%
+A|they, they,|sd
 A|sure.|b
 B|But, you know, when it gets right down to it,|sd
 A|I mean, one's|%
 A|I mean, on the other hand, I mean, you take a garbage man in New York City starts out at twenty-six thousand dollars.|sd
-B|That's pretty good.|sd
-A|Well I bet you there's a whole bunch of homeless people up there who would take that job for thirteen thousand dollars a year.|sd
+B|That's pretty good.|ba
+A|Well I bet you there's a whole bunch of homeless people up there who would take that job for thirteen thousand dollars a year.|sv
 B|Yeah.|b
 A|I mean, my other pet peeve is unions.|sd
 B|Yeah,|b
@@ -1403,26 +1403,26 @@ B|and they, uh,|%
 B|this was during a time when the import steel was so cheap,|sd
 B|and they were having a hard time.|sd
 B|And they told the strikers there, look,|sd
-B|we need you to come back and get this stuff done.|sd
+B|we need you to come back and get this stuff done.|sv
 B|Or else we're going to be out of business.|sd
 B|And they wouldn't come back,|sd
 B|so they went bankrupt.|sd
 A|Yeah.|b
 B|And, and they all lost their jobs.|sd
 A|Sure,|b
-A|and, and   and that's really what happened to the steel industry in this country.|sd
+A|and, and   and that's really what happened to the steel industry in this country.|sv
 B|And it's like , you know.|sd
 B|Yeah.|b
-A|So many times, I mean, you had the, uh, the coal miners and steel workers going out at the same time.|sd
+A|So many times, I mean, you had the, uh, the coal miners and steel workers going out at the same time.|sv
 A|And, well, that took care of that industry|sd
 B|That's right.|b
-A|and, and, then, and I'll tell you,|sd
+A|and, and, then, and I'll tell you,|%
 A|Detroit worked awfully hard on, on stopping car manufacturing in this country.|sd
 B|And they're trying to do that now with the imports.|sd
 A|Yeah,|b
 A|I mean, you know, we've never caught up,|sd
 A|and I don't think we ever will.|sd
-B|It'll be a tough road, though.|sd
+B|It'll be a tough road, though.|sv
 A|Yeah,|b
 A|I mean, here it is,|sd
 A|and we've got, we've got to go into partnership with the Japanese to build cars.|sd
@@ -1434,63 +1434,63 @@ A|Gosh.|b
 A|Yeah,|b
 A|well, back to the original subject,|sd
 A|yeah,|b
-A|I think youngsters ought to go out and do some public service,|sd
+A|I think youngsters ought to go out and do some public service,|sv
 A|I don't care what kind it is.|sd
 B|It teaches them pride in their country.|sd
 A|Yeah,|b
 A|and pride in themselves, too.|sd
-B|That's right.|b
-A|They could, they could, I mean, you could organize something just within your community. same old thing.|sd
+B|That's right.|aa
+A|They could, they could, I mean, you could organize something just within your community. same old thing.|sv
 B|Yeah,|b
 A|I mean,|%
-B|that's right.|b
+B|that's right.|aa
 B|That's like Eagle Scouts.|sd
 A|Sure.|b
 A|Uh-huh.|b
 B|And that's a great idea.|sd
-A|I think they ought to take them and, I don't know, just have sort of like a, a, a manpower pool and say Okay, look,|sd
+A|I think they ought to take them and, I don't know, just have sort of like a, a, a manpower pool and say Okay, look,|sv
 A|we need somebody ...|sd
-A|Okay,|%
-A|we're going to talk about the public school system, What's wrong with it, an, or if anything is wrong with it and what we can do about it, what should be done about it.|sd
+A|Okay,|b
+A|we're going to talk about the public school system, What's wrong with it, an, or if anything is wrong with it and what we can do about it, what should be done about it.|sv
 B|Okay.|b
-B|Fantastic.|b
+B|Fantastic.|sd
 B|Well one thing that pops into my mind real quick is, uh, about the, uh, funding of, the, the school system right now.|sd
 A|Yeah.|b
 B|Evidently, uh, that's, that's a big problem.|sv
 A|Yeah,|b
-A|it's amazing, uh,|%
-A|I always thought that teachers never got paid nearly enough, I mean, to be doing what they're doing, uh.|sd
+A|it's amazing, uh,|sd
+A|I always thought that teachers never got paid nearly enough, I mean, to be doing what they're doing, uh.|sv
 B|Right.|b
 A|When I was in college I, I enjoyed teaching,|sd
 A|'cause I did some teaching part-time|sd
 A|and I really enjoyed that|sd
 A|but I wouldn't want to go teach high school or junior high,|sd
-A|it just, you know, all the problems.|sd
-B|Oh, Lord, I mean, yeah,|%
+A|it just, you know, all the problems.|%
+B|Oh, Lord, I mean, yeah,|aa
 B|an, you talk about stress and pressure,|sd
 B|I tell you what,|%
 B|it's, uh,|%
 A|Yeah,|b
 A|they're putting in fifty, sixty hours a week,|sd
 A|I'm sure, because they've got to grade papers and get class stuff ready.|sd
-B|Do,|%
+B|Do,|qy
 B|right.|b
-A|And, you know, and they're being paid, probably half what most people being paid.|sd
-B|Exactly,|%
-B|and,|%
+A|And, you know, and they're being paid, probably half what most people being paid.|sv
+B|Exactly,|qy
+B|and,|sd
 A|And we're paying basketball people, you know, millions of dollars a year for, for what, you know.|sd
-B|That's right,|b
+B|That's right,|aa
 B|and then they, uh, poof it off, you know, do like Tarpley.|sd
 A|Yeah.|b
-B|But, uh, I|%
-B|what gets me is I can't believe that Congress, uh, or, our state legislature can't come up with, uh, some kind of workable means to have funds for the school.|sd
-B|You know, it's, uh,|%
+B|But, uh, I|sd
+B|what gets me is I can't believe that Congress, uh, or, our state legislature can't come up with, uh, some kind of workable means to have funds for the school.|sv
+B|You know, it's, uh,|sd
 B|I just don't understand that.|sd
-A|Yeah,|b
-A|it's, uh.|%
+A|Yeah,|qo
+A|it's, uh.|sd
 A|Now do you have little kids, or what?|qy
-B|No, uh,|%
-B|sure don't,|%
+B|No, uh,|nn
+B|sure don't,|qy
 B|my wife and I've just been married about two years|sd
 B|but I have a sister that's a, uh, school teacher,|sd
 B|and, uh.|%
@@ -1499,27 +1499,27 @@ A|yeah,|b
 A|my wife and I have a, a three year old, almost four and a, a two year old.|sd
 B|Okay.|b
 A|So we're looking at the, the older one going to school next year. Not, not, well not this coming fall but the year after that.|sd
-B|Okay,|%
+B|Okay,|b
 B|so it's getting close.|sd
 A|Yeah,|b
 A|he's going to be going to kindergarten,|sd
-A|so.|b
+A|so.|qy
 B|Right.|b
-A|So, you know, we're, we're thinking about that.|sd
-A|What's that going to be like.|sv
-A|Are they going to be taught nothing,|sd
+A|So, you know, we're, we're thinking about that.|%
+A|What's that going to be like.|sd
+A|Are they going to be taught nothing,|sv
 A|or they going be taught something,|sd
 A|we're going to, we're going to be involved in our child's education.|sd
-A|We're going to be teaching him what we can at home, of course, because, uh, I guess we don't trust the school system, which is very sad, uh,|sd
+A|We're going to be teaching him what we can at home, of course, because, uh, I guess we don't trust the school system, which is very sad, uh,|sv
 B|Right.|b
 A|but. But if it doesn't start at home, it's not going to go anywhere. You know,|sd
-B|Exactly.|b
-B|Right,|b
-B|that's true.|b
+B|Exactly.|ba
+B|Right,|ba
+B|that's true.|aa
 A|and we're going to try to teach him good values, because, you know, when, when they get to upper level school and they start teaching them, well hey, if you can play football or basketball that's what's important. Not if you can read or write, or do, or understand some science. You know,|sd
-B|Exactly.|b
+B|Exactly.|aa
 A|I mean give me a break,|sd
-A|that's, that's, that's bogus.|sv
+A|that's, that's, that's bogus.|sd
 B|Right,|b
 B|right.|b
 B|Well and, uh, you know, one thing my wife and I've talked about, are, uh, private schools. You know whether, uh, uh, we would want to invest in, in private schools as they're growing up, because, you know, just in the Dallas area, um, we're not real comfortable with the, with the public schools.|sd
@@ -1534,123 +1534,123 @@ A|Yeah.|b
 B|but, uh, I can definitely, uh, see on down the road, you know, where we do have kids and are getting to that age, that's going to be a definite concern.|sd
 A|Yeah,|b
 A|we talked, you talked about before, about the school funding.|sd
-A|I think there's only going to be one solution to school funding which I don't think will be necessarily the best way|sd
+A|I think there's only going to be one solution to school funding which I don't think will be necessarily the best way|sv
 A|but I think what's going to have to happen is there's going to have to be tuition for grade school and junior high and high school kids.|sv
 A|That's the only way they're going to fund it, because if they start raising taxes for property, and people are going to throw a fit.|sv
 B|That's,|%
 B|yeah,|b
-B|and, you know, that's,|%
+B|and, you know, that's,|sd
 B|taxes right now are political suicide. You know,|sd
 A|Oh, yeah.|b
-B|and I don't think any politician's going to do that,|sd
-B|so.|b
+B|and I don't think any politician's going to do that,|sv
+B|so.|sd
 A|Yeah,|b
-A|and the only thing, they, they would think of would be tuition, you know,|sd
+A|and the only thing, they, they would think of would be tuition, you know,|sv
 A|if it works at colleges it will work down below.|sd
 B|Right.|b
 A|And, you know, that's going to, that's going to affect the people that are having kids in school, of course, which is probably the only fair thing to do.|sv
-A|But, it will be hard for those that people, that have, have in school because they have to pay out even more.|sd
-B|Exactly.|b
-B|And, you know, it's going to really hurt the, the middle class, uh, people, I think. Because, uh, they're the ones that will probably have to, to carry the brunt of the load.|sd
+A|But, it will be hard for those that people, that have, have in school because they have to pay out even more.|sv
+B|Exactly.|aa
+B|And, you know, it's going to really hurt the, the middle class, uh, people, I think. Because, uh, they're the ones that will probably have to, to carry the brunt of the load.|sv
 A|Oh, yeah.|b
-A|That's right.|b
+A|That's right.|aa
 B|So, uh,|%
 A|And most of the problems with kids in school carrying guns and, and knives and everything,|sd
 A|I mean, good grief what's .|sd
-B|Yeah|b
-B|now, that's, that's just unbelievable to me, you know.|sv
+B|Yeah|sd
+B|now, that's, that's just unbelievable to me, you know.|sd
 A|I can't believe that.|sd
 A|I mean when I was in junior high and high school that never happened.|sd
 A|You never heard about that.|sd
 B|Well yeah,|b
 B|we didn't, we didn't even think about it, you know|sd
-A|No.|b
+A|No.|qy
 A|And now, you know, what do we have now.|sd
-A|You know, got kids that, either got a, you know, a Magnum gun school,|sv
-A|like good grief.|sd
+A|You know, got kids that, either got a, you know, a Magnum gun school,|sd
+A|like good grief.|fc
 B|right.|b
 A|I mean, I'd, I'd be afraid to be in school, I mean teaching, or even being a student|sd
 A|and think what, what's it going to be like for my, my youngest, an my oldest son, when he goes to school.|sd
-A|What's going to happen?|qy
+A|What's going to happen?|qw
 A|I mean I, I'm afraid for him to go.|sd
-B|Exactly,|%
+B|Exactly,|aa
 B|right.|b
-A|But there again , you can't hold them back.|sd
-B|Another reason,|%
-B|and you want to encourage them, you know, to, to be active and everything in school,|sd
+A|But there again , you can't hold them back.|sv
+B|Another reason,|sd
+B|and you want to encourage them, you know, to, to be active and everything in school,|sv
 B|but, uh, you know, with all the peer pressure that's going on, with all the negative things, it is, uh, it's a tough environment to be growing up in.|sv
 A|Yeah,|b
 A|and lot tougher than it was when I was going to school,|sd
 A|and that was,|%
 A|well I was, I graduated high school in nineteen seventy-nine,|sd
-A|so.|b
+A|so.|%
 B|Okay.|b
 A|That was what, twelve years ago, I guess.|sd
 B|Right.|b
-A|So, you know, it's lot different now.|sv
+A|So, you know, it's lot different now.|sd
 A|And what's it going to be like in another twelve years when my, uh, oldest son is in high school.|sd
-B|That's right,|b
-B|that's right.|b
+B|That's right,|aa
+B|that's right.|aa
 A|I'm afraid to, I'm afraid to even think about it.|sd
-B|That, yeah, that is a scary thought,|sd
-B|but, uh, I don't know,|sd
-B|I, I guess what you have to do is just, uh, keep in, uh, you know, encouraging them and, and, uh, uh, try to be open with them, so that you can deal with the problems as they come up.|sd
+B|That, yeah, that is a scary thought,|aa
+B|but, uh, I don't know,|%
+B|I, I guess what you have to do is just, uh, keep in, uh, you know, encouraging them and, and, uh, uh, try to be open with them, so that you can deal with the problems as they come up.|sv
 A|That's all you can do.|sv
 B|Yeah,|b
 B|and.|%
 A|You got to, you got to be your child's best friend, I guess, even when they're a teenager and they, you know are kind of standoffish,|sv
 B|Right.|b
-A|still you got to be their best friend because when they've got problems, who they going to go to, their friends that are dealing drugs, or, or your parents. You know,|sd
-B|Exactly.|b
-A|an, and if they go to their friends dealing drugs, they're going to be in even worse shape.|sv
-B|That's right.|b
+A|still you got to be their best friend because when they've got problems, who they going to go to, their friends that are dealing drugs, or, or your parents. You know,|sv
+B|Exactly.|sd
+A|an, and if they go to their friends dealing drugs, they're going to be in even worse shape.|sd
+B|That's right.|aa
 A|And, and the schools don't, don't really encourage to stay away from that, you know,|sd
 A|the schools are there to teach history and that we fought the civil war, etcetera, etcetera.|sd
 A|They don't teach them good values like drugs are bad.|sv
 A|I, maybe I'm wrong, because I haven't, you know, been in that kind of environment for a long time,|sd
 A|but, it just is amazing, you know,|sd
 B|Right.|b
-A|need to teach them good values.|sd
-B|That's true,|%
-B|that's true,|%
+A|need to teach them good values.|sv
+B|That's true,|aa
+B|that's true,|aa
 B|and, uh.|%
-A|Of course, if I say this is a good value, someone else is going to stand up and say, oh no.|sv
+A|Of course, if I say this is a good value, someone else is going to stand up and say, oh no.|sd
 A|And the A C L U is going to get after them and have a lawsuit. Which is going to take twenty years to resolve, you know.|sd
 B|Right.|b
 B|Well and I think, uh, you touched on it, you know,|sd
 B|you've got to start them at the home. You know|sd
 A|Yeah.|b
-B|that's where they, that's where they get the, the deep rooted values|sv
-B|and, and, and, uh, and that's about right.|sd
+B|that's where they, that's where they get the, the deep rooted values|sd
+B|and, and, and, uh, and that's about right.|%
 A|That's all you can do.|sv
-B|Then you just have to hope and pray that, that everything, uh, works out, works out okay,|sd
-B|so.|b
-A|That's right.|b
+B|Then you just have to hope and pray that, that everything, uh, works out, works out okay,|sv
+B|so.|sd
+A|That's right.|aa
 A|Well I got to be going,|sd
 A|so, uh.|%
-B|Okay,|%
+B|Okay,|fc
 B|well, hey, I appreciate the call.|sd
-A|Nice talking to you today.|sv
-B|You to.|b
-A|Have a good life, uh.|sd
+A|Nice talking to you today.|fc
+B|You to.|%
+A|Have a good life, uh.|fc
 A|Hi, Wanet is his last|sd
-A|How are you?|qy
+A|How are you?|qo
 B|I'm doing fine.|sd
-B|Where you from?|qy
+B|Where you from?|qo
 A|I'm from New England.|sd
-A|Massachusetts.|b
+A|Massachusetts.|sd
 B|Okay.|b
 B|I'm from Berkeley, California.|sd
-A|Wow!|sd
+A|Wow!|fc
 A|This is quite a, quite a long distance.|sd
 B|Yeah,|b
 B|it certainly is.|sd
 A|Do you have any pets?|qy
 B|No.|b
 B|Use too.|sd
-B|Use to,|%
+B|Use to,|sd
 B|but none, none right now.|sd
-A|How come, uh, you don't have any now?|qy
+A|How come, uh, you don't have any now?|qw
 A|You get tired of them?|qy
 B|Well, I, I live in an apartment building|sd
 B|and, and, uh, and, and, it, it, it's just not feasible  you know.|sd
@@ -1661,13 +1661,13 @@ A|In fact, she just turned sixteen years old New Year's Eve.|sd
 B|Ah.|b
 A|And, uh|%
 B|Is she?|qy
-A|I beg your pardon?|sd
-B|What is she?|qy
+A|I beg your pardon?|qo
+B|What is she?|qw
 A|She's, uh, uh, uh, a poodle.|sd
 A|Uh, a toy poodle, a toy poodle|sd
-A|and she's,|%
+A|and she's,|sd
 B|Ah.|b
-B|Ah,|%
+B|Ah,|b
 B|my, I got my mom a teacup little mutt ,  not too long ago.|sd
 A|This is a little bigger than a teacup.|sd
 B|Yeah.|b
@@ -1677,7 +1677,7 @@ A|uh, the woman needed someone to baby-sit|sd
 A|and, uh, this is what she had told the kids|sd
 A|and she even told me that.|sd
 A|And after the two week period was up, uh, she then informed me that the woman no longer wanted the little puppy and wanted to know if we wanted to keep it.|sd
-A|Well, after you had an animal for a couple of weeks, it's, uh, you become  you become attached to it.|sv
+A|Well, after you had an animal for a couple of weeks, it's, uh, you become  you become attached to it.|sd
 B|Oh, for sure.|b
 B|Oh, yeah.|b
 A|So, I've had this dog now for, for sixteen years|sd
@@ -1689,13 +1689,13 @@ A|and she stays in the house all day while I go to work|sd
 A|and, uh, she's been holding herself pretty well. The, uh, up until, you know, recently where she's been having accidents in the house because she either is losing control or she forgets where she is|sd
 A|and, uh, I find a little present on the floor sometimes when I come home.|sd
 A|But she's, she's usually pretty good.|sd
-B|Yes,|b
+B|Yes,|qo
 B|well. My, my mother has one that's, uh,|sd
 B|it's, uh, it's, uh, teacup|%
 B|and, uh, it's made such a difference for her.|sd
 B|But, you know, just, I, you know,|%
 B|the way my mom's presence countenance is, just, just for having a puppy|sd
-B|but, you know, having this dog|sd
+B|but, you know, having this dog|%
 B|she's had it for, I guess three years now. Oh, possibly four.|sd
 A|Uh-huh.|b
 B|But, uh, it was, it, it's it's really made such a difference for her.|sd
@@ -1707,7 +1707,7 @@ B|and if that weren't so, I would certainly have one.|sd
 B|I just, I just,|%
 B|it frustrates me sometimes not being able to have a dog|sd
 B|yeah .|b
-A|Huh. Well, you might want to get yourself, uh, an animal that doesn't require much attention. Like a cat.|sd
+A|Huh. Well, you might want to get yourself, uh, an animal that doesn't require much attention. Like a cat.|sv
 B|Oh, yeah.|b
 B|Well, yeah,|b
 B|uh, I, I, I typically am not a cat person.|sd
@@ -1716,24 +1716,24 @@ B|And this cat is like no other cat I have ever seen.|sd
 B|And, uh, it would sleep on my chest, you know.|sd
 A|Yeah.|b
 B|It's just, it's just a great cat,|sd
-B|but.|b
+B|but.|%
 A|Well, my, my personal preference is, is a dog.|sd
 A|Uh, I don't know that, uh, that I would ever want a cat.|sd
 A|Oh, I like cats.|sd
 A|I just wouldn't want to own one.|sd
 A|Uh  they're not, uh, they're, they're affectionate|sd
-B|Well, you don't own cats.|sv
+B|Well, you don't own cats.|sd
 A|but they,|%
 A|yeah|b
-A|I don't know,|%
+A|I don't know,|sd
 A|I can't seem to communicate with a cat like I can with my dog.|sd
 B|Yeah.|b
-B|You, they, they own you or, or, you know, grant you with you their presence, you know.|sv
+B|You, they, they own you or, or, you know, grant you with you their presence, you know.|sd
 A|Yeah,|b
 A|right|b
 A|Yeah.|b
 A|Right.|b
-A|That,|%
+A|That,|sd
 A|yes,|b
 A|we're supposed to appreciate them.|sd
 A|Well, my, my dog when I came home, uh, when I come home in the evenings, my dog greets me at the door.|sd
@@ -1744,33 +1744,33 @@ A|Yeah.|b
 B|I could just walk in the door|sd
 B|and she knew whether to, to, to quietly come up to me or to just run and knock me over.|sd
 B|I mean she really could pick up on my mood  uh, the way I walked in the door.|sd
-A|Yeah,|b
+A|Yeah,|sd
 A|yeah.|b
 B|It was, uh, uncanny like a|sd
 A|Huh. I, I think, uh, in a way we're able to read each other pretty well because, uh, she knows when I'm upset and I know when she's not feeling good too|sd
-A|So.|b
+A|So.|%
 B|Yeah.|b
 A|I know like when she has an accident, I know she's not doing it on purpose.|sd
 A|When when she was younger, she used to do that to get even with me,|sd
 B|Yeah.|b
-A|Uh, and, and, you know, some people might not believe that|sd
+A|Uh, and, and, you know, some people might not believe that|%
 A|but, but, but, uh, I do|%
-B|Sure|b
-B|Oh, absolutely.|b
+B|Sure|sd
+B|Oh, absolutely.|aa
 A|Like if I, if I put her in a room all by herself and close the door and leave her there for a few hours, uh, because I was going out. She would, uh, break something or rip up the carpet or do something just to, uh, to, to let me know that she was unhappy with what I did|sd
-B|Really?|qy
+B|Really?|bh
 A|Yeah.|b
 B|That's the way,|%
 B|well, I had that cat that I mentioned, Alfie .|sd
-B|One morning, you know, the first thing you do is you get up and you, you, you feed this cat something and, and you make sure that it can get to its litter box.|sv
+B|One morning, you know, the first thing you do is you get up and you, you, you feed this cat something and, and you make sure that it can get to its litter box.|sd
 B|Well, for some reason during the night, the door was not quite wide enough for it to get through|sd
 A|Uh-huh.|b
 B|and, uh, the next morning, uh, when my roommate got up and, and, uh, did not feed it right away, it decided that, that it was going to protest.|sd
 B|And so it jumped up on my bed and anointed my blanket,  for me. Looking, looking at me eye to eye,  all the time while it was doing it.|sd
-B|All right. Have I got your attention now?|sd
+B|All right. Have I got your attention now?|fc
 A|Oh, yes.|b
 A|Animals have a way of talking|sd
-B|Alfie did.|b
+B|Alfie did.|%
 B|I tell you if I could have gotten a hold of that cat that day.|sd
 A|I, I don't know that I'd, uh, that I'd trade my dog in for the world.|sd
 A|Uh, it was about two years ago she got sick on me|sd
@@ -1783,7 +1783,7 @@ A|and I, uh, took the, the dog to a hospital. The dog hospital there|sd
 A|and they said they'd keep her there for three days.|sd
 A|Well, she ended staying there five days at a hundred and something dollars a day because she was in intensive care|sd
 A|It cost me over five hundred dollars.|sd
-B|Ouch.|b
+B|Ouch.|sd
 A|Plus, the, the, uh, the vet sent me a bill for what he did|sd
 A|and, uh, then she recouped.|sd
 A|She was okay for a couple of years.|sd
@@ -1794,19 +1794,19 @@ A|And, uh, he gave me the medication, the same medication that I gave her the la
 A|and she was okay|sd
 A|and she's been okay every since.|sd
 A|It's been about two years now.|sd
-B|Huh. Well, that's great,|%
-B|it really is.|sd
+B|Huh. Well, that's great,|sd
+B|it really is.|aa
 B|I, I'm glad that she was able to pull out of it that way and so cheaply the second time.|sd
 A|Yeah.|b
 A|Well, the, see the problem is if, if the, if someone would have came up to me and said it's going to cost you five hundred dollars to keep your dog alive.|sv
-A|What do you want to do?|qy
+A|What do you want to do?|qo
 A|I probably would have had second thoughts.|sd
 B|Yeah.|b
-B|Of course, you would.|sd
+B|Of course, you would.|aa
 A|But what they, well, what they do is, is they say, well it's going to cost, you know, twenty dollars for tests and forty dollars for this|sd
 A|and, and, you know, and it creeps up on you.|sd
-A|You don't know that, uh, you know|sv
-A|You really, you don't know what it's going to until it's all over.|sv
+A|You don't know that, uh, you know|sd
+A|You really, you don't know what it's going to until it's all over.|sd
 A|Uh, to give you an example. My mom had an elderly cat who, uh, whoever evidently got a hold of it|sd
 A|and, uh, the cat got sick.|sd
 A|So she took the cat to the vet|sd
@@ -1817,15 +1817,15 @@ A|and you owe me this bill,|sd
 A|and oh, by the way, do you want me to, to bury the cat|sd
 A|So, it cost her three hundred dollars, uh,|sd
 A|and she didn't get the cat back.|sd
-A|So, yeah,|%
+A|So, yeah,|b
 A|they had to pay for all the medical, uh, bills that the cat ran up plus the burial expenses.|sd
 A|And, uh, you know, she just brought the cat in because he wasn't feeling good|sd
 A|So that  that was kind of a surprise|sd
 B|Really.|b
-B|Geez.|b
+B|Geez.|qy
 A|At|sd
 B|Yeah.|b
-B|You kind of wonder what really happened.|sd
+B|You kind of wonder what really happened.|sv
 A|Yeah.|b
 A|Well even the, you know,|%
 A|they, they claimed they did the best that they could have have|sd
@@ -1842,25 +1842,25 @@ A|because they're both in their, in their seventies. And, uh, the cat, uh, altho
 A|Uh, I think they enjoy that.|sd
 B|Only work initially.|sd
 A|Yeah.|b
-B|For cats anyway, you know.|sv
+B|For cats anyway, you know.|sd
 A|Yeah.|b
 B|Well, listen|%
-B|it's been a pleasure talking to you.|sv
+B|it's been a pleasure talking to you.|fc
 A|Well, the same here.|sd
 B|And you take care.|sd
 A|Okay.|b
-A|Bye now.|sd
+A|Bye now.|fc
 B|Maybe we'll talk again sometimes|sd
 A|Okay.|b
-A|What is that sound?|qy
+A|What is that sound?|qo
 B|That's my buzzer at the door|sd
 A|Oh, okay.|b
-A|I'll let you go.|sd
-B|Okay.|b
+A|I'll let you go.|^h
+B|Okay.|qo
 A|Right|b
-B|Thank you|sd
-B|Uh, so what do you do to exercise?|qy
-A|Uh,|%
+B|Thank you|fc
+B|Uh, so what do you do to exercise?|qo
+A|Uh,|b
 A|I, uh, weight train, uh, three days on and one day off.|sd
 B|Uh-huh.|b
 A|I, uh, ride bicycles, uh, fifteen, twenty miles, I don't know, maybe three times, maybe four times a week.|sd
@@ -1868,31 +1868,31 @@ A|I play basketball, uh, couple times a week.|sd
 A|I play softball one night a week.|sd
 A|Uh, that's what I do.|sd
 B|Um.|b
-A|What about yourself?|qy
-B|That's pretty impressive.|sd
+A|What about yourself?|qo
+B|That's pretty impressive.|ba
 B|Uh, I guess I bicycle.|sd
 B|Uh, the amount varies|sd
 B|as much as a hundred and fifty miles a week.|sd
 A|Uh-huh.|b
 B|Uh, I guess a play softball one night a week.|sd
 B|And I backpack a lot over the summer.|sd
-A|Oh, really?|b
-B|Yeah,|b
-B|that's, that's about the extent of it.|sv
+A|Oh, really?|bh
+B|Yeah,|qo
+B|that's, that's about the extent of it.|sd
 B|I mean, I don't do any of those things particularly, you know, for exercise.|sd
 B|But, uh, I guess the bicycling is the one thing I'll sort of, like, do if I feel like I need to go exercise|sd
 B|Uh, but I do it mostly for fun.|sd
 A|Yeah,|b
-A|uh, what do you ride, uh, like, a bunch of hills or pretty flat?|qy
+A|uh, what do you ride, uh, like, a bunch of hills or pretty flat?|qw
 B|It, it, it varies.|sd
 B|Uh, out near my house is pretty hilly.|sd
 B|Uh, but sometimes I bike to work which is about, uh, a fifteen mile trip each way.|sd
 B|And that's mostly flat.|sd
-A|How long does that take you to get to work?|qy
+A|How long does that take you to get to work?|qw
 B|Uh, about forty-five, fifty minutes.|sd
-A|How how does that work, work out with, uh, storing your bike and showering and all that?|sd
+A|How how does that work, work out with, uh, storing your bike and showering and all that?|qw
 B|Yeah,|b
-B|it can be a pain.|sd
+B|it can be a pain.|%
 B|Uh, basically, uh, I work on a campus|sd
 B|so I can store my bike in my office and walk across the, uh, campus to the, uh, gym, use the shower there|sd
 A|Uh-huh.|b
@@ -1910,8 +1910,8 @@ B|Not so much.|sd
 B|Uh, I guess mostly I bike on my own.|sd
 B|I've got a touring bike. Uh, though I haven't gone on any extended trips with it.|sd
 A|Uh-huh.|b
-B|How about you,|%
-B|what kind of biking do you do?|qy
+B|How about you,|qo
+B|what kind of biking do you do?|qw
 A|Uh, well, actually my wife just got me into it|sd
 A|and I did an, did an internship at the Institute for Aerobics Research in Dallas, the Cooper Clinic,|sd
 B|Uh-huh.|b
@@ -1925,7 +1925,7 @@ B|Uh-huh.|b
 A|so I began a program couple, I don't know probably three or four weeks ago|sd
 A|and I did my first bike rally this Saturday.|sd
 A|I did, uh, forty, forty miles,|sd
-B|Um.|b
+B|Um.|sd
 A|and, uh, that's the longest I've ever ridden so far,|sd
 A|I usually, you know, fifteen or twenty.|sd
 B|Uh-huh.|b
@@ -1937,17 +1937,17 @@ A|and I, I kind of held her back a little bit this, this weekend.|sd
 A|She wanted to go, go, go,|sd
 A|but, you know, she wanted to stay with me|sd
 B|Uh-huh.|b
-B|It's good to have a partner.|sd
+B|It's good to have a partner.|sv
 A|Yeah|b
 A|it really is.|sd
-B|Are you think of doing any, like, centuries, or ...|sv
+B|Are you think of doing any, like, centuries, or ...|qy
 A|Yeah,|b
 A|that would be cool sometime if I could, you know, work up to that.|sv
 B|Uh-huh.|b
 B|Yeah,|b
-B|I just wondered if you were going to do that mostly or more like, you know, uh, uh, touring like from Vermont or, you know, that kind of, thing.|sv
+B|I just wondered if you were going to do that mostly or more like, you know, uh, uh, touring like from Vermont or, you know, that kind of, thing.|sd
 A|Oh.|b
-B|I mean people seem to get into different aspects.|sd
+B|I mean people seem to get into different aspects.|sv
 B|One is more of a distance,|sd
 B|and one's more, just, you know,|sd
 B|they want to put some equipment on their bike and go for a tour.|sd
@@ -1964,55 +1964,55 @@ A|and I was just reading through a bicycle magazine and going through all the di
 B|Yeah,|b
 B|yeah.|b
 A|I mean, around Texas, you, you got about five or six,|sd
-A|if you live around the Dallas area, you got five or six every weekend to choose from. Because they're really into it.|sv
+A|if you live around the Dallas area, you got five or six every weekend to choose from. Because they're really into it.|sd
 B|Oh, that's nice.|ba
 B|Um.|b
 A|Bicycling is really big here.|sd
 A|I didn't know that, and, you know, until I came down here, and, kind of caught the fever.|sd
-B|Wow.|b
+B|Wow.|ba
 B|Yeah.|b
 A|Because I lived in Indiana all my life|sd
-A|and, you know, you may say see one or two guys on a bicycle that, or above the age of fifteen or something,|sv
+A|and, you know, you may say see one or two guys on a bicycle that, or above the age of fifteen or something,|sd
 B|Uh-huh.|b
 A|but, other than that it's nothing up there like it is down here.|sd
 B|Yeah,|b
 B|I'm not sure why that is.|sd
-B|I mean, generally in the Midwest it seems to be less, much less.|sd
+B|I mean, generally in the Midwest it seems to be less, much less.|sv
 B|I mean, maybe it's because of the winters. Uh, or maybe just because, you know, there's, there's a lot more flat lands, you know, out in the West.|sd
-A|Probably.|b
+A|Probably.|sd
 A|Yeah.|b
 B|So it makes biking a better alternative for transportation.|sd
 A|Yeah.|b
 A|It, there's a lot of bikers around here.|sd
 A|It's, it's really neat.|sd
 B|Uh-huh.|b
-A|There are a lot of, a lot of resources, a lot of magazines, and stuff,|sd
+A|There are a lot of, a lot of resources, a lot of magazines, and stuff,|sv
 A|little TEXAS BICYCLIST, is like a little newspaper that comes out every month.|sd
-B|Um.|b
+B|Um.|sd
 A|It's free|sd
 A|just go to the bike shock, bike shop and pick it up,|sd
 A|and it's got all the rides coming up,|sd
 A|so I guess I'm going to be busy about every Saturday this summer, going to a different ride.|sd
 B|Oh, that's terrific.|ba
-A|Yeah,|b
+A|Yeah,|qo
 A|see a little bit of Texas I've never seen before.|sd
 B|Uh-huh.|b
-A|So, uh, how long have you been biking?|qy
-B|Oh, I guess as an adult for just about the past, uh, three years or so|sd
+A|So, uh, how long have you been biking?|qw
+B|Oh, I guess as an adult for just about the past, uh, three years or so|sv
 B|Uh, you know, I guess last time I did it before that was college, which was about ten years ago.|sd
 A|Yeah.|b
 B|And, uh, yeah,|%
 B|I guess I just never really thought about it much for a while, uh, until I suddenly discovered all my friends were basically biking a lot.|sd
 B|And so I thought I'd try it, too.|sd
-A|Have you ever had a, uh, it's kind of slightly off the subject, but you ever had a, uh, a blood workup done recently or since you've been biking, to see if it,|sd
-B|No,|%
+A|Have you ever had a, uh, it's kind of slightly off the subject, but you ever had a, uh, a blood workup done recently or since you've been biking, to see if it,|qy
+B|No,|aa
 B|I haven't,|sd
 B|no.|b
 A|because it really, from what I understand, it really improves your, uh, cholesterol|sd
 B|Um.|b
 A|and, you know, it, uh, it kind of knocks down two of the big risk categories for coronary artery disease which is, uh, uh, low cardiovascular fitness, and also, uh, you know, the cholesterol.|sd
 B|Uh-huh.|b
-A|It gives you increased H D Ls and decreases your L D Ls.|sv
+A|It gives you increased H D Ls and decreases your L D Ls.|sd
 B|Oh, that's great.|ba
 A|Yeah,|b
 A|so ...|%
@@ -2020,20 +2020,20 @@ B|Yeah,|b
 B|I've, I've definitely noticed it's had a good effect on my pulse rate, my resting pulse.|sd
 A|Yeah.|b
 B|You know, it gets it down to about forty.|sd
-A|Really?|qy
+A|Really?|bh
 B|Yeah.|b
 A|That's good.|ba
 B|Yeah.|b
-A|You say you ride about a hundred, hundred fifty miles a week?|sv
+A|You say you ride about a hundred, hundred fifty miles a week?|sd
 B|Yeah.|b
-A|Man.|b
-A|That's, that's hard-core.|sv
-B|On average,|%
+A|Man.|sd
+A|That's, that's hard-core.|sd
+B|On average,|sd
 B|yeah.|b
 A|When do you get to begin with the winters and all that?|qy
-A|What time of the year do you usually embark on your,|sv
+A|What time of the year do you usually embark on your,|qw
 A|do you ride inside if you can't ride outside?|qy
-B|No,|%
+B|No,|qy
 B|I'm not that hard-core.|sd
 B|I mean there are some people,|sd
 B|in fact a lot of people will ride outside in the snow.|sd
@@ -2044,14 +2044,14 @@ B|I basically, I, I pretty much lay off for the winter.|sd
 B|Uh, I was thinking of getting rollers for the last winter, you know, because it will help your balance when you're indoor training.|sd
 A|Um.|b
 B|Uh, but I just, you know, more or less stocked, like an exercise bike and that kind of thing. uh,|sd
-B|but, yeah,|%
+B|but, yeah,|b
 B|I mean winters are kind of a problem|sd
 B|so, I'm more or less out of shape now that I've been biking, I guess, this year for just a couple of weeks.|sd
 A|Uh-huh.|b
-B|Uh, but, you know, up here it's only stopped snowing since then.|sv
+B|Uh, but, you know, up here it's only stopped snowing since then.|sd
 A|Yeah.|b
 B|Uh, but, yeah,|%
-B|it's, it's, it's, it's pretty good.|sv
+B|it's, it's, it's, it's pretty good.|sd
 B|It's, uh,|%
 B|the main, the main thing, I guess, for me is just to enjoy it because once it starts seeming like, you know, exercise and a chore I'll lay off it more.|sd
 A|Right.|b
@@ -2063,18 +2063,18 @@ B|I rotate around, uh, about four different routes, uh, from my house|sd
 B|or I'll sometimes come in the school.|sd
 B|It's nice coming,|sd
 B|it's, it's nice riding to school because it's all along a canal path uh,|sd
-B|because it's just, it's along the Erie Canal up here.|sd
-A|So, what school is it?|qy
+B|because it's just, it's along the Erie Canal up here.|sv
+A|So, what school is it?|qw
 B|Uh, University of Rochester.|sd
 A|Oh, okay.|b
 A|Yeah.|b
 B|So it's fairly picturesque.|sd
 A|Yeah.|b
 B|And, uh, so it's, it's, it's a good ride|sd
-B|as long as you're not doing it every day, it's a good ride|sd
+B|as long as you're not doing it every day, it's a good ride|sv
 A|Yeah.|b
-A|That's true.|b
-A|Sounds neat.|sd
+A|That's true.|aa
+A|Sounds neat.|ba
 B|Yeah.|b
 A|It's kind of,|sd
 A|I was wondering if I was going to talk with someone that never has exercised before and doesn't want to and everything else,|sd
@@ -2082,39 +2082,39 @@ A|but got a guy that rides a hundred and fifty miles a week.|sd
 A|That's, uh, motivating.|%
 B|Yeah.|b
 A|That's really good.|sd
-A|Well good talking to you|qy
-B|Oh, it was good talking to you.|sv
+A|Well good talking to you|fc
+B|Oh, it was good talking to you.|fc
 A|and keep up the good work.|sd
-B|Okay,|%
-B|you, too.|%
-A|All right.|b
-A|Take care.|sd
-B|Bye.|b
-A|Bye.|b
+B|Okay,|b
+B|you, too.|fc
+A|All right.|sd
+A|Take care.|fc
+B|Bye.|fc
+A|Bye.|fc
 A|Okay.|b
-A|Uh, far as, you know, crime in the cities, I'm sure, like in yours it's pretty, pretty bad.|sd
+A|Uh, far as, you know, crime in the cities, I'm sure, like in yours it's pretty, pretty bad.|sv
 A|Uh, probably the biggest thing we've got going now is the robberies|sd
 A|and theft and probably murder are the two top ones that we have.|sd
 B|Uh-huh.|b
-A|How about you?|qy
+A|How about you?|qo
 B|Uh, well, I don't actually live in the city,|sd
 B|but I'd probably say that's roughly right.|sd
-B|I mean crimes against property seem to outnumber crimes against life,|sd
-B|but I, I think with the current war on drugs and all this kind of stuff I'd say probably the police department would claim the number one crimes, crimes are probably solicitation of prostitution, uh, and sale of drugs.|sd
+B|I mean crimes against property seem to outnumber crimes against life,|sv
+B|but I, I think with the current war on drugs and all this kind of stuff I'd say probably the police department would claim the number one crimes, crimes are probably solicitation of prostitution, uh, and sale of drugs.|sv
 A|Uh-huh.|b
 A|probably right, if you look at it from that stand point.|sv
 B|Uh-huh.|b
 A|What, uh,|%
-A|is there anything, uh, that you particularly are concerned with in your particular area as far as security and that sort of thing?|sd
+A|is there anything, uh, that you particularly are concerned with in your particular area as far as security and that sort of thing?|qy
 B|Uh, where I live now it's, it's not so bad.|sd
 B|I mean I can basically leave my front door unlocked and not have to worry about it.|sd
 B|Uh, but I do have friends that live in the city|sd
-B|and I think that they get a lot of fallout from this war on drug thing. Uh, just because there are, like, crack houses, you know, on their street and stuff like this.|sd
+B|and I think that they get a lot of fallout from this war on drug thing. Uh, just because there are, like, crack houses, you know, on their street and stuff like this.|sv
 A|Uh-huh.|b
 A|Do you live in a real small town or, or out in the country?|qy
 B|I live out in the country,|sd
 B|yeah.|b
-A|How far out from the city, I mean, do you,|sd
+A|How far out from the city, I mean, do you,|qw
 B|I'm about fifteen miles out.|sd
 A|About fifteen miles.|sd
 A|I live in a little suburb, uh, which is, I guess from Dallas is twelve miles or so|sd
@@ -2122,27 +2122,27 @@ B|Uh-huh.|b
 A|but it's pretty congested.|sd
 A|We are considered in the country,|sd
 B|Um.|b
-A|but it doesn't really feel like you're in the country.|sd
-B|Um.|b
-A|Our major crimes in our immediate town, uh, is probably robberies, house robberies and very few instances of, you know, alcohol, drugs, uh, reported.|sv
+A|but it doesn't really feel like you're in the country.|sv
+B|Um.|sd
+A|Our major crimes in our immediate town, uh, is probably robberies, house robberies and very few instances of, you know, alcohol, drugs, uh, reported.|sd
 B|Uh-huh.|b
-A|However, I'm sure they're there.|sd
+A|However, I'm sure they're there.|sv
 B|Uh-huh.|b
 A|But, uh, right now our neighborhood is running about, uh, eighty percent of the homeowners have been robbed, sometime during their, their, uh, existence in that neighborhood.|sd
-B|Wow.|b
-B|That's huge .|sd
+B|Wow.|ba
+B|That's huge .|ba
 A|And since that time everybody's got some sort of burglar system or, you know, uh, burglar alarms uh, and including the out, uh, the outer perimeter type, uh, devices, sensors and things like that.|sd
 B|Uh-huh.|b
 B|Uh-huh.|b
 A|It's cut back, you know, considerably,|sd
 A|but it, it just shifts it from our neighborhood to another neighborhood to other neighborhood,|sd
 A|so it still, uh, remains city wide, pretty, pretty high.|sd
-B|Are there, are there any theories on why this is happening?|sd
+B|Are there, are there any theories on why this is happening?|qy
 A|Uh, I would say the majority of it's happening during the day, uh, between probably ten in the morning and three in the afternoon.|sd
 B|Uh-huh.|b
-A|Most,|%
-B|But why?|qy
-B|Why is it happening?|qy
+A|Most,|qy
+B|But why?|qo
+B|Why is it happening?|qw
 A|Well, most families, most families are young|sd
 A|and both people are working.|sd
 B|Uh-huh.|b
@@ -2159,11 +2159,11 @@ A|Probably the biggest items that, uh, that you get in our neighborhood, or, wou
 A|the, you know, Mercedes, Volvos, things that they can get, you know, big dollars for and the jewelry are the major targets,|sd
 B|Uh-huh.|b
 A|guns, that sort of stuff.|sd
-B|Um.|b
+B|Um.|sd
 A|Very few, you know, penny, penny ante stuff.|sd
-B|Well, what do you think can be done to reduce that sort of crime?|qy
+B|Well, what do you think can be done to reduce that sort of crime?|qo
 A|Well, uh, the police force, for one,|sd
-A|I think they could, uh, definitely add to the police force and the type equipment that they use.|sd
+A|I think they could, uh, definitely add to the police force and the type equipment that they use.|sv
 A|Uh, it's,|%
 A|oh, right now I think, we are about thirty thousand people|sd
 A|and there's only eight officers that patrol for thirty, for that amount of people which is not very many.|sd
@@ -2173,69 +2173,69 @@ B|Right.|b
 A|And,|%
 B|But, I mean, that's going to tend to,|sd
 B|I mean it seems to me that sort of approach will tend to simply make the cost of committing the crime slightly higher|sd
-B|in other words, you've increased the probability of somebody being caught a little bit.|sd
-B|The real question is how do you convince people not to commit such crimes in the first place.|sv
-A|Well, the,|%
+B|in other words, you've increased the probability of somebody being caught a little bit.|sv
+B|The real question is how do you convince people not to commit such crimes in the first place.|sd
+A|Well, the,|ba
 A|course in our particular state, uh, we have the prison overcrowding, whatever,|sd
-A|so they're giving the early release, uh,|sd
+A|so they're giving the early release, uh,|sv
 B|Right.|b
 B|They're doing that in our state, too.|sd
 A|Yeah,|b
 A|and, and it's,|%
-A|I think what they need to do is stop building more jails and start giving stiffer sentences, uh,|sd
-A|but for the,|%
+A|I think what they need to do is stop building more jails and start giving stiffer sentences, uh,|sv
+A|but for the,|sd
 B|So you think that would be a deterrent?|qy
-A|That would be, certainly be a deterrent.|sd
+A|That would be, certainly be a deterrent.|sv
 B|Uh-huh.|b
 A|And, uh, not necessarily, you know, give in to their, uh, human rights desires.|sd
-A|You know, if they're overcrowded, just keep cramming them in there till they just suffocate. Uh,|sv
-B|Well, what about an innocent person who happens to have been found guilty?|qy
+A|You know, if they're overcrowded, just keep cramming them in there till they just suffocate. Uh,|sd
+B|Well, what about an innocent person who happens to have been found guilty?|qw
 A|Uh, I think they'd have to go to extra measures to make sure a person's guilty, you know, in a lot of cases.|sv
 A|Course, I, I know you can't be a hundred percent foolproof.|sd
 B|Right.|b
 A|Uh,|%
-B|So you'd, you'd rather see it harder to convict somebody.|sv
-A|I'd rather see it a little bit harder and have a little bit more evidence, uh, to convict somebody|sd
+B|So you'd, you'd rather see it harder to convict somebody.|sd
+A|I'd rather see it a little bit harder and have a little bit more evidence, uh, to convict somebody|sv
 B|Uh-huh.|b
-A|and then those convicted, especially of, you know, murder and, and, uh, you know, major crimes, uh, to reach the life sentences and, you know, death penalties and follow-through with that.|sd
+A|and then those convicted, especially of, you know, murder and, and, uh, you know, major crimes, uh, to reach the life sentences and, you know, death penalties and follow-through with that.|sv
 B|Uh-huh.|b
 B|Huh.|b
-A|Uh, especially, you know, in the case of murder|sd
+A|Uh, especially, you know, in the case of murder|sv
 B|Right.|b
 A|uh, I know in my case, I, my wife and daughter were kidnapped, during a house robbery back in eighty-five|sd
-B|Oh, wow.|b
-B|Oh, my goodness.|b
+B|Oh, wow.|ba
+B|Oh, my goodness.|ba
 A|and we caught, the individuals got caught,|sd
 A|we, uh, we went through the court system and all that sort of thing|sd
 B|Uh-huh.|b
 A|and, uh, you know, two counts of kidnapping, uh you know, the, the forty-five to the head, you know, just the, the mental anguish and the whole nine yards uh, you know, the guy only got five years.|sd
 B|Uh-huh.|b
 B|Right.|b
-B|Wow.|b
+B|Wow.|ba
 A|And, you know, he was out within two months because of the parole system.|sd
-A|So what, what,|%
+A|So what, what,|qw
 B|Did you, did you sue him under the civil system?|qy
-A|Do what now?|qy
+A|Do what now?|qo
 B|Did you sue him under the civil system?|qy
-A|no.|b
+A|no.|aa
 A|I'm not real familiar with that.|sd
 B|Well, you could probably sue him for mental anguish or something, right, and try to get money from him|sv
 A|Oh.|b
 B|and,|%
-A|Well, the insurance companies and all that tried to, tried to go after him|sv
+A|Well, the insurance companies and all that tried to, tried to go after him|sd
 A|and they said, well, you know, he, they're, he has no job,|sd
 A|he has nothing,|sd
-A|there's nothing that he has that, that you could go after.|sv
+A|there's nothing that he has that, that you could go after.|sd
 B|Yeah.|b
-B|Makes you wish that had, uh, still had indentured servitude, for this sort of thing.|sd
+B|Makes you wish that had, uh, still had indentured servitude, for this sort of thing.|qy
 A|Yeah.|b
-A|Uh, very|%
-B|But they give the guy a job in prison and make him pay his damn debt.|sd
+A|Uh, very|sd
+B|But they give the guy a job in prison and make him pay his damn debt.|sv
 A|Yeah.|b
 A|They don't do that here.|sd
 A|Course they pay them,|sd
 A|but they don't, you don't,|sd
-A|you or the insurance companies never see any of that money.|sv
+A|you or the insurance companies never see any of that money.|sd
 B|Yeah,|b
 B|that's too bad.|sd
 A|And, uh, you know, and they're right now they're reluctant to go after him because they're, you know, they're, they're repeat offenders,|sd
@@ -2247,7 +2247,7 @@ B|Uh-huh.|b
 B|Uh-huh.|b
 A|But, uh, you know, basically the guy commits, you know three major crimes and, and, uh, and car theft on top of it, destroys my car,|sd
 B|Yeah,|b
-B|I, I think that's|sd
+B|I, I think that's|sv
 B|Yeah.|b
 B|Yeah.|b
 A|and we're out, you know, uh, you know, fifteen thousand dollars|sd
@@ -2256,35 +2256,35 @@ B|That's awful|sd
 A|and he goes out and commits it again.|sd
 A|Fact, he's back in jail now.|sd
 A|So, what, what, uh,|%
-B|Gives you sympathy for the vigilantes.|sv
+B|Gives you sympathy for the vigilantes.|qy
 A|Yeah.|b
-A|What, what deterrent does he really have?|qy
+A|What, what deterrent does he really have?|qw
 B|Yeah.|b
 A|Yeah,|b
 A|I think in our, in our particular neighborhood, vigilantism is becoming a real, real possibility.|sd
 B|Uh-huh.|b
 A|Uh, we've had a couple instances where break ins where the people have actually, you know, shot the people|sd
-B|Oh, my God.|sd
-A|and, uh, return offenders have,|sd
+B|Oh, my God.|ba
+A|and, uh, return offenders have,|%
 A|they've actually waited for them, where they've robbed, you know, particular neighborhood,|sd
 A|they'll rob one house,|sd
 A|then other people will wait up, you know, and wait for somebody to do something else, try to take it in their own hands.|sv
 B|Right.|b
-A|Course it doesn't always work out in their favor.|sd
+A|Course it doesn't always work out in their favor.|sv
 B|Right.|b
-A|But, uh, nevertheless, I think people are just getting fed up and saying, you know, you can't arrest all of us,|sd
+A|But, uh, nevertheless, I think people are just getting fed up and saying, you know, you can't arrest all of us,|sv
 B|Uh-huh.|b
 A|you can, you know, you can get some of us,|sv
 B|Right.|b
 A|you can't get all of us.|sd
 B|Uh-huh.|b
 A|Uh, and we're beginning to see more and more of that.|sd
-B|And that, that's a deterrent, too. If you think the home owner might be armed, right, and awake|sd
+B|And that, that's a deterrent, too. If you think the home owner might be armed, right, and awake|sv
 A|Yeah.|b
-B|here you break in,|sd
+B|here you break in,|%
 B|and you're going to get shot.|sd
 A|Yeah,|b
-A|that's, I mean that's certainly a possibility in, in,|sd
+A|that's, I mean that's certainly a possibility in, in,|sv
 A|we have had a few cases where the guy has broken in, you know, during the middle of the night and gotten himself shot to death.|sd
 B|Uh-huh.|b
 A|And, uh, it helps for a while|sd
@@ -2293,30 +2293,30 @@ A|but then just another different set of people come in,|sd
 A|and most of the people are transients from out, outside of the state.|sd
 B|Huh.|b
 A|Uh, I would say probably eighty percent of them that are caught, they're from places like up in Oklahoma, and Louisiana, Arkansas, you know, across the, the border.|sd
-B|Wow,|%
+B|Wow,|ba
 A|So, you know, people who don't readily read the newspapers in our town or whatever|sd
 B|Uh-huh.|b
 A|it's not many from the local communities.|sd
 B|Uh-huh.|b
 A|But, uh, it's a problem,|sd
-A|and I, I just, I think that the court systems need to be more accurate in, in, stiffer in their penalties,|sd
+A|and I, I just, I think that the court systems need to be more accurate in, in, stiffer in their penalties,|sv
 B|Yeah.|b
-A|would be a definite deterrent|sd
-A|and, and, uh, giving the, uh, police, uh, agencies a little bit more jurisdiction over what they do when they, when they catch these people.|sd
+A|would be a definite deterrent|aa
+A|and, and, uh, giving the, uh, police, uh, agencies a little bit more jurisdiction over what they do when they, when they catch these people.|sv
 B|Yeah.|b
 B|Uh-huh.|b
 B|I mean, I, I tend to agree with you.|sd
-B|I think, uh, what I would like to see is, number one, completely getting rid of these victimless crimes. Uh, there's no reason to enforce those and spend time and money doing it and, and worry about these things where people are getting hurt.|sd
+B|I think, uh, what I would like to see is, number one, completely getting rid of these victimless crimes. Uh, there's no reason to enforce those and spend time and money doing it and, and worry about these things where people are getting hurt.|sv
 A|Right.|b
-B|And I think one of the big things that you can do is, to increase deterrence is, uh, if someone is found guilty of a, uh, felony level offense, they lose their citizenship.|sd
+B|And I think one of the big things that you can do is, to increase deterrence is, uh, if someone is found guilty of a, uh, felony level offense, they lose their citizenship.|sv
 B|And they lose their constitutional rights. You know,|sd
 A|Uh-huh.|b
-B|and just a lot of things that we're trying to worry about, you know, protecting these people from, we just don't protect them.|sd
+B|and just a lot of things that we're trying to worry about, you know, protecting these people from, we just don't protect them.|sv
 A|I know like in my wife's case, they made her feel like the criminal.|sd
-B|I know,|%
-B|and I think, I think that's ridiculous.|sd
+B|I know,|sd
+B|and I think, I think that's ridiculous.|sv
 A|They, they went to all, all ...|sd
-A|Okay,|%
+A|Okay,|b
 A|have you painted something lately?|qy
 B|Yes,|b
 B|I have.|sd
@@ -2324,9 +2324,9 @@ B|That room I showed you.|sd
 A|Yeah.|b
 B|And then since then we have painted the bedroom.|sd
 A|Oh yeah,|b
-A|another bedroom.|b
+A|another bedroom.|sd
 B|Yeah,|b
-B|I showed you that one too didn't I?|sd
+B|I showed you that one too didn't I?|qy
 B|The brown one.|sd
 A|Yeah.|b
 A|Yeah.|b
@@ -2340,42 +2340,42 @@ A|Well, I painted the outside of my house and one bathroom.|sd
 B|Yeah.|b
 A|But I get, I have that problem with the the ceiling, you know, the, uh, the blown, blown, ceiling. You know where you get around the edge.|sd
 B|Oh yeah.|b
-B|Well, that is hard.|sd
+B|Well, that is hard.|ba
 B|Now, I asked Janice, or somebody recently how you do that uh, when you paint the ceilings you know where you have got that textured stuff, that they have special rollers that are real soft and furry that you paint that with.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-A|Well, how do you get the edge though?|qy
-B|How do you get the edge?|qy
+A|Well, how do you get the edge though?|qo
+B|How do you get the edge?|qo
 A|The the straight edge?|qy
-B|You just have to be real careful.|sd
+B|You just have to be real careful.|sv
 A|Oh, I see.|b
 B|We use, uh, uh, a two inch brush with, uh, on a slant|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
 B|and that mostly does it even though you still make mistakes.|sd
-B|But.|b
+B|But.|%
 A|Huh. Well are you going to paint the outside of your house too?|qy
 B|Well, yeah.|b
 B|I think I am going to do it this spring actually.|sd
-A|Oh really?|qy
+A|Oh really?|bh
 B|Yeah,|b
 B|there are six houses.|sd
-B|See the people that own the house they, uh, pay for anything like that, that we do.  As far as the the materials.|sv
-A|Oh nice.|b
+B|See the people that own the house they, uh, pay for anything like that, that we do.  As far as the the materials.|sd
+A|Oh nice.|ba
 B|There are three houses on this street the same color of yellow out of six houses.|sd
 A|Yeah.|b
 B|So, I am thinking I am going to change it to, uh, something, you know,|sd
 B|the brick is multi color. Mostly earth tones.|sd
 A|Uh-huh.|b
-A|Oh, that will be nice.|sv
+A|Oh, that will be nice.|ba
 A|Huh.|b
-A|Or, two tone, or two tone. You know.|sv
+A|Or, two tone, or two tone. You know.|sd
 B|Yeah.|b
 B|There are some columns that could be painted a different color too.|sd
 A|Uh-huh.|b
-B|What color did you paint your house?|qy
-A|White.|b
-B|On the out,|%
+B|What color did you paint your house?|qw
+A|White.|sd
+B|On the out,|sd
 A|But, I have a problem.|sd
 A|I can't get up high|sd
 A|and we can't paint the chimney|sd
@@ -2390,10 +2390,10 @@ B|and he has finished everything except the chimney.|sd
 A|Well, we did too.|sd
 A|We did it in the fall|sd
 A|and it, it's just too high.|sd
-A|It is really scary,|sd
+A|It is really scary,|aa
 A|but and the only thing I would consider doing, a professional, maybe doing that,|sd
 B|Yeah.|b
-A|but it|sd
+A|but it|%
 A|other than doing our own work I prefer it to a professional.|sd
 B|Well, our house in New Mexico, it was stucco,|sd
 B|but we had all this trim to paint, and lots of it.|sd
@@ -2404,25 +2404,25 @@ A|Uh-huh.|b
 B|So, I hired this man to come in and do it. A young kid.|sd
 A|Uh-huh.|b
 B|And he came with, with his own|sd
-B|what do you call those things?|qy
+B|what do you call those things?|qo
 A|The blowers?|qy
-B|No,|%
+B|No,|qy
 B|those where you built like a rafter thing.|sd
-A|Oh, oh, oh, oh, I know what you are talking about. Uh|sd
+A|Oh, oh, oh, oh, I know what you are talking about. Uh|b
 B|Yeah.|b
-B|Scaffold.|b
-A|scaffold.|b
-A|That's it|sd
+B|Scaffold.|sd
+A|scaffold.|sd
+A|That's it|qy
 B|He came and did it that way|sd
 B|and I think he charged me a hundred dollars to finish up.|sd
 A|Huh.|b
 B|And literally I wouldn't have done it with the scaffolds because all the places that I had left for him were above huge humongous cactus|sd
-A|Its,|%
+A|Its,|sd
 A|Yeah.|b
 B|and if he fell, he was dead|sd
 B|and he knew that|sd
-B|So,|%
-A|Oh, my.|b
+B|So,|b
+A|Oh, my.|ba
 A|So that was worth it getting a professional for that.|sd
 B|Yeah.|b
 B|Plus, he cleaned up my mess.|sd
@@ -2430,11 +2430,11 @@ A|Oh, I think that is what we might have to do with this chimney,|sv
 A|but other than that, it was pretty easy doing it ourself and caulking it and everything ourself.|sd
 B|Uh-huh.|b
 A|It wasn't too bad.|sd
-A|I mean you think,|%
-B|How much did it cost you for the paint for the outside?|qy
+A|I mean you think,|qy
+B|How much did it cost you for the paint for the outside?|qw
 A|Shoot, maybe a hundred and fifty.|sd
 B|Yeah.|b
-A|Since, it is a one story,|sd
+A|Since, it is a one story,|qy
 A|but we did, uh, like two heavy coats over it.|sd
 A|But then that way  you know you are assured you did a good job than you are, you know, if you hire someone to do it.|sv
 B|Yeah.|b
@@ -2447,7 +2447,7 @@ A|My word.|sd
 B|And, anyway, he, when he checked out and he was using his charge card too. They only charged him for one gallon of paint. Like thirteen bucks or something.|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-A|Oh, my word.|sd
+A|Oh, my word.|ba
 B|And he had, he had, the, uh, he had already carried a ladder outside and told her that|sd
 A|Uh-huh.|b
 B|and she wrung all that stuff up and made a mistake on the price of the paint|sd
@@ -2455,40 +2455,40 @@ A|Uh-huh.|b
 B|so she had to start all over again|sd
 A|Uh-huh.|b
 B|and when he got outside, he noticed his receipt was like thirteen ninety-nine or something.|sd
-A|Oh, my word.|sd
+A|Oh, my word.|ba
 B|And he saw .|sd
 A|So that was really worth it. Painting his own house.|sd
 B|Yeah,|b
 B|it was like over two hundred dollars worth of free stuff.|sd
-A|Oh, my word|%
-A|Oh, my word.|sd
+A|Oh, my word|ba
+A|Oh, my word.|ba
 A|Well, he really saved in that way.|sd
 B|Yeah.|b
-A|But, yeah,|%
-A|I think we are going to do, uh, another bathroom,|sd
+A|But, yeah,|b
+A|I think we are going to do, uh, another bathroom,|sv
 A|but I think I will probably just do it, in a roller.|sd
 A|I want to do it about the same color. And just be a little,|sd
 B|Uh. Rollers are so messy.|sd
 B|We never any more.|sd
-A|Oh, I know.|%
-A|But it's that, it's the textured wall.|sv
+A|Oh, I know.|b
+A|But it's that, it's the textured wall.|sd
 B|Well, a little paintbrush,|sd
-B|So what do you think?|qy
+B|So what do you think?|qo
 A|Uh, the causes of crime?|qy
-A|Um, I think it was imbalance of power in the United States.|sd
+A|Um, I think it was imbalance of power in the United States.|sv
 A|It's causing the lower class to rebel.|sd
 A|That's why there's such high crime,|sd
-A|and, uh, there's crime in, uh, young people because they don't have role models|sd
+A|and, uh, there's crime in, uh, young people because they don't have role models|sv
 B|Yeah.|b
-A|see too much crime on T V|sd
+A|see too much crime on T V|qy
 A|and they think it's the way to go.|sv
 A|I don't know.|sd
-A|What do you think?|qy
-B|What about,|%
-B|I agree with the upper and lower level, you know|sd
+A|What do you think?|qo
+B|What about,|qw
+B|I agree with the upper and lower level, you know|aa
 A|Uh-huh.|b
-B|because that's the lowest thing for themselves,|sd
-B|plus there's nobody for them to look up to.|sd
+B|because that's the lowest thing for themselves,|sv
+B|plus there's nobody for them to look up to.|sv
 A|Yeah.|b
 B|But I also blame some of it on parents|sd
 A|Okay.|b
@@ -2496,33 +2496,33 @@ B|because parents aren't parents.|sd
 A|Yeah.|b
 B|Because I remember even when I was growing up,|sd
 B|I'm thirty-five|sd
-A|Okay.|b
+A|Okay.|fc
 B|I remember when I was growing up,|sd
 B|and I had friends,|sd
-B|they used to do stuff like, you know, go over to a store and steal stuff.|sv
+B|they used to do stuff like, you know, go over to a store and steal stuff.|sd
 B|My mother warned us, it's like, I don't care what your friends do.|sd
-B|If you do it, then that was it.|sv
+B|If you do it, then that was it.|qy
 A|Yeah.|b
 B|And I knew that I would get in more trouble from my mother than from from anybody else.|sd
 A|From anybody else.|sd
-B|And I think that's the basic, is they have no morals any more,|sd
+B|And I think that's the basic, is they have no morals any more,|sv
 A|Yeah.|b
 B|so they don't care.|sd
 A|Yeah.|b
-B|So.|b
+B|So.|sd
 A|Yeah,|b
-A|I think I can agree with that too.|sd
+A|I think I can agree with that too.|aa
 B|But now, as far as what they can do about it, I don't know.|sd
 B|You can't make parents be parents|sd
-A|That's true.|b
-A|You got to kind of make people want to do the right thing.|sd
-B|You know.|b
+A|That's true.|aa
+A|You got to kind of make people want to do the right thing.|sv
+B|You know.|sd
 A|I don't know how you do that.|sd
-B|I guess if you gave the, gave them jobs,|sd
-B|that's another problem with the United States,|sd
+B|I guess if you gave the, gave them jobs,|sv
+B|that's another problem with the United States,|qy
 B|there's no jobs any more.|sd
 A|Yeah.|b
-B|But.|b
+B|But.|sd
 A|Well, I've heard this one theory, that if, that if a kid commits a crime, that, uh, instead of the, prosecuting the kid, they prosecute the parent.|sd
 A|Or both of them.|sd
 B|That would work to a point,|sd
@@ -2530,26 +2530,26 @@ A|Now, to put the blame on the parent.|sd
 B|Well, that'd work to a point because some kids are just bad anyway.|sv
 B|I don't care what you do to them.|sd
 A|Yeah.|b
-B|You know,|%
-B|so I think it depends on how much trouble that kid has been in, you know.|sv
+B|You know,|b
+B|so I think it depends on how much trouble that kid has been in, you know.|sd
 A|Yeah.|b
 B|Because a, a, a child can get into anything|sd
 A|Yeah.|b
-B|I don't care how good you, they are.|sv
+B|I don't care how good you, they are.|sd
 A|Yeah.|b
-B|at least one time,|sd
+B|at least one time,|qy
 B|but now if this is a repeated thing,|sd
 B|here with this child in juvenile,|sd
-B|and or, to me, yeah, both of them.|sd
+B|and or, to me, yeah, both of them.|%
 A|Yeah.|b
-B|Because that means she's still not doing what she's supposed to do.|sv
+B|Because that means she's still not doing what she's supposed to do.|sd
 B|Because I just watched it on T V one night on one of them, um, Twenty Twenty, Forty-eight hours, one of them shows where this boy had been stealing cars.|sd
 A|Uh-huh.|b
 A|Yeah.|b
 B|I don't know if you seen this.|sd
 A|Um.|b
 B|it was a little, it was a little gang of them stealing cars, you know,|sd
-A|No,|%
+A|No,|b
 A|I didn't see it.|sd
 A|I understand.|sd
 B|And then when they caught him, you know, his mother sitting there,|sd
@@ -2558,39 +2558,39 @@ B|That meaned she was warned.|sd
 A|Yeah.|b
 B|But see, by that, I think sometimes it's a little late.|sv
 A|Yeah.|b
-B|You know,|%
+B|You know,|b
 B|but I'm sure there's something can be done.|sd
 A|Yeah.|b
-A|What about with adults?|qy
-A|Anything do any about adult crime.|sd
+A|What about with adults?|qo
+A|Anything do any about adult crime.|qy
 B|Yeah,|b
 B|start prosecuting they|sd
-B|but really good instead of having a revolving door on the damn court system.|sd
+B|but really good instead of having a revolving door on the damn court system.|sv
 A|Yeah.|b
 A|Well, for one, a major problem with that is the jails are overcrowded.|sv
 B|Well, they should start with, the,|sd
-B|if they would get rid of.|sd
+B|if they would get rid of.|sv
 B|Seems to me, I know there's a lot about court that people don't understand.|sd
 B|There's more people in jail right now for child support, okay then there are for people doing drugs.|sv
 A|Uh-huh.|b
 A|Um.|b
-B|You ought to take all them little misdemeanor people|sd
+B|You ought to take all them little misdemeanor people|sv
 A|Yeah.|b
-B|let them go,|%
-B|let them go|sd
+B|let them go,|fc
+B|let them go|qy
 A|Yeah.|b
 B|you know, give them a fine, whatever,|sd
 B|make them do civic duty whatever,|sd
 A|Yeah,|b
-A|I mean seriously,|%
+A|I mean seriously,|sd
 B|Put them fools in there,|sd
-A|they ought to put those people to work.|sd
+A|they ought to put those people to work.|sv
 B|I call them all fools, idiots, whatever.|sd
 A|Yeah.|b
 B|Little rock stars, put all them in there.|sd
 A|Um.|b
 B|You know, the murderers, the drug dealers, the user, put them all in|sd
-B|jail you know,|%
+B|jail you know,|qy
 A|Yeah.|b
 B|and let all the normal people go|sd
 A|Yeah.|b
@@ -2601,36 +2601,36 @@ B|Let them people go.|sd
 A|Well.|b
 B|Not let them go and get out of it.|sd
 A|Yeah,|b
-A|they, you still have to punish them.|sd
-B|Let them go and pay their crime or their time doing something else you know, like cleaning up the city or however they do their community time, you know, whatever that is|sd
+A|they, you still have to punish them.|sv
+B|Let them go and pay their crime or their time doing something else you know, like cleaning up the city or however they do their community time, you know, whatever that is|sv
 A|Yeah.|b
 A|Yeah,|b
 A|that's,|%
-B|But don't put them in jail because they're not hardened criminals.|sd
+B|But don't put them in jail because they're not hardened criminals.|sv
 A|Yeah,|b
 A|and they're, they're still, they can provide for society,|sd
-A|whereas some of them are so far gone that they can't do anything good for society.|sd
+A|whereas some of them are so far gone that they can't do anything good for society.|sv
 B|Uh-huh.|b
 B|So.|b
-B|I don't know,|%
+B|I don't know,|sd
 B|some people, boy, they got,|sd
 B|I think the United States has got too many problems to be worrying about everybody else.|sv
 A|Yeah,|b
-A|that's true.|b
-B|Now how they going to fix it, I don't know.|sv
+A|that's true.|aa
+B|Now how they going to fix it, I don't know.|sd
 B|I don't think there is a ready solution.|sd
-A|No,|%
-A|I don't think so either.|sd
-A|Uh.|b
-B|Because the economy is down, people, you know, the, the, the low man on the pole is getting more of the, I guess, the bulk of it.|sd
+A|No,|qy
+A|I don't think so either.|sv
+A|Uh.|sd
+B|Because the economy is down, people, you know, the, the, the low man on the pole is getting more of the, I guess, the bulk of it.|sv
 A|Yeah.|b
 B|And he's got to work extra hard just to make ends meet.|sd
-A|And they keep taking more money from us|sd
+A|And they keep taking more money from us|sv
 B|Uh-huh.|b
 A|and people are get,|sd
-A|and they don't have any incentive to work if we're just going to take fifty percent of it.|sd
+A|and they don't have any incentive to work if we're just going to take fifty percent of it.|sv
 B|Yeah.|b
-A|Might as well steal,|%
+A|Might as well steal,|sd
 A|then they don't have to pay taxes on it|sd
 B|That's it.|sd
 A|Yeah.|b
@@ -2638,44 +2638,44 @@ B|So, you know, they, I, I, I know that's bad, but, you know, just like Texas no
 A|Uh-huh.|b
 B|They could have had a lottery.|sd
 B|They don't want a lottery.|sd
-B|Why not?|qy
+B|Why not?|qo
 B|I would rather pay for a lottery a dollar, two, three dollars, whatever I'm paying, you know a week or whatever, and never see any of that money, than to have them take a portion of my paycheck.|sd
 A|They'd have a,|sd
 A|Yeah.|b
 A|Yeah.|b
-B|Because, you know, they take,|sd
+B|Because, you know, they take,|%
 B|and Uncle Sam takes his,|sd
-B|the Social Security which probably won't be here when I get that old you know.|sv
+B|the Social Security which probably won't be here when I get that old you know.|sd
 A|Um.|b
 B|Because we're paying for Social Security they using now.|sd
 A|Yeah.|b
-B|Who's going to pay for mine?|qy
+B|Who's going to pay for mine?|qw
 A|I don't know|sd
-B|But it's, it's|sd
+B|But it's, it's|%
 A|I'm not counting on it.|sd
-B|No,|%
-B|you don't count on Social Security.|sv
+B|No,|sd
+B|you don't count on Social Security.|qy
 A|Yeah.|b
 B|But, it's, it's,|%
 B|that's what I'm saying,|sd
-B|they need to do something else.|sd
+B|they need to do something else.|sv
 A|Um.|b
-B|But.|b
-B|Crime is going to go up as long as the economy stays down.|sd
+B|But.|sd
+B|Crime is going to go up as long as the economy stays down.|sv
 A|Yeah.|b
 B|And it's going to get worse.|sd
 A|Yeah.|b
 B|That's just like last night they killed them people in that store.|sd
-B|Where you at?|qy
+B|Where you at?|qo
 A|I'm in Raleigh, North Carolina.|sd
 B|Oh|b
-B|No wonder you don't know that.|sv
-A|Well, where are you from?|qy
+B|No wonder you don't know that.|qy
+A|Well, where are you from?|qw
 B|I'm in Dallas.|sd
 A|Okay.|b
 B|But last night, they killed, uh, uh, four people in a chain food.|sd
 A|Oh, man.|b
-B|And killed them,|%
+B|And killed them,|sd
 B|well, it was two stores side by side.|sd
 A|Uh-huh.|b
 B|One was a store and one was like a, a fast food place,|sd
@@ -2684,8 +2684,8 @@ A|Yeah.|b
 B|Anyway, they raped the women, beat them all up, including the women,|sd
 B|I mean, they just beat them.|sd
 B|Stuck them in the freezer and then shot them all.|sd
-A|Ow.|b
-B|Why was, you know, why|sd
+A|Ow.|sd
+B|Why was, you know, why|qw
 A|Why did they do in the freezer?|qy
 B|you know, why didn't they just,|sd
 B|if they was going to lock them, just lock them in the freezer, take the money, you know.|sv
@@ -2693,46 +2693,46 @@ A|Yeah.|b
 B|They didn't have to kill them or rape them, or anything.|sd
 A|Um.|b
 A|Um.|b
-A|That's awful.|sd
+A|That's awful.|ba
 A|Yeah,|b
 A|we still get some in Raleigh.|sd
 A|I mean, not not too often real bad ones,|sd
 B|Uh-huh.|b
-A|but.|b
-B|It's just getting really ridiculous down here.|sd
+A|but.|sd
+B|It's just getting really ridiculous down here.|sv
 B|I wish I could move somewhere where, this, you know, you got to like in the country.|sd
 A|I don't think there's anywhere where there isn't going to be crimes.|sv
-B|Well, I think, if it's,|%
+B|Well, I think, if it's,|sv
 B|the town is smaller|sd
 A|Uh-huh.|b
 B|and everybody knows everybody|sd
 A|Yeah.|b
 B|it's harder to come in there and do something.|sd
 A|Yeah.|b
-B|Where is,|%
+B|Where is,|qo
 B|and, and, and see that's another thing.|sd
 B|Neighborhoods aren't neighborhoods any more.|sd
 A|Yeah.|b
-B|There's nobody is next door to you,|sd
-B|you don't know your neighbors, and stuff like that.|sv
+B|There's nobody is next door to you,|sv
+B|you don't know your neighbors, and stuff like that.|sd
 A|Yeah.|b
-B|It's just, huh-uh, you know,|%
+B|It's just, huh-uh, you know,|sd
 B|because I moved out some apartments before because they were loaded with drug dealers.|sd
 A|Um.|b
-B|And you didn't even,|sd
+B|And you didn't even,|%
 B|and what the manager, the manager won't even do anything.|sd
 A|He's probably a drug dealer himself|sd
 B|Uh-huh.|b
 A|You never know.|sd
-B|You don't.|sd
-B|And so I moved,|%
+B|You don't.|qy
+B|And so I moved,|sd
 B|because I moved the day probably a week after one of the apartments blew up you know,|sd
-A|Wow.|b
+A|Wow.|ba
 B|and this is like across the street.|sd
 B|This was a nice part of town|sd
-A|Um.|b
+A|Um.|sd
 B|and there across the street one of the apartments blew up because they were having that, making that, um, crack stuff|sd
-A|Um.|b
+A|Um.|%
 B|and then, the other time I saw the cops break down somebody's apartment around the corner.|sd
 B|I say, See, this is it.|sd
 A|Time to go.|sd
@@ -2741,7 +2741,7 @@ B|and I moved.|sd
 A|Yeah.|b
 B|And, you know, now I live in like a a neighborhood in a town house,|sd
 B|but it's nice.|sd
-B|I don't, you know.|sd
+B|I don't, you know.|%
 A|Yeah.|b
 A|I'm kind of in the same, same kind of deal, town house in a neighborhood.|sd
 B|But,|%
@@ -2759,22 +2759,22 @@ A|Most of them are too scared to do anything about it.|sd
 B|Uh-huh.|b
 B|That's it.|sd
 A|Yeah.|b
-A|All right.|b
+A|All right.|fc
 A|Well listen, I got to go.|sd
-B|All righty.|sd
-A|Nice talking to you.|b
+B|All righty.|b
+A|Nice talking to you.|fc
 B|And I thank you.|sd
 A|All right.|b
-B|Bye-bye.|b
-A|Bye-bye.|b
-A|Um,|%
+B|Bye-bye.|fc
+A|Bye-bye.|fc
+A|Um,|b
 B|Hi|sd
-A|one thing you know that I always think about when I think of public education|sd
+A|one thing you know that I always think about when I think of public education|sv
 A|cause I went through the public, um, school system of Boston,|sd
 B|Uh-huh.|b
 A|and, uh, I always felt that I graduated high school|sd
 A|and I still didn't even I, I couldn't put together a map of the United State.|sd
-B|Um.|b
+B|Um.|sd
 A|You know what I mean.|sd
 B|Uh-huh.|b
 A|An yet I felt that I got a good education|sd
@@ -2786,7 +2786,7 @@ A|I just felt like there were some real basics that are missing from education,|
 B|Uh.|b
 A|and the people are, are leaving school not even knowing some common sense things.|sd
 B|Yeah.|b
-B|One,|%
+B|One,|b
 B|well, talking about public education, um, I'm, we're doing a proposal,|sd
 A|Uh-huh.|b
 B|it's, we're doing it at N C State,|sd
@@ -2805,7 +2805,7 @@ A|did you notice a big difference?|qy
 B|Oh, yeah,|b
 B|a big difference.|sd
 A|Like in what sense?|qy
-B|Well, um, in, uh, public schools I guess there there are a lot of, of, you know,|sd
+B|Well, um, in, uh, public schools I guess there there are a lot of, of, you know,|sv
 B|people can take lower level courses an get away with learning nothing.|sd
 A|Uh-huh.|b
 B|But, um, private school you couldn't do that,|sd
@@ -2822,17 +2822,17 @@ B|Uh.|b
 B|That's bad.|ba
 A|it's just incredible.|sd
 B|Yeah,|b
-B|our State cut a whole bunch of a, I think it's ten million dollars out of the school budget.|sv
+B|our State cut a whole bunch of a, I think it's ten million dollars out of the school budget.|sd
 A|Really.|b
 B|So they're making all kind of cuts|sd
 B|in college people cannot, I mean, the teachers can't make tests any more,|sd
 B|and the library canceling all of it's subscriptions.|sd
 A|Yeah.|b
 B|It's pretty sorry.|sd
-A|I know,|%
-A|um, they, uh,|%
+A|I know,|aa
+A|um, they, uh,|sd
 A|I forget|sd
-A|I think it's, um, some place in New York because they're having budget problems, they're closing the libraries.|sd
+A|I think it's, um, some place in New York because they're having budget problems, they're closing the libraries.|sv
 B|Uh-huh.|b
 A|I mean they're not getting rid of any of the sports, or anything like that,|sd
 B|Uh.|b
@@ -2840,27 +2840,27 @@ A|they're not cutting in any other corner|sd
 A|they're closing the libraries.|sd
 A|That to me shows a little, uh, switch in priorities.|sd
 B|Yeah.|b
-A|You know.|b
+A|You know.|sd
 A|So do you go to college right now?|qy
-A|Are|b
-B|Yeah,|b
+A|Are|sd
+B|Yeah,|qo
 B|it's my last year|sd
-A|You're a, so you're a senior now.|sv
+A|You're a, so you're a senior now.|sd
 B|Yeah,|b
 B|I'm working on my projects trying to graduate|sd
-A|Oh, good for you.|b
+A|Oh, good for you.|fc
 B|Yeah.|b
-A|That's great,|%
-A|um, is, is N C University is that, uh, State,|sd
+A|That's great,|ba
+A|um, is, is N C University is that, uh, State,|qy
 B|N C State.|sd
-A|What did you say?|qy
+A|What did you say?|qw
 B|N C State.|sd
-A|N C State,|%
+A|N C State,|qy
 A|that's a State University then.|sd
 B|Yeah.|b
-A|I see.|sd
+A|I see.|b
 A|And you're from there also?|qy
-B|Well, yeah,|b
+B|Well, yeah,|ny
 B|I was, uh, I was born in|sd
 B|and then I lived in most of my life.|sd
 A|Uh-huh.|b
@@ -2868,12 +2868,12 @@ A|I see.|sd
 B|And now I'm back here going to school.|sd
 A|Well, pretty soon it's going to get to the point where no one is going to be able to afford to send their kids to college or to do go to college.|sv
 B|Yeah.|b
-A|It's just a outrageously expensive.|sd
+A|It's just a outrageously expensive.|sv
 B|Luckily state is one of the cheap ones.|sd
-A|Oh is it.|sd
+A|Oh is it.|qy
 B|Yeah.|b
 A|Well, still though|%
-A|I mean, you know, thousands of dollars,|sd
+A|I mean, you know, thousands of dollars,|%
 B|Yeah, state's not that bad|b
 A|Oh, well, that's good.|ba
 B|Yeah.|b
@@ -2886,14 +2886,14 @@ B|Yeah.|b
 A|But, um, I have a lot of friends that went to state schools or didn't even go to school, some, some of them,|sd
 A|and I still feel like they came out knowing just as much as I did.|sd
 A|I really do|sd
-A|and that's probably a pretty sad thing to say|sd
+A|and that's probably a pretty sad thing to say|sv
 A|but, um,|%
-B|Yeah,|b
-A|I don't know,|%
-A|I, I|%
-B|Where did you go?|qy
-A|what?|qy
-B|Where did you go?|qy
+B|Yeah,|qo
+A|I don't know,|sd
+A|I, I|sd
+B|Where did you go?|qo
+A|what?|qo
+B|Where did you go?|qo
 A|I went to University.|sd
 B|Uh-huh.|b
 A|It's in Massachusetts.|sd
@@ -2909,54 +2909,54 @@ A|and one thing she's trying to instill in kids, um, besides just reading and wr
 B|Uh-huh.|b
 A|she calls them just some basics about, um, you know, you don't take what's not yours,|sd
 A|uh, and if you want to, you know, you don't touch anybody else unless you have their permission.|sv
-A|Like no hitting, you know,|%
+A|Like no hitting, you know,|sd
 B|Uh-huh.|b
-A|no pulling hair or anything like that,|sd
+A|no pulling hair or anything like that,|qy
 A|and, uh, the school that she's in is a, um, it's basically for minorities,|sd
 A|um, there's a large minority population.|sd
 A|And, um, she's really noticed that even some of the teachers that work there|sd
 A|I think they don't value that type of student as much as you get, in some.|sv
 B|Yeah|b
 B|that's, sorry.|%
-B|That they, that they like pick on the advanced students and pay more attention to them, ignore the others.|sv
+B|That they, that they like pick on the advanced students and pay more attention to them, ignore the others.|sd
 A|Yeah,|b
-A|it's true.|sd
+A|it's true.|aa
 A|Uh-huh.|b
 B|Yeah.|b
 A|And I don't know if it makes them feel better|sd
 A|I mean the do teachers get,|sd
 A|I mean personally I would get more satisfaction out of taking someone that wasn't as successful.|sd
 B|Yeah.|b
-A|And seeing what they could do verses somebody that did excel in, in areas and just watching them get better, you know.|sv
+A|And seeing what they could do verses somebody that did excel in, in areas and just watching them get better, you know.|sd
 B|Yeah.|b
 A|That's not much of a challenge.|sd
-B|That's true.|b
+B|That's true.|ba
 A|But do you have any ideal what you're going into when you graduate.|sv
-B|Um, graduate school|%
+B|Um, graduate school|sd
 A|Oh yeah.|b
 B|Yeah.|b
 A|Do you know where you're going?|qy
 B|I think I'm going to Chappel Hill.|sd
-A|Where's that?|qy
+A|Where's that?|qo
 B|That's in Chappel Hill|sd
-B|the|%
+B|the|sd
 A|Oh is that North Carolina?|qy
 B|Yeah.|b
 A|Oh, okay.|b
-B|Never heard of the, uh, Tarheels?|sd
-A|No,|%
+B|Never heard of the, uh, Tarheels?|qy
+A|No,|qy
 A|I don't know that area.|sd
-B|The A C C Tarheels, U N C?|sd
+B|The A C C Tarheels, U N C?|qy
 A|I know it.|sd
-B|Oh, uh,|%
+B|Oh, uh,|b
 A|I don't get down there very often.|sd
 B|They won the final four, in boy's basket ball.|sd
-A|Oh, really,|%
+A|Oh, really,|b
 A|well the way I pick the final four was, um, by the state that had the warmest climate.|sd
 B|Uh-huh.|b
 A|So that's how I chose all mine,|sd
 A|so you can tell that I really didn't have that much to do with any of it.|sd
-A|But,|%
+A|But,|sd
 A|so obviously you're into education.|sd
 B|Yeah.|b
 A|If you can be going,|%
@@ -2968,81 +2968,81 @@ A|I give you a lot of credit.|sd
 A|I couldn't do it,|sd
 A|I, I couldn't wait to graduate and have, it be all over.|sd
 B|Yeah,|b
-B|I know.|%
+B|I know.|sd
 B|Oh.|b
 B|I can't wait to graduate either, now.|sd
-A|I know.|%
+A|I know.|sd
 B|I've got all of this stuff due|sd
-B|oh wow.|b
-B|Overloaded.|b
+B|oh wow.|ba
+B|Overloaded.|sd
 A|Yeah,|b
 A|I kind of know what you mean.|sd
-A|Well, it was really nice talking to you.|sd
+A|Well, it was really nice talking to you.|fc
 B|All right.|b
-A|Okay.|b
-A|Good luck.|b
+A|Okay.|fc
+A|Good luck.|fc
 B|All right,|b
-B|thank you.|b
-A|All righty,|%
-A|take care.|sd
+B|thank you.|qy
+A|All righty,|fc
+A|take care.|fc
 B|All right,|b
-B|bye.|b
-A|Bye-bye.|b
-B|Okay,|%
-B|well yes,|%
+B|bye.|fc
+A|Bye-bye.|fc
+B|Okay,|qo
+B|well yes,|b
 B|we do have pollution in Houston|sd
 B|and it,|%
-A|How bad is it?|qy
+A|How bad is it?|qo
 A|Do you have smog like they do in California?|qy
-B|Well it, it|%
-B|some,|%
-B|I think it depends on, uh, you know, what the, the cloud cover|sd
+B|Well it, it|sd
+B|some,|sd
+B|I think it depends on, uh, you know, what the, the cloud cover|sv
 B|and like right now, it's, uh, it's kind of overcast, you know,|sd
 B|just, it's hot,|%
 A|Uh-huh.|b
 B|and the sun is trying, tries to shine through|sd
 B|but it's, it's holding in this, this pollution|sd
-B|and I,|%
+B|and I,|sd
 A|It depends on whether you have some sort of temperature inversion, I take it.|sd
-B|I think so,|%
+B|I think so,|sd
 B|and, uh,|%
 A|Yeah.|b
 B|and we have, uh, Pasadena, Texas which is sort of between here an, you know, heading toward Galveston,|sd
 B|I mean it's still part of, it's part of the Houston metroplex.|sd
 A|Uh-huh,|b
 A|uh-huh.|b
-A|What do you think is your primary cause of it.|sv
+A|What do you think is your primary cause of it.|qw
 B|Well, I think it's industry|sd
 B|and I think it's cars.|sd
 A|You do?|qy
 A|You really think cars contribute a lot now that they've taken lead out of gas?|qy
-B|I don't, I,|%
-B|well maybe not,|%
-B|but, it, it sure, it sure,|%
+B|I don't, I,|sd
+B|well maybe not,|sv
+B|but, it, it sure, it sure,|sv
 B|you know, it,|%
 B|I, I know that when I'm, when I'm behind a car|sd
 B|and, uh, sometimes, uh, I can really smell especially diesel and things like that,|sd
 A|Uh-huh.|b
 B|you know, comes right into my air conditioner|sd
-B|and, you know, my head and my|sd
+B|and, you know, my head and my|%
 B|I'm so stopped up right now,|sd
-A|Um,|%
+A|Um,|b
 A|my goodness.|sd
 B|I don't know if it's, uh, if it's partly from what's blooming, you know, right now, pollen and stuff like that,|sd
 B|that's part of it,|sd
 B|but, um.|%
 A|Uh-huh.|b
 A|I think a lot of it's industrial.|sv
-A|I also think, uh, that, uh, there is a certain amount that comes from automobiles|sd
+A|I also think, uh, that, uh, there is a certain amount that comes from automobiles|sv
 A|but it's mostly from older automobiles.|sd
-A|I don't think the newer automobiles are as polluting, uh, frankly.|sd
+A|I don't think the newer automobiles are as polluting, uh, frankly.|sv
 B|Uh-huh.|b
-A|I think that, uh, I think that, uh, uh,|%
+A|I think that, uh, I think that, uh, uh,|sv
 A|if, uh,|%
 A|I, I, I heard a story a while back|sd
 A|something to the effect that if they could just pay to get twenty percent, or, take all the cars off the road that have been, uh, manufactured say before nineteen seventy-five, that they could cut the automobile pollution by over fifty percent just by getting rid of those cars that are still left remaining.|sv
 B|Uh-huh.|b
-B|You mean, uh, fifty percent pollution total from that comes from,|sd
+B|You mean, uh, fifty percent pollution total from that comes from,|sv
 A|Yeah.|b
 A|From, from cars|sd
 A|that is, not, not total but just from cars,|sd
@@ -3057,54 +3057,54 @@ A|On the other hand I know it's a much more polluter than any of the newer model
 B|Uh-huh.|b
 A|But I don't have any incentive to get out of it until it dies.|sd
 B|Right.|b
-A|And, uh, that may be part of the problem.|sd
+A|And, uh, that may be part of the problem.|sv
 B|Do you all have pollution in your part of the country, uh, from industry?|qy
 A|Yeah, ause|b
 A|yeah,|b
 A|yeah,|b
-A|oh, uh, yeah,|%
+A|oh, uh, yeah,|b
 A|it's, it's, uh, pretty heavy up here I think|sd
-A|but I think it's mostly industrial, is what I really, uh, believe is the, the main problem.|sd
+A|but I think it's mostly industrial, is what I really, uh, believe is the, the main problem.|sv
 A|And, and, uh, ause|%
-A|and, uh, uh, people, uh, I don't think are paying as close attention to it in this area as they frankly should.|sd
+A|and, uh, uh, people, uh, I don't think are paying as close attention to it in this area as they frankly should.|sv
 A|I, I we, we seem to have a high, uh, cancer rate up here in Maryland.|sd
-B|Really,|%
+B|Really,|sd
 A|Yeah,|b
-A|and, uh,|%
+A|and, uh,|sd
 B|like what|sd
 B|any particular kind or just all kinds?|qy
 A|Well, for instance breast cancer seems to be pretty rampant|sd
 A|and, uh, I think,|%
-A|of course prostrate cancer's sort of bad for everybody,|sd
+A|of course prostrate cancer's sort of bad for everybody,|sv
 A|but, uh, this state was like the second,|sd
 A|my wife's a registered nurse,|sd
 A|and I think this state was like second this year from the top, in terms of, uh, cancer rate for just all kinds.|sd
 A|And I can't help but believe that's not partially caused from pollution.|sd
 A|I just don't know exactly what it necessarily is,|sd
 A|but I just can't believe it is.|sd
-B|Um.|b
+B|Um.|sd
 A|Now we have a lot of pollution being caused by uh, fluorocarbons which is the, like freon twelve and freon twenty-two.|sd
 A|They use freon twenty-two in air conditioning systems in houses and the like and heat pumps,|sd
 B|Uh-huh.|b
 A|and they use freon twelve in car air conditioners|sd
-A|and that's also what's causing our atmosphere to lose it's ozone layer.|sv
+A|and that's also what's causing our atmosphere to lose it's ozone layer.|sd
 B|Uh-huh.|b
-A|And I can't help believe if it's sufficient enough to make the atmosphere lose it's ozone layer, that it's not acting as a pollutant in our lungs also,|sd
+A|And I can't help believe if it's sufficient enough to make the atmosphere lose it's ozone layer, that it's not acting as a pollutant in our lungs also,|sv
 A|and having all kinds of effects,|sd
 A|and.|%
-B|Well what can we do about the, the, the, the air conditioning problem?|qy
-A|Well they're working now,|sd
+B|Well what can we do about the, the, the, the air conditioning problem?|qw
+A|Well they're working now,|sv
 A|I know DuPont and Dow and several other chemical companies are working, uh, feverishly to try to come up with a substitute for fluorocarbons,|sd
 B|Uh-huh.|b
 A|and who ever does is going to make, uh, a mint.|sd
-A|Because if they ever come up with a reasonable working agent in place of fluorocarbons, then, uh,|sd
+A|Because if they ever come up with a reasonable working agent in place of fluorocarbons, then, uh,|sv
 B|Is that also what's in, uh, aerosol?|qy
 A|Well they used to be,|sd
 A|but they made them take it out of that.|sd
-B|Even, so, so the aerosol is still aerosol,|sd
+B|Even, so, so the aerosol is still aerosol,|sv
 A|Right.|b
 B|but it doesn't have anything that's damaging.|sd
-A|No,|%
+A|No,|sd
 A|they, they, they passed a law and made them take the fluorocarbons out of the aerosol containers,|sd
 B|Uh-huh,|b
 B|well that's good.|ba
@@ -3122,85 +3122,85 @@ B|it's, it's, you know,|%
 B|you're not, you don't have to,|sd
 B|but you know,|%
 B|I know I am.|sd
-B|I save,|%
+B|I save,|sd
 A|Yeah,|b
 A|well we are doing it pretty religiously in our group too.|sd
 A|But they, uh,|%
 A|in one of the counties here, they're actually doing a trial program of having a trash police.|sd
 A|They have a lady that goes around like a meter maid|sd
 A|and she spot checks people's trash.|sd
-B|No kidding,|%
-B|really,|%
+B|No kidding,|nn
+B|really,|b
 B|oh.|b
 A|And if they find a bottle or a can or anything like that in your trash, they'll fine you fifty bucks I think the first time and two fifty the second time.|sd
-B|Is that right.|b
+B|Is that right.|aa
 B|Well, we need to do something,|sd
 B|we need to get serious about it.|sd
 A|Yeah,|b
 A|you,|%
 A|right,|b
-A|you've got to get people to see|sd
-A|and surprisingly enough just handling of trash, uh, can cut pollution, uh, from, uh, uh, from just throwing it in a dump, or, or, or, where ever else they used to do with it, maybe used to burn it.|sd
+A|you've got to get people to see|%
+A|and surprisingly enough just handling of trash, uh, can cut pollution, uh, from, uh, uh, from just throwing it in a dump, or, or, or, where ever else they used to do with it, maybe used to burn it.|sv
 A|They've stopped that up here too.|sd
 B|Uh-huh.|b
-A|But that, that will cut pollution too.|sd
+A|But that, that will cut pollution too.|sv
 A|Because you get a lot of out gassing from these things, I think, decaying and and trying to,|sd
 A|for instance cans and bottles, they never go away at all.|sd
 B|Uh-huh.|b
 A|But on, on the other hand, I don't guess they're polluting.|sd
 A|But plastic containers and the like, uh, they may be,|sd
 A|I'm not sure of that.|sd
-B|How much does, uh, planting more trees and things like that help?|sd
+B|How much does, uh, planting more trees and things like that help?|qy
 A|Oh I think that's very important to do.|sv
-B|too.|b
-A|I, I really think that, uh, trying to get along with your environment and help it out is a very, very important thing.|sd
+B|too.|qy
+A|I, I really think that, uh, trying to get along with your environment and help it out is a very, very important thing.|sv
 B|Uh-huh.|b
-A|And, uh, that can help to cut pollution, I guess some.|sd
+A|And, uh, that can help to cut pollution, I guess some.|sv
 A|I, I don't know how much trees actually act as filtering agents in terms of pulling various pollutants or chemicals out of the air.|sd
 A|I would hope that they would help some, though.|sd
-A|That's for sure.|sd
+A|That's for sure.|ba
 B|I think, uh, it seems like there was something going on, around here, that, you know,|sd
 B|we have all these chemical plants and oil refineries and those kind of things and that they burn off a lot of stuff,|sd
 A|Uh-huh.|b
 B|and some of the stuff that they weren't supposed to do that somebody found out, you know, like in the middle of the night, they would go ahead and do it anyway.|sd
 B|I think they got caught.|sd
-A|Oh good.|b
+A|Oh good.|ba
 B|But I wonder how much of that kind of stuff, you know, goes on.|sd
 A|Well that, uh, that I think may go on a lot|sv
-A|and the primary reason I think it may go on a lot is just as you said, somebody happened to stay up late at night or something.|sd
+A|and the primary reason I think it may go on a lot is just as you said, somebody happened to stay up late at night or something.|sv
 A|I don't think we have a adequate policing, uh, particularly on industry.|sd
 A|Uh, we have good policing, at least in this state and, and several of the surrounding states and probably yours too, of car pollutants|sd
 A|because we have to go down, uh, once a year here in Maryland and get out car's exhaust systems checked for emission content.|sd
 B|Uh, we have to, uh, we have to have a state inspection every year.|sd
 A|Uh-huh.|b
 B|Do you all have that?|qy
-A|Uh, no,|%
+A|Uh, no,|ny
 A|we don't have a state inspection,|sd
-B|So,|%
+B|So,|sd
 B|which I,|%
-B|I|%
-B|I would|%
-A|but any time you sell a car or buy a car it has to be inspected in this state.|sv
+B|I|sd
+B|I would|sd
+A|but any time you sell a car or buy a car it has to be inspected in this state.|sd
 B|So I'm I'm assuming that, you know, they check, they check everything for safety|sd
-B|or,|%
-A|I don't know,|%
+B|or,|sd
+A|I don't know,|sd
 A|uh, that's something that you'd have to just check with your authorities.|sv
 A|But in this state we have to, uh, pay eight dollars and a half and go to a, an emission station once a year and get every one of our cars checked that are, have been made starting in nineteen seventy-three.|sd
 B|But that's all they check for,|sd
 B|they don't check how good,|sd
 B|if your tires are good enough or your brakes are good enough.|sv
-A|No,|%
-A|no,|%
+A|No,|b
+A|no,|qy
 A|we don't have inspections like that.|sd
 A|Now, I'm in Maryland,|sd
 A|in Virginia they check that every two years, I think.|sd
 B|We do that every year.|sd
-A|And I think that's a good idea too,|sd
-A|not, not that it necessarily has anything to do with cutting pollution necessarily,|sd
-A|but I think it's a good idea.|sd
+A|And I think that's a good idea too,|sv
+A|not, not that it necessarily has anything to do with cutting pollution necessarily,|sv
+A|but I think it's a good idea.|sv
 A|The emission check, though, is required in Maryland|sd
 A|and it's also required in Virginia, uh, a sister state to, to this one.|sd
-A|And that's, that goes a long ways towards cutting pollutants.|sd
+A|And that's, that goes a long ways towards cutting pollutants.|sv
 B|Well I'll have to check,|sd
 B|I'm not sure if, if our state inspection|sd
 B|once a year has to do, you know,|sd
@@ -3208,31 +3208,31 @@ B|if they check the, uh,|%
 A|Uh-huh,|b
 A|well if they don't I would imagine in time they'll get a law with. get around to it,|sd
 A|and if they don't then that's something I would certainly, uh, uh, suggest you be willing to uh, uh, be for in terms of, uh,|sd
-B|Oh, I would|%
+B|Oh, I would|sd
 A|Yeah,|b
 A|yeah.|b
 B|I'm for anything that cleans up the air or the water or, or, or anything.|sd
 A|Oh yeah,|b
-A|I, I agree.|sd
+A|I, I agree.|aa
 A|Now that's another area we haven't even discussed|sd
 A|and that is water pollution and various of the other types of, uh, of, uh, like food pollution.|sd
-A|I mean you, you hardly ever hear, hear anybody say anything about food pollution.|sv
+A|I mean you, you hardly ever hear, hear anybody say anything about food pollution.|sd
 A|But I think there we have a pretty good handle on inspection of foods in this countries,|sd
 A|so, uh, hopefully we're not ingesting too much in the way of, uh, pollutants in our food.|sd
-A|But water pollution, uh,|%
+A|But water pollution, uh,|sd
 A|I've worried, especially the last few years about just how good the water supply we have in this country is for drinking and the like.|sd
 B|Uh-huh.|b
 A|I know a lot more people are going to bottled water.|sd
-B|Well|%
+B|Well|sd
 B|and that's not necessarily the answer either|sd
 B|because they've found out that that's just comes out of somebody's tap.|sd
 A|Yeah,|b
-A|tap,|%
+A|tap,|sd
 A|yeah|b
-B|So,|%
-B|but a lot of these, uh,|sd
+B|So,|sd
+B|but a lot of these, uh,|%
 B|some of this|sd
-B|well, you know, a lot of people have well water,|sv
+B|well, you know, a lot of people have well water,|sd
 B|in fact in this area too|sd
 B|and, an, you know,|%
 B|and, uh,|%
@@ -3245,13 +3245,13 @@ A|Yeah,|b
 A|I'm absolutely for drinking water out of wells as long as you first of course, have it checked|sd
 A|because it seems, uh,|%
 A|when I was a kid growing up down south, uh, I used to go out in the country where my grandparents were|sd
-A|and we had a well,|sd
+A|and we had a well,|%
 A|it was one of those draws that,|sd
 A|I forget what you call those things,|sd
 B|Uh-huh.|b
 A|and, and that was some of the best tasting water,|sd
 A|I mean, I can still to this day taste that water.|sd
-B|When we were,|%
+B|When we were,|sd
 B|when I was growing up I lived in Huntsville, Alabama,|sd
 A|Yeah.|b
 B|and their water supply came from, uh, spring.|sd
@@ -3259,12 +3259,12 @@ A|Uh-huh.|b
 B|And it was like ice cold, spring water|sd
 B|and I guess parts of the, the city still you know, get that,|sd
 B|but, uh, that was, that was really wonderful.|sd
-A|Oh, I bet it was.|sd
+A|Oh, I bet it was.|aa
 B|It was really, really good.|sd
 A|Yeah,|b
 A|once it's been filtered an if it's a deep enough well, filtered through all the earth and everything I think that, uh,|sv
-A|it depends of course where you are.|sv
-A|A good well, though, I think is very healthy ...|sd
+A|it depends of course where you are.|sd
+A|A good well, though, I think is very healthy ...|sv
 A|The Latin American situation in,|sd
 A|the last development I know of was the military and financial assistance Columbia for the, for the drug, uh, control.|sd
 B|Uh-huh.|b
@@ -3275,86 +3275,86 @@ A|And,  the source of supply.|sd
 B|Uh-huh.|b
 A|Uh, the problem is here,|sd
 A|but the source of supply is there.|sd
-B|That's true.|b
+B|That's true.|aa
 B|Very definitely so.|sd
-A|In fact I think a lot of the,|sd
+A|In fact I think a lot of the,|sv
 A|I've been to, uh, Peru several times.|sd
 B|Uh-huh.|b
 A|I've never been to other parts of South America,|sd
 A|but, uh, I have been to Peru,|sd
 A|and they need some assistance down there|sd
 A|and I'm sure that, uh, as an undeveloped country they look, look for it,|sd
-A|but there is not exactly a lot of, uh, physical responsibility there. *listen; probably 'fiscal' not 'physical'|sd
+A|but there is not exactly a lot of, uh, physical responsibility there. *listen; probably 'fiscal' not 'physical'|sv
 B|No.|b
 B|Very immature in that respect.|sd
-A|Yes,|b
+A|Yes,|qo
 A|right.|b
-A|And I, I think that, uh, they need guidance and assistance,|sd
-A|but they need to learn how to stand on their own, own two feet also.|sd
-B|I agree.|sd
-B|I think that for so long power financially, uh, governmentally, every which way was in the hands of such a few that there's not the middle class that we, we perceive.|sd
+A|And I, I think that, uh, they need guidance and assistance,|sv
+A|but they need to learn how to stand on their own, own two feet also.|sv
+B|I agree.|aa
+B|I think that for so long power financially, uh, governmentally, every which way was in the hands of such a few that there's not the middle class that we, we perceive.|sv
 A|Uh-huh.|b
 A|Oh, no, the, and the poor are extremely poor.|sv
-A|I know,|%
-B|Are extremely poor.|sd
-B|That's correct.|sd
+A|I know,|sd
+B|Are extremely poor.|qy
+B|That's correct.|sv
 A|I know, uh, some of the areas in, in Texas seem poor,|sd
 A|but until you've seen some of those, uh, native,  Latin Americans come down from the hills, you can't imagine what poor is.|sd
 B|Uh-huh.|b
 A|And, uh, the worst scene I've ever had I think was, uh, someone eating out of, out of a garbage can on the streets in Lima, Peru.|sd
 B|And, and just very happy to get that.|sd
-A|Oh, yes.|b
+A|Oh, yes.|bh
 A|Yes.|b
 B|I have a brother who spent two years in Bolivia.|sd
 A|Uh-huh.|b
-B|And this is very much his, you know, reaction that the rich are so rich and the poor are so poor.|sd
-A|Oh, the, there's a joke,|sd
+B|And this is very much his, you know, reaction that the rich are so rich and the poor are so poor.|sv
+A|Oh, the, there's a joke,|%
 A|the, the graft and the, uh, payoffs down there are are an accepted way|sd
-A|and, in a way,|sd
+A|and, in a way,|%
 B|Uh-huh,|b
 B|uh-huh.|b
 A|And there's, there's a sad joke.|sd
 A|I guess all jokes are really sad,|sd
-A|but there's a joke about the, uh, Ambassador from Latin America that came to visit a Senator in the U S and was taken to his home for dinner|sd
+A|but there's a joke about the, uh, Ambassador from Latin America that came to visit a Senator in the U S and was taken to his home for dinner|sv
 A|and the, uh, home was palatial.|sd
 A|They had five or six servants, you know, and, and, a lot of expensive, uh, holdings and all that,|sd
 A|and the Ambassador said, but I know what you make as a U S Senator,|sd
-A|how can you afford all of this?|qy
+A|how can you afford all of this?|qw
 A|And he said, come I'll show you|sd
 A|and he walked out in the backyard|sd
-A|and the, uh, Senator said do you see that hospital over there?|sd
+A|and the, uh, Senator said do you see that hospital over there?|qy
 A|And the Ambassador said, yes.|sd
 A|And he patted his pocket|sd
 A|and he said fifteen percent.|sd
 A|He said, you see that school over there?|qy
-A|And the Ambassador said, yes,|sd
+A|And the Ambassador said, yes,|%
 A|and he pot, patted his pocket and said fifteen percent,|sd
-A|so,|%
-B|Oh, gosh.|b
+A|so,|sd
+B|Oh, gosh.|ba
 A|so the next year the Senator went to Latin America to visit the Ambassador and was treated to dinner in his home|sd
 A|and it was twice as large and four times as many servants.|sd
 A|He said, well I know how poor your country is,|sd
-A|how can you afford this, uh, in such a poor country,|sd
+A|how can you afford this, uh, in such a poor country,|qw
 A|and he, he said, come I'll show you|sd
 A|and he walked out the backyard|sd
 A|and he said, do you see that hospital over there?|sd
-A|And the Senator looked|sd
+A|And the Senator looked|sv
 A|and he couldn't see anything,|sd
 A|he said, no.|sd
 A|And the Ambassador potted, patted his pocket and said one hundred percent|sd
-A|so,|%
-B|Yep|%
-A|Yeah,|b
-A|that,|%
-A|it's a sad story|sd
+A|so,|sd
+B|Yep|b
+A|Yeah,|qo
+A|that,|b
+A|it's a sad story|sv
 A|but,|%
-B|Intentions, intentions|%
+B|Intentions, intentions|qy
 A|Yes,|b
 A|yes,|b
-A|but it, uh, it is a problem.|sd
-B|I know.|%
+A|but it, uh, it is a problem.|sv
+B|I know.|sd
 B|Uh, I have a sister-in-law who is from Nicaragua|sd
-B|and her family,|%
+B|and her family,|sd
 B|her father was a fairly, uh, high ranking official under Somoza.|sd
 B|And when that went down the tubes they had to get out.|sd
 A|Uh-huh.|b
@@ -3366,148 +3366,148 @@ B|and now, uh, couple of the older ones stayed or went back,|sd
 B|but the rest of them now have their American citizenship and are leading productive lives,|sd
 A|Uh-huh.|b
 B|but, you|%
-A|Well, the the other instance I think of their inability to, to handle things, the cholera,  and hepatitis epidemics now in, in Latin America.|sv
+A|Well, the the other instance I think of their inability to, to handle things, the cholera,  and hepatitis epidemics now in, in Latin America.|sd
 B|Yes.|b
 A|And it shows the, the unpreparedness for such, such a problem.|sd
-B|Yes.|b
+B|Yes.|qo
 A|And yet they're so,|sd
-B|Oh, the stories she tells, you know, are just unnerving just unnerving.|sv
+B|Oh, the stories she tells, you know, are just unnerving just unnerving.|sd
 A|Yeah.|b
 A|And they're, they're so rich in resources there.|sd
 A|They're very rich in oil and gas.|sd
-A|And they're very rich in gold and silver, and very rich in, in, uh, natural resources such as the fish and, uh timber, and, and copper and all types of, uh, resources|sd
+A|And they're very rich in gold and silver, and very rich in, in, uh, natural resources such as the fish and, uh timber, and, and copper and all types of, uh, resources|sv
 B|Uh-huh,|b
 B|uh-huh.|b
-A|but they,|%
+A|but they,|sd
 B|And the uranium.|sd
 A|Yes,|b
-A|and,|%
+A|and,|sd
 A|but they don't have,|sd
 A|it's sort of like Russia,|sd
 A|they don't have the ability to develop it.|sd
 B|The technology.|b
 A|Right.|b
 A|And they, they're very,|sd
-B|Well,|%
-B|and, you know, they're very willing to be taught in many cases now, too,|sd
-B|but, you know, there's just always this kind of resentment underlying|sd
-B|I think that when they receive help from us, they want it,|sd
+B|Well,|qy
+B|and, you know, they're very willing to be taught in many cases now, too,|sv
+B|but, you know, there's just always this kind of resentment underlying|sv
+B|I think that when they receive help from us, they want it,|sv
 B|but, they don't want it, I mean|sd
-A|You're you're exactly right.|sv
+A|You're you're exactly right.|sd
 B|It's kind of a catch twenty-two.|sd
 A|Uh-huh.|b
-A|It, it's sort of illustrated by the, uh, World Bank and International Monetary Fund not wanting to continue to do business there|sd
+A|It, it's sort of illustrated by the, uh, World Bank and International Monetary Fund not wanting to continue to do business there|sv
 A|because they offer assistance, then don't get repaid.|sd
 B|Yeah,|b
 B|yeah.|b
 A|So it's sort of a thumbing of the nose, uh, approach.|sd
-A|They need it,|sd
-A|and they need to live up to certain regulations and expectations,|sd
+A|They need it,|sv
+A|and they need to live up to certain regulations and expectations,|sv
 A|but uh, then don't.|sd
-A|Of course it's a very volatile government, uh, situation, too.|sd
-B|Well,|%
-B|and I think that, you know, it,|%
-B|somewhat a sarcastic view,|sd
+A|Of course it's a very volatile government, uh, situation, too.|sv
+B|Well,|b
+B|and I think that, you know, it,|sd
+B|somewhat a sarcastic view,|ba
 B|but some of those drugs czars, you know,|sd
-B|they, they know that by pumping that poison into our system that that's the way to bring us to our knees, more on their level.|sv
+B|they, they know that by pumping that poison into our system that that's the way to bring us to our knees, more on their level.|sd
 A|Uh-huh.|b
-A|You know,|%
-B|You know, that's really, uh, kind of a far fetched idea,|sd
-B|I know,|%
-B|and I don't think people probably think those things consciously,|sd
+A|You know,|qy
+B|You know, that's really, uh, kind of a far fetched idea,|sv
+B|I know,|sd
+B|and I don't think people probably think those things consciously,|sv
 A|Uh-huh.|b
 B|but it's like in any sibling rivalry|sd
 A|Well the,|%
 B|we're hearing the same,|sd
-A|The solution discussed at one time and I think it has real merit on the drug situation is that the the U S government could spend less money by buying the crop and destroying it than they are in trying to, to beef up the military and to do all other things.|sd
-A|I think it would be cheaper to buy it and destroy it,|sd
-A|which would still give the, uh, the grower in Columbia and elsewhere in Latin America the, uh, the money that they apparently need and go, go to the illegal crop for.|sd
-A|And it would save the U S money in in the long run in how much they're trying to do,|sd
+A|The solution discussed at one time and I think it has real merit on the drug situation is that the the U S government could spend less money by buying the crop and destroying it than they are in trying to, to beef up the military and to do all other things.|sv
+A|I think it would be cheaper to buy it and destroy it,|sv
+A|which would still give the, uh, the grower in Columbia and elsewhere in Latin America the, uh, the money that they apparently need and go, go to the illegal crop for.|sv
+A|And it would save the U S money in in the long run in how much they're trying to do,|sv
 B|In the long run.|sd
 B|And in the short run probably too.|sd
 A|True.|b
-B|Course, then could, you know, at, at some point, could you ever convince someone to turn around and grow something that was productive for humankind.|sd
-A|No,|%
-A|no.|b
-B|You know.|b
-A|And, I, I think finding an alternate to that would be very good.|sd
-B|I mean even their, even their legal crops are things that we don't perceive as being healthy now from a medical standpoint of view, coffee tobacco you know|sd
+B|Course, then could, you know, at, at some point, could you ever convince someone to turn around and grow something that was productive for humankind.|sv
+A|No,|qy
+A|no.|qy
+B|You know.|sd
+A|And, I, I think finding an alternate to that would be very good.|sv
+B|I mean even their, even their legal crops are things that we don't perceive as being healthy now from a medical standpoint of view, coffee tobacco you know|sv
 A|Right.|b
 A|Uh-huh.|b
-A|Argentine beef,|%
+A|Argentine beef,|sd
 A|yeah,|b
 A|yeah.|b
 B|They're certainly legal,|sd
 B|but they're certainly not healthy.|sd
-A|Well, have we come up with a solution yet, Salina?|sd
-B|No,|%
+A|Well, have we come up with a solution yet, Salina?|qy
+B|No,|sd
 B|not that I know of|sd
 B|But it's been fun hashing about it I suppose.|sd
-B|At any rate,|%
+B|At any rate,|sd
 B|yeah.|b
 A|Yeah,|b
 A|yeah.|b
 A|Well, one of these days, uh, I hope we'll find some, some way to substitute the good crops for illegal ones.|sd
-B|Well, let's just hope that the powers that be, uh, have time to, a little bit once in a while to, to think in some farther reaching avenues than you and I do here tonight|sd
+B|Well, let's just hope that the powers that be, uh, have time to, a little bit once in a while to, to think in some farther reaching avenues than you and I do here tonight|sv
 B|but,|%
-A|I agree.|sd
-B|Well, it's been nice chatting with you.|sv
+A|I agree.|aa
+B|Well, it's been nice chatting with you.|sd
 A|Yes,|b
 A|it has.|sd
-B|I appreciate it,|%
+B|I appreciate it,|sd
 B|and, and tell your wife I hope we, I get her again sometime, too.|sd
-B|This is fun,|%
-A|Very good|%
-B|It's kind of nice to, to see old friends now, you see.|sv
+B|This is fun,|sd
+A|Very good|sd
+B|It's kind of nice to, to see old friends now, you see.|sd
 A|All right,|b
-A|thank you Salina.|sd
-B|Bye now.|sd
-A|Bye.|b
-B|Gun control seems to be a rather, uh, timely topic, with all that's going on legislation wise.|sd
+A|thank you Salina.|qy
+B|Bye now.|fc
+A|Bye.|fc
+B|Gun control seems to be a rather, uh, timely topic, with all that's going on legislation wise.|sv
 A|Yes|b
 B|And, uh, the, the interesting scale that they assigned it, uh, the one being a banned and ten being no regulations or totally free|sd
 B|I'd have to put myself pretty much in the middle, I guess.|sd
 B|I, I don't mind regulating all of the, the guns|sd
 B|and I would certainly call for a ban on certain types.|sd
-B|Now the, the wisdom as to which types, that's going to be a debate forever, I would assume.|sd
-B|Uh, the method of, of controlling it, well that's all into how much money you want to put into the, the controls.|sd
+B|Now the, the wisdom as to which types, that's going to be a debate forever, I would assume.|sv
+B|Uh, the method of, of controlling it, well that's all into how much money you want to put into the, the controls.|sv
 B|Uh, one point that was made in the House hearings|sd
-B|or|%
+B|or|sd
 B|the representative stood up and said, you know, we can check a guy's credit card instantly,|sd
 B|but, uh, we don't want to check his background,|sd
-B|and of course those are two different issues as far as privacy goes|sd
+B|and of course those are two different issues as far as privacy goes|sv
 A|Right.|b
-B|uh,|%
+B|uh,|b
 B|but there still, the, the technology exists to, to check it if they want.|sd
 B|So, it's, it's kind of a,|sd
-B|I guess you could put a dollar figure on it if you really want to make that kind of an effort and regulate it like that.|sd
-B|And then you've got the group of people that decide that there's, there's no particular reason to have them at all|sd
-B|and you got to balance those against the ones that say there is some sport to it|sd
+B|I guess you could put a dollar figure on it if you really want to make that kind of an effort and regulate it like that.|sv
+B|And then you've got the group of people that decide that there's, there's no particular reason to have them at all|sv
+B|and you got to balance those against the ones that say there is some sport to it|sv
 B|and I guess I would fall more in the, the realm that I like the sport issue of it,|sd
 B|but I, I could give it up without too much trouble,|sd
 B|not the world's most pleasurable thing|sd
 B|and it costs a bit to do it, uh, finding ranges and things like that.|sd
-A|Yes|b
+A|Yes|qo
 A|Right.|b
 B|Uh, I have shot a variety of guns for a number of years,|sd
 B|but it's just not like golf or whatever.|sd
 B|I mean there are other things that you could go do.|sd
 B|So, uh, I, I don't see the, the joy of shooting as, as that much of a driving factor.|sd
-B|I think that society could easily swing the scales the other direction just for the sake of safety of the number of kids that tend to get hurt,|sd
+B|I think that society could easily swing the scales the other direction just for the sake of safety of the number of kids that tend to get hurt,|sv
 A|Yeah.|b
 B|I don't even keep the gun in our house,|sd
 A|Right.|b
 B|so I don't have that problem,|sd
-B|but, uh,|%
+B|but, uh,|sd
 B|it's a hard, hard topic, I guess.|sd
-B|A lot of people have a hard issue, a lot of hard feelings about it.|sd
-A|They do,|%
-A|and you, boy you can get them on either side|sd
-A|and just like you say,|sd
+B|A lot of people have a hard issue, a lot of hard feelings about it.|sv
+A|They do,|sd
+A|and you, boy you can get them on either side|sv
+A|and just like you say,|%
 A|uh, well I think I, I guess I'd have to place myself, uh, probably seven or eight|sd
-A|because,|%
-A|or not,|%
-A|onto no control,|%
+A|because,|b
+A|or not,|sd
+A|onto no control,|sd
 A|I'm sorry, excuse me, that,|sd
 A|uh, two or three.|sd
 B|Uh-huh.|b
@@ -3519,26 +3519,26 @@ A|uh, he knew where booth, both places were, loaded the gun|sd
 A|and they were playing cowboys and Indians|sd
 A|and he shot the other little boy right between the eyes.|sd
 A|So, uh,|%
-A|I mean it,|%
+A|I mean it,|sd
 A|it destroyed two families uh, in just that instant|sd
 B|Right.|b
 A|and, and I, a lot of people say that they need it for protection, uh,|sd
 A|having worked at one time in Baltimore,|sd
-A|or,|%
+A|or,|qy
 A|I don't know if you're in the big city,|sd
-B|Dallas.|b
-A|are you,|%
+B|Dallas.|sd
+A|are you,|qy
 A|Dallas?|qy
 B|Uh-huh.|b
-A|That's a big city|sd
+A|That's a big city|%
 B|Yeah.|b
 A|Uh, then you know that, uh, uh,|%
-A|if you live anywhere real close that, uh,|sv
-A|the safety is, uh,|%
+A|if you live anywhere real close that, uh,|sd
+A|the safety is, uh,|sd
 A|some people argue that they need a gun to make sure that they aren't going to get shot because of the incidences of break ins and, you know.|sv
 A|But, uh, uh, we have never had a gun in the house with my children growing up.|sd
-A|Uh, I, uh,|%
-A|once, uh, uh, knew a fellow that had, had been a policeman|sd
+A|Uh, I, uh,|sd
+A|once, uh, uh, knew a fellow that had, had been a policeman|qy
 A|and he said that if you pull a gun on a robber, he's going to assume that you know how to use it well,|sd
 A|and he's going to, you know, try to shoot first.|sd
 B|Right.|b
@@ -3550,110 +3550,110 @@ A|I mean, you know they, they,|%
 B|Right.|b
 A|he said that it, it was better not to have,|sd
 A|especially myself, now I'm a widow,|sd
-A|and, uh,|%
+A|and, uh,|sd
 A|I, so I'm, when my handicapped son is, is not at home, I'm by myself,|sd
 A|but, uh, there's,|%
 A|I still won't have a gun in the house because he said it's really uh, playing Russian Roulette if you do|sd
-A|Uh,|%
+A|Uh,|b
 B|Yeah.|b
-B|About the only circumstances that they'd be of any value is when you happen to already know that the, the, person was coming your way.|sd
+B|About the only circumstances that they'd be of any value is when you happen to already know that the, the, person was coming your way.|sv
 B|Once you're surprised, it's too late.|sv
-A|That's right.|b
+A|That's right.|aa
 B|And, and the rare,|%
-A|That's right.|b
+A|That's right.|aa
 B|you know, the very few of those burglaries actually occur in such a way that you knew the guy was coming,|sd
 A|Right.|b
 B|and had time to do anything about it.|sd
-A|That's right.|b
+A|That's right.|aa
 B|And, I don't have that problem,|sd
 B|as I don't use that argument as saying it's worth keeping one.|sd
 B|In the, uh, N R As, uh, claim that the, uh, the constitutional, the right to bear arms and that whole statement, uh,|sd
-B|it's hard to know the original intent,|sd
+B|it's hard to know the original intent,|sv
 B|but I, I don't see it as that, that difficult of a story to believe when the opposition says that, uh, yeah, it's the right to, to arm a militia and, as opposed to just the general public.|sd
 A|Right.|b
 B|And you have a, you have a earn a right,|sd
-B|not just a privilege as it were if you're going to serve in the militia,|sd
-B|then you have a right to have that arm,|sd
+B|not just a privilege as it were if you're going to serve in the militia,|sv
+B|then you have a right to have that arm,|qy
 B|but, uh,|%
-A|That's right.|b
+A|That's right.|aa
 B|you know, there's all sorts of arguments there|sd
-A|I know|%
+A|I know|sd
 B|but, I don't even want to worry about what the original intent was,|sd
-A|No.|b
+A|No.|qy
 B|they didn't have this problem back then|sd
-A|No,|%
-A|that's true.|b
+A|No,|aa
+A|that's true.|ba
 A|That, That's, that's right,|%
 B|So, we change our rights with our social status.|sd
-A|that's right.|b
+A|that's right.|aa
 B|They're man given rights|sd
 B|and they can be taken away by a man,|sd
 B|so,|%
 A|Right.|b
-B|uh, the people that hide behind that, I don't worry about.|sd
+B|uh, the people that hide behind that, I don't worry about.|sv
 B|They can go live in another country if they want.|sd
 A|Well, yeah,|b
 A|that's how I feel, too.|sd
-A|I know, well,|%
+A|I know, well,|sd
 A|even here where I work, uh, we have a, a gun club.|sd
 A|And, of course, those people are very avid.|sd
 A|They, you know, they say there should be no ban,|sd
 B|Uh-huh.|b
 A|that it's not,|sd
-A|but I can't see why any, uh, on the street citizen should be able to be allowed to have a machine gun.|sd
+A|but I can't see why any, uh, on the street citizen should be able to be allowed to have a machine gun.|sv
 B|Right.|b
-A|Uh, you know, when you were talking about maybe what kind of guns that would be hard to decide,|sv
+A|Uh, you know, when you were talking about maybe what kind of guns that would be hard to decide,|qy
 A|but there are a few guns that, uh, just are not, uh, sport,|sd
-A|or, I mean,|%
+A|or, I mean,|sd
 A|I don't know too many people that use a machine gun to go sport hunting either|sd
 B|Right.|b
-A|So, uh, I, I think they should have at least some control over, over those things.|sd
-A|Uh, and when you were speaking about how they can check up, you know, on credit cards,|sv
+A|So, uh, I, I think they should have at least some control over, over those things.|sv
+A|Uh, and when you were speaking about how they can check up, you know, on credit cards,|sd
 A|well, I, I understand about the privacy act and everything,|sd
-A|but why can't they check to see if the person who is applying for this gun has had a record or not.|sv
-A|That, to me, would not be an unreasonable thing.|sv
+A|but why can't they check to see if the person who is applying for this gun has had a record or not.|sd
+A|That, to me, would not be an unreasonable thing.|sd
 B|Right.|b
-A|And if they do,|sd
+A|And if they do,|%
 A|course the argument with the people in the gun club, uh, is that, uh, well the people that are going to get guns are the ones that are going to steal them anyway.|sv
 B|Right.|b
 A|And so, it's not going to be that they're buying them.|sd
 A|Course, some of them do.|sd
 B|Yeah.|b
 A|So it, it is a hard question|sd
-B|Tends to, tends to strap only the legitimate people.|sd
+B|Tends to, tends to strap only the legitimate people.|sv
 B|Most regulation does|sd
 A|Right,|b
 A|oh, yeah.|b
-B|and, most,|%
+B|and, most,|sd
 B|it's very difficult to, uh, legislate, uh, crooks or whatever you want, however you want to word it|sd
-A|That's right.|b
-B|so it's,|%
+A|That's right.|aa
+B|so it's,|sd
 B|well, this may be a never ending topic.|sd
 B|I got a couple of calls waiting on me,|sd
 B|so I'd better let you go.|sd
-A|Okay,|%
-A|well thanks for talking.|sd
-B|Okay, bye.|%
-A|Bye-bye now.|sd
+A|Okay,|b
+A|well thanks for talking.|fc
+B|Okay, bye.|fc
+A|Bye-bye now.|fc
 A|Night,|%
-B|Fine,|%
-B|thank you.|b
+B|Fine,|qy
+B|thank you.|fc
 A|I understand we're supposed to talk about spaceflight.|sd
 B|Yes.|b
 A|I hope you know more about it than I do.|sd
 B|Oh, well I just got through renting, reading, uh, SPACE by, uh, James Michener.|sd
-A|Oh, is that right?|b
+A|Oh, is that right?|bh
 B|And so that, uh, helped out a little bit I think.|sd
 A|I haven't read his book.|sd
 A|I was so upset with TEXAS that I haven't gotten into any more of his books because I thought it was just horrible.|sd
 B|Well, he tends to go into a lot of detail sometimes.|sd
-A|Well,|%
+A|Well,|b
 A|and I don't think he was truthful in a lot of what he did in TEXAS|sd
 A|so I wasn't sure how credible he was.|sd
-B|Oh, is that right?|b
-A|But anyway, what do you think we've gained from the spaceflights?|qy
+B|Oh, is that right?|qy
+A|But anyway, what do you think we've gained from the spaceflights?|qo
 B|Well uh, I'm not sure to be honest with you,|sd
-B|so, uh, this going to the moon seemed to be a exciting adventure|sd
+B|so, uh, this going to the moon seemed to be a exciting adventure|sv
 B|and, uh, And, yeah,|%
 A|Ego trip.|sd
 B|it was nice to go there,|sd
@@ -3661,40 +3661,40 @@ B|but I don't know that it really benefitted mankind that much.|sd
 A|Uh-huh.|b
 B|I happen to live not too far away from,|sd
 B|uh, well, I've actually worked for the company that, uh, has been blamed for the Challenger disaster. Uh Morton Thiakol.|sd
-A|Oh, is that right?|b
+A|Oh, is that right?|bh
 A|Uh-huh.|b
 B|And, uh, you know, that's been kind of a, a real negative feeling here|sd
-B|is|%
+B|is|sd
 A|Right.|b
-B|sure it was, you know, very unfortunate thing that occurred there|sd
+B|sure it was, you know, very unfortunate thing that occurred there|sv
 B|and it's,|%
-A|Where do you live?|qy
+A|Where do you live?|qo
 B|Uh, we live in, uh, Utah.|sd
 A|You live in|sd
-A|am I talking to Utah right now?|sd
+A|am I talking to Utah right now?|fc
 B|Uh-huh.|b
-A|Oh, oh, great.|b
+A|Oh, oh, great.|ba
 B|Yeah.|b
 A|Because I'm in Dallas.|sd
-B|Uh,|%
+B|Uh,|sd
 B|Oh.|b
 B|I have a sister that lives in Dallas,|sd
 B|that's how we got hooked up to the program was her her husband works for Penney's there.|sd
 A|I see.|sd
 A|I see.|sd
 B|So.|b
-A|Carolyn Rash?|qy
-B|Pardon me?|qy
+A|Carolyn Rash?|qo
+B|Pardon me?|qo
 A|Is her name Rash, Carolyn Rash?|qy
 B|No, her name is, uh, my last name is Skidmore.|sd
-A|I see.|sd
+A|I see.|b
 B|And her, her husband's name is, his last name is Weight.|sd
 A|I see.|sd
 B|And, uh,|%
 A|Well, you probably know a lot about it.|sv
 A|I wasn't sure that they were blaming that space disaster on one company.|sd
 A|I hadn't heard that.|sd
-B|Well, they were.|sd
+B|Well, they were.|%
 B|There was, uh,|%
 B|apparently the specifications for the joints, uh,|sd
 B|they were not to perform in, uh, cold weather|sd
@@ -3710,40 +3710,40 @@ B|I, uh,|%
 B|talked about how a lot of the problems they have to come, overcome to, uh,|sd
 B|it's a very complex, uh, situation to go into space.|sd
 A|Oh, yeah,|b
-A|I would think so, too|sd
-B|They would,|%
+A|I would think so, too|aa
+B|They would,|sd
 B|the thing that he went into quite a bit of detail about how, how much of a problem it is to re-enter the Earth's atmosphere.|sd
 A|You never think about that do you?|qy
 B|Yeah.|b
 A|I would think it would be harder to get up than it would be getting back down.|sv
 B|Yeah|b
 B|But they have to come in at a, just the right angle.|sd
-B|If you come in at the wrong angle, what happens is they bounce off and go back into space|sd
+B|If you come in at the wrong angle, what happens is they bounce off and go back into space|sv
 A|Uh-huh.|b
-B|and if they come into it at a different angle there is so much friction that it burns them up.|sd
+B|and if they come into it at a different angle there is so much friction that it burns them up.|sv
 A|Right.|b
-B|So,|%
+B|So,|sd
 A|Well, I saw one of, some of those early space capsules at Smithsonian.|sd
 A|I'm sure you've seen more of them than I have,|sd
 B|Oh.|b
-A|but you could see the scorch on them, you know,|sd
+A|but you could see the scorch on them, you know,|sv
 B|Uh-huh.|b
 A|they had though piles|sd
 B|Yeah.|b
 A|but you could see where they would come off in the, how hot it got because it was still the scorch on them which was quite interesting.|sd
 B|Yeah,|b
 B|I've, I've, I would say I've never, I've never seen an actual capsule.|sd
-A|Well, I,|%
-A|excuse me, go ahead.|sd
+A|Well, I,|sd
+A|excuse me, go ahead.|^h
 A|Oh, yeah.|b
 B|I've seen more, more of the motors that, that they produced out there.|sd
 A|Uh-huh.|b
-A|Well, these were the ones that John Glenn went up in you know, and the old, old ones.|sv
+A|Well, these were the ones that John Glenn went up in you know, and the old, old ones.|sd
 B|Uh-huh.|b
 B|Yeah.|b
 A|The very first ones,|sd
 A|the little bell type things.|sd
-B|People have commented how, uh, they were surprised at how small they were.|sv
+B|People have commented how, uh, they were surprised at how small they were.|sd
 A|Yeah,|b
 A|they really were,|sd
 A|they just, uh,|%
@@ -3751,113 +3751,113 @@ B|Looked pretty confining, huh.|sd
 A|Oh, yeah,|b
 A|and, uh, the whole thing was small|sd
 A|and, yeah, you, I mean, you actually put it on you know.|sd
-B|Is that right?|qy
+B|Is that right?|bh
 A|You put it around you pretty much,|sd
 A|it was so small.|sd
 B|Huh.|b
 A|Well, I thought there was some medical benefits that we have learned from space,|sd
-A|but did he go into that in the book?|sd
-B|Not really. Uh,|sd
+A|but did he go into that in the book?|qy
+B|Not really. Uh,|b
 A|I guess that's just to sell us on it.|sd
 B|One thing's,|%
 B|I know one thing they've, they've mentioned that I didn't get from the book, by the way,|sd
-B|but, it talked about, uh,|%
-B|they're able to manufacture, uh, different kinds of crystals and ball bearings and things like that in a zero gravity state that they turned out being almost, uh, nearly perfect as far as a ball bearing goes.|sd
+B|but, it talked about, uh,|sd
+B|they're able to manufacture, uh, different kinds of crystals and ball bearings and things like that in a zero gravity state that they turned out being almost, uh, nearly perfect as far as a ball bearing goes.|sv
 A|Oh, yeah.|b
 B|It's perfectly round.|sd
 A|Uh-huh.|b
 B|But I'm not sure you have to go to outer space to achieve that zero gravity.|sd
-A|Well, that's true|%
+A|Well, that's true|aa
 A|and,|%
 B|Yeah.|b
-A|That's right|b
-A|Well, do you think we should continue to support it at the level,|sv
+A|That's right|aa
+A|Well, do you think we should continue to support it at the level,|qy
 A|well, I thought probably one of the things they were doing that they didn't tell us was spying.|sd
-A|Because I think those satellites, you know, or not satellites, but the spaceflights could really spy|sd
+A|Because I think those satellites, you know, or not satellites, but the spaceflights could really spy|sv
 B|Uh-huh.|b
-A|and with, uh with Russia's demise, I didn't know if we should continue to support it at the current level.|sd
+A|and with, uh with Russia's demise, I didn't know if we should continue to support it at the current level.|sv
 B|Yes.|b
 B|Uh, I think they have cut it back, to be honest with you. From, from the glory days when they did the Apollo shots to the moon.|sv
 A|Yeah.|b
 A|Uh.|b
 B|Uh, I appreciate having the satellites.|sd
-B|You know, that's certainly made it nice for other purpose.|sv
-B|I don't know if you have a satellite dish or not.|sv
+B|You know, that's certainly made it nice for other purpose.|sd
+B|I don't know if you have a satellite dish or not.|sd
 B|We don't|sd
-A|No,|%
+A|No,|b
 A|I don't.|sd
 A|I don't either.|sd
 B|but I I know that's certainly helped a lot in that regard. Uh,|sd
 A|Yeah.|b
 A|Well, the topic's about government.|sd
 A|Uh, I'm not altogether sure that that's my best topic. Uh,|sd
-B|I thought it was kind of a strange topic about corruption in the government and uh, how many people are self serving.|sd
+B|I thought it was kind of a strange topic about corruption in the government and uh, how many people are self serving.|sv
 A|Yeah.|b
 A|Uh-huh.|b
 B|I mean, you I, I think people tend to think that the government is not corrupt And that people aren't self serving.|sv
-A|Uh-huh|b
+A|Uh-huh|sd
 A|Uh-huh.|b
 A|Uh-huh.|b
-B|I mean that's what I would like to think.|sv
+B|I mean that's what I would like to think.|sd
 A|Yeah,|b
-A|I, I, I think that the last, uh, part of that question was particularly interesting, uh, about, uh, uh, uh, can all unethical behavior, or how much unethical behavior can be made illegal uh, because it seems to me that when uh, government or public service of any kind degenerates so much that you have to have so many explicit ethical codes uh, parallel to the legal codes that, uh, we're focusing on the wrong thing.|sd
+A|I, I, I think that the last, uh, part of that question was particularly interesting, uh, about, uh, uh, uh, can all unethical behavior, or how much unethical behavior can be made illegal uh, because it seems to me that when uh, government or public service of any kind degenerates so much that you have to have so many explicit ethical codes uh, parallel to the legal codes that, uh, we're focusing on the wrong thing.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Uh-huh,|b
 B|yeah.|b
 A|Maybe, maybe that's what is happening.|sv
-A|Maybe so many things have become public with the media over the past, you know, ten to twenty years that, uh, it becomes more evident.|sd
-A|Perhaps things that we didn't think of before and just concentrated on the lawmaking or the results that would be seen in public works or bills that are passed or, you know, et cetera like that|sd
+A|Maybe so many things have become public with the media over the past, you know, ten to twenty years that, uh, it becomes more evident.|sv
+A|Perhaps things that we didn't think of before and just concentrated on the lawmaking or the results that would be seen in public works or bills that are passed or, you know, et cetera like that|sv
 B|Uh-huh.|b
 A|and we were just not exposed to the personal lives of these persons.|sd
 B|Uh-huh.|b
-A|And I couldn't help thinking when that last it was a funny question when that last part of the question came about how many things can we, uh, actually put a legal code on that, uh, how much, uh, should it be our, uh, prerogative to see into the private lives of these people. You know.|sd
+A|And I couldn't help thinking when that last it was a funny question when that last part of the question came about how many things can we, uh, actually put a legal code on that, uh, how much, uh, should it be our, uh, prerogative to see into the private lives of these people. You know.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|Yeah.|b
 B|Yeah,|b
-B|that makes sense.|sd
+B|that makes sense.|sv
 A|Um.|b
-B|Because you start prying in people's private lives, you ruin their lives as well as,|sv
-A|That's right.|b
-B|And sometimes, you know, I don't even know how much of a difference it really makes, you know.|sv
+B|Because you start prying in people's private lives, you ruin their lives as well as,|sd
+A|That's right.|aa
+B|And sometimes, you know, I don't even know how much of a difference it really makes, you know.|sd
 A|Yeah.|b
-B|I mean, I guess in some cases, sure we care about what they did in the past|sd
+B|I mean, I guess in some cases, sure we care about what they did in the past|sv
 A|Uh-huh.|b
 B|but, uh, sometimes, I don't know|sd
 A|Uh-huh.|b
-B|I think it gets in the way of the better judgment.|sd
-B|I mean just because you did something in the past doesn't mean he's not a good enough person to be a politician.|sd
-A|I, I, I agree with that and, uh, and also that if the results that they're putting out and what they actually seem to be accomplishing by legitimate means is what's, you know, going to the public then, uh, then they'll pay for their private life in their own private conscience.|sd
+B|I think it gets in the way of the better judgment.|sv
+B|I mean just because you did something in the past doesn't mean he's not a good enough person to be a politician.|sv
+A|I, I, I agree with that and, uh, and also that if the results that they're putting out and what they actually seem to be accomplishing by legitimate means is what's, you know, going to the public then, uh, then they'll pay for their private life in their own private conscience.|sv
 B|Uh-huh.|b
 B|Uh-huh.|b
 B|That's it.|sd
 A|And, uh you when it becomes public, though, it becomes scandalous.|sd
 B|Uh-huh.|b
 B|Yeah.|b
-A|The, that's, that's the thing that,|sv
+A|The, that's, that's the thing that,|%
 A|uh, things that you don't know uh, do, do not worm their way around and influence other people or perhaps lead other people astray.|sv
 B|Uh-huh.|b
 B|Yeah.|b
-A|People could say, oh, they do it,|sd
+A|People could say, oh, they do it,|sv
 A|so, I guess, you know,|%
-A|but, as soon as things do get public uh, there, there is that terrible concern.|sd
+A|but, as soon as things do get public uh, there, there is that terrible concern.|sv
 B|Uh-huh.|b
-B|Um|%
+B|Um|b
 A|So, sometimes I ask myself, what are, uh, people doing that are in the media when somebody, you know, comes up to office,|sd
 B|Uh-huh.|b
-A|it seems that one of the first thing that's done is to dig up any kind of a thing they can on them and get it all over the headlines.|sd
+A|it seems that one of the first thing that's done is to dig up any kind of a thing they can on them and get it all over the headlines.|sv
 B|Uh-huh.|b
-B|Oh, yeah|b
-B|I guess it's what sells newspapers, you know.|sv
+B|Oh, yeah|bh
+B|I guess it's what sells newspapers, you know.|sd
 A|It's a very low way of living.|sd
 B|Uh-huh.|b
 A|Uh, so,|%
-A|and, and, and as far as, uh, you know, myself having any particular personal, uh, knowledge or insight into politics or politicians, it, I'm not terribly involved in it.|sd
+A|and, and, and as far as, uh, you know, myself having any particular personal, uh, knowledge or insight into politics or politicians, it, I'm not terribly involved in it.|sv
 B|Uh-huh|b
 A|Just in a very cursory way.|sd
 B|Right.|b
-A|I vote|%
+A|I vote|sd
 A|and I, you know, try to do whatever I can on the little local area,|sd
 A|but, I, I, it just is not one of the things that I have, uh, placed, uh, uh, a, a lot of my particular time and effort into,|sd
 B|Yeah.|b
@@ -3873,13 +3873,13 @@ A|Yeah,|b
 A|right.|b
 B|but I don't really play an active role in any kind of politics|sd
 A|Yeah,|b
-A|uh,|%
+A|uh,|sd
 A|Uh, uh-huh.|b
 A|I'm not, I'm not in there,|sd
 A|I'm not one of those, uh, you know, volunteers that's down at headquarters and whatever, uh, although I admire the people that do that|sd
 A|and they certainly do get inside information|sd
 B|Uh-huh.|b
-A|and, uh, of course, the better you know a person that might be affiliated with that kind of thing, the more you can trust their, their judgment and their insight.|sd
+A|and, uh, of course, the better you know a person that might be affiliated with that kind of thing, the more you can trust their, their judgment and their insight.|sv
 B|Right.|b
 B|Right.|b
 B|Uh-huh.|b
@@ -3888,41 +3888,41 @@ A|I just kind of read and kind of be aware|sd
 B|Yeah.|b
 A|and then, uh, I don't like to make a whole lot of, uh, judgment myself unless things are so absolutely out of whack that, uh,|sd
 B|Yeah.|b
-B|All right,|b
-B|well do you play any musical instruments or,|sv
-A|No,|%
+B|All right,|sd
+B|well do you play any musical instruments or,|qy
+A|No,|qy
 A|I don't play any.|sd
 A|I used to.|sd
-B|Oh well,|%
+B|Oh well,|b
 A|I think everybody took piano lessons|sd
 A|so,|%
-B|Everybody,|%
+B|Everybody,|sd
 B|sure.|b
 B|I, I started when I was in, uh, third grade,|sd
 B|and I've, I still play the piano as of today.|sd
 A|Do you?|qy
 B|Yes,|b
 B|I do.|sd
-A|I started,|%
+A|I started,|sd
 A|I think I was in the fifth grade|sd
 A|and I played it for maybe three months|sd
 B|But, then, again, I was also in, uh, the marching band.|sd
 B|I played the drums,|sd
 B|I played the clarinet,|sd
 B|I played the trumpet.|sd
-A|Wow|%
-B|Uh, you know, whatever|%
+A|Wow|sd
+B|Uh, you know, whatever|sd
 B|and so I, I still sing,|sd
 B|and I sing in the choir today|sd
-B|so,|%
-A|All right|b
+B|so,|sd
+A|All right|sd
 B|I I enjoy the music,|sd
 B|it gives me an out.|sd
 A|Yeah.|b
 B|It always sounds like,|sd
 B|for my playing the piano when I was depressed and didn't have anything else to do and there was no one to play with I could always go play with the piano, you know.|sd
-A|True|b
-B|So, how long did you play?|qy
+A|True|sd
+B|So, how long did you play?|qo
 A|Only for about three months.|sd
 B|Three months.|sd
 A|Yeah,|b
@@ -3930,33 +3930,33 @@ A|me and my brother both took the classes|sd
 A|and we got pretty bored quick|sd
 B|I was going to say, you got as far as the, uh, chop sticks, huh.|sd
 A|Um, well, I could play, uh, the wood chuck song.|sd
-B|Oh, the wood chuck song|%
+B|Oh, the wood chuck song|sd
 A|And I still can to this date.|sd
 B|And your mother's saying, and although, the money that we spent for those piano lessons this is all we got was the wood chuck song|sd
 A|Yeah.|b
-A|Yep,|%
+A|Yep,|b
 A|they went out and bought us a piano|sd
 A|and for three months|sd
-B|Oh, bless your heart.|sd
-B|Did you ever, did you ever just bang on it or do anything with it at all.|sv
+B|Oh, bless your heart.|b
+B|Did you ever, did you ever just bang on it or do anything with it at all.|qy
 A|Oh, yeah,|b
 A|any time I got bored|sd
-B|Oh, okay,|%
-B|but I mean, can you play anything on it, other than wood chuck song?|qy
-A|No.|b
-B|No.|b
-A|And Jaws,|%
+B|Oh, okay,|b
+B|but I mean, can you play anything on it, other than wood chuck song?|sd
+A|No.|qy
+B|No.|qy
+A|And Jaws,|sd
 A|but I think everybody can.|sd
-B|Okay.|b
+B|Okay.|qw
 B|I I, I can still read music if I'm lucky|sd
-B|because I,|%
+B|because I,|sd
 B|if I work real hard I can still barely read the music,|sd
 B|but, see, I played the piano from the third grade all the way through high school,|sd
 A|Yeah.|b
-B|so|%
+B|so|sd
 A|Yeah.|b
 B|I played uh, concertos and other stuff|sd
-B|but,|%
+B|but,|sd
 B|I got to the point where I wasn't really reading music, I was memorizing music,|sd
 B|so because of that, I can't read music as well as I used to,|sd
 B|but anyway,|%
@@ -3968,11 +3968,11 @@ B|and I still enjoy, uh, singing in the choir|sd
 B|so,|%
 A|Do you sing at choir at your church?|qy
 B|Yes,|b
-B|I do.|sd
+B|I do.|b
 A|Yeah.|b
 B|Yes,|b
 B|I do.|sd
-B|That's,|%
+B|That's,|sv
 B|in fact, that's about the only musical thing that I still do is sing in the choir.|sd
 A|Yeah.|b
 A|I tried out for choir when I was, think, in the seventh grade|sd
@@ -3982,10 +3982,10 @@ B|Well, I sing in the choir,|sd
 B|I do know if they want me to or not,|sd
 B|but at least I do sing in it|sd
 A|Yeah,|b
-B|That's pretty good.|sd
-B|Well,|%
+B|That's pretty good.|ba
+B|Well,|b
 A|I never really learned the music or anything.|sd
-A|I never learned,|%
+A|I never learned,|sd
 A|I got right to where I was figuring out where all the keys were on the piano|sd
 A|and that's about when I quit.|sd
 B|I was at,|sd
@@ -4001,20 +4001,20 @@ B|I gave up.|sd
 A|Yeah.|b
 B|Course, my mom thought I was,|sd
 B|but, uh, you know,|%
-A|Of course,|%
+A|Of course,|aa
 A|parents always do.|sd
 B|Oh, yeah,|b
-B|so,|%
+B|so,|b
 A|They're nice that way.|sd
-B|Yes.|b
-B|Well, what else can we uh, talk about,|sd
-B|uh,|%
-A|Uh, well, I don't,|%
-A|so you listen to kind of church music, gospel?|sd
-B|No,|%
-B|no,|%
+B|Yes.|qo
+B|Well, what else can we uh, talk about,|qw
+B|uh,|b
+A|Uh, well, I don't,|sd
+A|so you listen to kind of church music, gospel?|qy
+B|No,|b
+B|no,|b
 B|I, I listen to K V I L.|sd
-A|Oh, yeah?|b
+A|Oh, yeah?|bh
 B|Yeah.|b
 A|Yeah.|b
 B|So I listen to the radio,|sd
@@ -4026,53 +4026,53 @@ A|Oh, yeah,|b
 A|the jeezer music as I call it.|sd
 B|Oh, the jeezer music.|sd
 A|Yeah.|b
-B|Oh, okay,|%
-B|well,|%
+B|Oh, okay,|b
+B|well,|sd
 A|My boss listens to that.|sd
 A|We listen to ninety-seven point nine|sd
 A|and that's his station, so I call it the jeezer music.|sd
-B|Okay,|%
-B|now what kind of music do you listen to?|qy
+B|Okay,|b
+B|now what kind of music do you listen to?|qw
 A|Well, I listen to like ninety-seven point one, you know, more,|sd
-B|What what is that?|qy
-A|It's more, uh,|%
+B|What what is that?|qo
+A|It's more, uh,|sd
 A|I don't know how to explain it,|sd
 A|kind of pop, you know, rock.|sd
 B|Rock.|b
 A|Yeah.|b
 B|Hard rock?|qy
-A|Well, not hard|%
+A|Well, not hard|sd
 B|Not hard rock.|sd
 A|Just kind of,|%
 B|Not like the eagle.|sd
-A|Huh?|qy
+A|Huh?|qo
 B|Is that the eagle?|qy
 A|Yeah.|b
-B|Okay,|%
+B|Okay,|fc
 B|I know, I know what the eagle is.|sd
-A|It's not too hard,|sd
-A|it's,|%
-B|That's not too hard.|sd
+A|It's not too hard,|sv
+A|it's,|sd
+B|That's not too hard.|sv
 A|You know.|b
 A|But it's not enough to put you to sleep|sd
-B|True,|%
+B|True,|sd
 B|true.|b
 A|Which some of the songs on K V I L can.|sd
 B|Well, course, see, I listen to K V I L for the contests.|sd
-B|I mean|%
+B|I mean|sd
 A|Oh, yeah,|b
-A|got the bumper sticker, too?|sd
-B|Oh, yes,|b
+A|got the bumper sticker, too?|qy
+B|Oh, yes,|ny
 B|oh, yes.|b
 B|You can't drive a car without bumper sticker|sd
-B|and you know they're going to call you up.|sv
-A|Someday.|b
+B|and you know they're going to call you up.|sd
+A|Someday.|sd
 B|Yeah|b
-B|Well, listen, I've enjoyed talking.|sd
+B|Well, listen, I've enjoyed talking.|fc
 B|I, I'm sure that the switchboard will probably give us that sign off message very shortly anyway.|sd
 A|Okay.|b
 B|I appreciate it.|sd
 A|Okay.|b
-B|Catch you later.|sd
-A|Bye-bye.|b
-B|Bye-bye.|b
+B|Catch you later.|sv
+A|Bye-bye.|fc
+B|Bye-bye.|fc

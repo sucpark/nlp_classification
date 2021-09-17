@@ -13,13 +13,12 @@ from torch.utils.tensorboard import SummaryWriter
 
 parser = argparse.ArgumentParser(description="Training nlp classification model")
 parser.add_argument('--data_dir', default='dataset', help="Directory containing data")
-parser.add_argument('--save_dir', default='experiment')
+parser.add_argument('--save_dir', default='experiment', help="Directory containing experiment result")
 parser.add_argument('--data_name', default='SDAC')
 
 parser_for_training = parser.add_argument_group(title='Training')
 parser_for_training.add_argument('--epoch', default=100, type=int)
 parser_for_training.add_argument('--batch_size', dest='n_batch', default=64, type=int)
-# parser_for_training.add_argument('--max_len', default=256, type=int)
 parser_for_training.add_argument('--learning_rate', dest='lr', default=1e-5, type=float)
 parser_for_training.add_argument('--embedding_dim', default=512, type=int)
 parser_for_training.add_argument('--hidden_size', default=512, type=int)
@@ -32,8 +31,8 @@ if __name__ == "__main__":
     args = parser.parse_args()
     data_dir = Path(args.data_dir) / args.data_name
     save_dir = Path(args.save_dir) / args.data_name
-    train_data_name = 'sw_train.txt'
-    valid_data_name = 'sw_val.txt'
+    train_data_name = 'sw_train.csv'
+    valid_data_name = 'sw_val.csv'
     token2idx_name = 'word2idx.json'
     label2idx_name = 'label2idx.json'
 
@@ -49,8 +48,8 @@ if __name__ == "__main__":
     idx2token = {i: t for t, i in token2idx.items()}
     idx2label = {i: l for l, i in label2idx.items()}
 
-    train_data = pd.read_csv(data_dir / train_data_name, header=None, sep='|', names=['speaker', 'utterance', 'tag'])
-    valid_data = pd.read_csv(data_dir / valid_data_name, header=None, sep='|', names=['speaker', 'utterance', 'tag'])
+    train_data = pd.read_csv(data_dir / train_data_name, header=None, sep=',', names=['speaker', 'utterance', 'tag'])
+    valid_data = pd.read_csv(data_dir / valid_data_name, header=None, sep=',', names=['speaker', 'utterance', 'tag'])
 
     x_train, y_train = train_data['utterance'], train_data['tag']
     x_valid, y_valid = valid_data['utterance'], valid_data['tag']

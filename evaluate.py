@@ -10,21 +10,20 @@ from torch.utils.tensorboard import SummaryWriter
 
 parser = argparse.ArgumentParser(description="Evaluating nlp classification model")
 parser.add_argument('--data_dir', default='dataset', help="Directory containing data")
-parser.add_argument('--save_dir', default='experiment')
+parser.add_argument('--save_dir', default='experiment', help="Directory containing experiment results")
 parser.add_argument('--data_name', default='SDAC')
 
 parser_for_training = parser.add_argument_group(title='Evaluating')
-parser_for_training.add_argument('--max_len', default=256, type=int)
 parser_for_training.add_argument('--learning_rate', dest='lr', default=1e-5, type=float)
-parser_for_training.add_argument('--embedding_dim', default=128, type=int)
-parser_for_training.add_argument('--hidden_size', default=256, type=int)
+parser_for_training.add_argument('--embedding_dim', default=512, type=int)
+parser_for_training.add_argument('--hidden_size', default=512, type=int)
 parser_for_training.add_argument('--layer_size', dest='n_layers', default=2, type=int)
 
 if __name__ == "__main__":
     args = parser.parse_args()
     data_dir = Path(args.data_dir) / args.data_name
     save_dir = Path(args.save_dir) / args.data_name
-    test_data_name = 'sw_test.txt'
+    test_data_name = 'sw_test.csv'
     token2idx_name = 'word2idx.json'
     label2idx_name = 'label2idx.json'
 
@@ -41,6 +40,8 @@ if __name__ == "__main__":
     output_size = len(label2idx)
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    if device.type == 'cuda':
+        print('GPU is available')
     model = LSTMClassifier(output_size, args.hidden_size, vocab_size, args.n_layers,
                            args.embedding_dim, device, bidirectional=True)
     model.to(device)
@@ -48,11 +49,12 @@ if __name__ == "__main__":
     writer = SummaryWriter(f'{save_dir}/runs')
     checkpoint_manager = CheckpointManager(save_dir)
     summary_manager = SummaryManager(save_dir)
-
+    
+    print('Load pretrained model')
     ckpt = checkpoint_manager.load_checkpoint('best.tar')
     model.load_state_dict(ckpt['model_state_dict'])
 
-    test_data = pd.read_csv(data_dir / test_data_name, header=None, sep='|', names=['speaker', 'utterance'])
+    test_data = pd.read_csv(data_dir / test_data_name, header=None, sep=',', names=['speaker', 'utterance'])
     x_test = test_data['utterance']
     y_fake = [0] * len(x_test)
     text_preprocess_pipeline = [sent_tokenize, stemming]
@@ -64,4 +66,4 @@ if __name__ == "__main__":
 
     y_pred = [idx2label[p] for p in predicates]
     test_data['prediction'] = y_pred
-    test_data.to_csv(save_dir / test_data_name, sep='|', index=False, header=False)
+    test_data.to_csv(save_dir / test_data_name, sep=',', index=False, header=False)

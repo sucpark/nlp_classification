@@ -12,15 +12,15 @@ if __name__ == "__main__":
     args = parser.parse_args()
     data_dir = Path(args.data_dir)
     data_name = Path(args.data_name)
-    train_data_name = 'sw_train.txt'
-    valid_data_name = 'sw_val.txt'
-    test_data_name = 'sw_test.txt'
+    train_data_name = 'sw_train.csv'
+    valid_data_name = 'sw_val.csv'
+    test_data_name = 'sw_test.csv'
 
-    train_data = pd.read_csv(data_dir / data_name / train_data_name, header=None, sep='|',
+    train_data = pd.read_csv(data_dir / data_name / train_data_name, header=None, sep=',',
                              names=['speaker', 'utterance', 'tag'])
-    valid_data = pd.read_csv(data_dir / data_name / valid_data_name, header=None, sep='|',
+    valid_data = pd.read_csv(data_dir / data_name / valid_data_name, header=None, sep=',',
                              names=['speaker', 'utterance', 'tag'])
-    test_data = pd.read_csv(data_dir / data_name / test_data_name, header=None, sep='|',
+    test_data = pd.read_csv(data_dir / data_name / test_data_name, header=None, sep=',',
                             names=['speaker', 'utterance'])
 
     data = pd.concat([train_data['utterance'], valid_data['utterance'], test_data['utterance']], axis=0,
