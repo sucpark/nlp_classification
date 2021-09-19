@@ -54,7 +54,7 @@ if __name__ == "__main__":
     ckpt = checkpoint_manager.load_checkpoint('best.tar')
     model.load_state_dict(ckpt['model_state_dict'])
 
-    test_data = pd.read_csv(data_dir / test_data_name, header=None, sep=',', names=['speaker', 'utterance'])
+    test_data = pd.read_csv(data_dir / test_data_name, header=None, sep='|', names=['speaker', 'utterance'])
     x_test = test_data['utterance']
     y_fake = [0] * len(x_test)
     text_preprocess_pipeline = [sent_tokenize, stemming]
@@ -66,4 +66,5 @@ if __name__ == "__main__":
 
     y_pred = [idx2label[p] for p in predicates]
     test_data['prediction'] = y_pred
-    test_data.to_csv(save_dir / test_data_name, sep=',', index=False, header=False)
+    test_data = test_data.apply('|'.join, axis=1)
+    test_data.to_csv(save_dir / test_data_name, index=False, header=False)

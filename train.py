@@ -48,8 +48,8 @@ if __name__ == "__main__":
     idx2token = {i: t for t, i in token2idx.items()}
     idx2label = {i: l for l, i in label2idx.items()}
 
-    train_data = pd.read_csv(data_dir / train_data_name, header=None, sep=',', names=['speaker', 'utterance', 'tag'])
-    valid_data = pd.read_csv(data_dir / valid_data_name, header=None, sep=',', names=['speaker', 'utterance', 'tag'])
+    train_data = pd.read_csv(data_dir / train_data_name, header=None, sep='|', names=['speaker', 'utterance', 'tag'])
+    valid_data = pd.read_csv(data_dir / valid_data_name, header=None, sep='|', names=['speaker', 'utterance', 'tag'])
 
     x_train, y_train = train_data['utterance'], train_data['tag']
     x_valid, y_valid = valid_data['utterance'], valid_data['tag']
